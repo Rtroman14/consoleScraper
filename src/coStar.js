@@ -93,5 +93,5 @@ while (run) {
     await delay(3000);
     nextPage.click();
 
-    run = false;
+    // run = false;
 }
