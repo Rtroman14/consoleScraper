@@ -1,4 +1,4 @@
-let exportFile = (data, filename) => {
+const exportFile = (data, filename) => {
     if (!data) {
         console.error("Console.save: No data");
         return;

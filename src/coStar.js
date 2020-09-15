@@ -6,7 +6,7 @@ const getText = async (doc, selector) => {
     return await doc.querySelector(selector).innerText;
 };
 
-let getContactInfo = (contacts, coStar, section) => {
+const getContactInfo = (contacts, coStar, section) => {
     for (let [i, contact] of contacts.entries()) {
         let contactSpans = contact.querySelectorAll("figcaption > address > *");
         // go into each span on contacts contact info
@@ -23,7 +23,7 @@ let getContactInfo = (contacts, coStar, section) => {
     }
 };
 
-let getSections = async (coStar, sectionTitle, contactSection) => {
+const getSections = async (coStar, sectionTitle, contactSection) => {
     coStar[`${sectionTitle}_Company`] = await getText(
         contactSection,
         ".contact-section address > a"
@@ -40,9 +40,12 @@ let getSections = async (coStar, sectionTitle, contactSection) => {
     }
 };
 
+const delay = (ms) => new Promise((res) => setTimeout(res, ms));
+
 let pages = 0;
 
 while (run) {
+    await delay(8000);
     let coStar = {};
 
     pages++;
@@ -81,14 +84,14 @@ while (run) {
 
     let nextPage = document.querySelector("#NewSearchNavigationLayout_NavigationButtons > a ~ a");
 
-    // nextPage.click();
-    console.log("Next page");
-
     allData.push(coStar);
 
     if (pages % 10 === 0) {
         exportFile(allData, `coStart_Pages 0-${pages}.json`);
     }
+
+    await delay(3000);
+    nextPage.click();
 
     run = false;
 }
