@@ -1,0 +1,3515 @@
+[
+    {
+        "address": "631 S Richland Ave - Building 200-600 York, PA 17403",
+        "sf": "1,600,000",
+        "built": "1927",
+        "primaryLeasingCompany_Company": "Rock Commercial Real Estate, LLC",
+        "primaryLeasingCompany_Name_1": "David Bode, CCIM, SIOR",
+        "primaryLeasingCompany_Phone_1": "(717) 891-1086 (m)",
+        "primaryLeasingCompany_Email_1": "dbode@rockrealestate.net",
+        "primaryLeasingCompany_Name_2": "Kevin Hodge",
+        "primaryLeasingCompany_Phone_2": "(717) 887-7533 (m)",
+        "primaryLeasingCompany_Email_2": "khodge@rockrealestate.net",
+        "trueOwner_Company": "Patriot Equities L.P.",
+        "trueOwner_Name_1": "Michael Kolar",
+        "trueOwner_Email_1": "mkolar@patriotequities.com"
+    },
+    {
+        "address": "400-500 S Muddy Creek Rd - Albertsons Distribution Center Denver, PA 17517",
+        "sf": "1,539,407",
+        "trueOwner_Company": "U.S. Realty Advisors LLC",
+        "trueOwner_Name_1": "Richard Ader",
+        "trueOwner_Email_1": "rader@usrallc.com"
+    },
+    {
+        "address": "601-651 Memory Ln - York Business Center York, PA 17402",
+        "sf": "1,517,340",
+        "primaryLeasingCompany_Company": "Equity Industrial Partners",
+        "primaryLeasingCompany_Name_1": "Bruce Levine",
+        "primaryLeasingCompany_Email_1": "blevine@eipcorp.net",
+        "trueOwner_Company": "Equity Industrial Partners",
+        "trueOwner_Name_1": "Bruce Levine",
+        "trueOwner_Email_1": "blevine@eipcorp.net",
+        "propertyManagement_Company": "Equity Industrial Partners"
+    },
+    {
+        "address": "7771 Washington Ln - Lynnewood Gardens Elkins Park, PA 19027",
+        "built": "1945",
+        "trueOwner_Company": "Cammeby's International",
+        "propertyManagement_Company": "JCM - Lynnewood Gardens"
+    },
+    {
+        "address": "122 Mill Rd Oaks, PA 19456",
+        "sf": "1,305,221",
+        "built": "1928",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "primaryLeasingCompany_Name_2": "Justin Call",
+        "primaryLeasingCompany_Phone_2": "(610) 721-7649 (m)",
+        "primaryLeasingCompany_Email_2": "jcall@audubonland.com",
+        "trueOwner_Company": "Suburban Management Company, Inc.",
+        "trueOwner_Name_1": "Gene Call",
+        "trueOwner_Phone_1": "(610) 721-6900 (m)",
+        "trueOwner_Email_1": "gcall@audubonland.com",
+        "propertyManagement_Company": "Suburban Management Company, Inc.",
+        "propertyManagement_Name_1": "Gene Call",
+        "propertyManagement_Phone_1": "(610) 721-6900 (m)",
+        "propertyManagement_Email_1": "gcall@audubonland.com"
+    },
+    {
+        "address": "500 N Lingle Rd - Hershey Palmyra, PA 17078",
+        "sf": "1,281,796",
+        "built": "2000",
+        "trueOwner_Company": "The Hershey Company",
+        "trueOwner_Name_1": "Susan Angele",
+        "trueOwner_Email_1": "sangele@yahoo.com"
+    },
+    {
+        "address": "1480 Manheim Pike - Alcoa- North American Rolled Products Lancaster, PA 17601",
+        "sf": "1,246,604",
+        "built": "1968",
+        "trueOwner_Company": "Arconic, Inc."
+    },
+    {
+        "address": "1 Terminal Dr - Harrisburg International Airport Middletown, PA 17057",
+        "built": "1986",
+        "primaryLeasingCompany_Company": "RE/MAX Delta Group",
+        "primaryLeasingCompany_Name_1": "Michael Yingling",
+        "primaryLeasingCompany_Phone_1": "(717) 648-8303 (m)",
+        "primaryLeasingCompany_Email_1": "myingling@remax.net",
+        "trueOwner_Company": "Susquehanna Area Regional & Ai"
+    },
+    {
+        "address": "770 Sumneytown Pike - Merck West Point Plant West Point, PA 19486",
+        "sf": "1,161,429",
+        "built": "1950",
+        "primaryLeasingCompany_Company": "Merck & Company Inc.",
+        "trueOwner_Company": "Merck & Co. Inc",
+        "trueOwner_Name_1": "John Wilkinson",
+        "propertyManagement_Company": "Merck & Co., Inc.",
+        "propertyManagement_Name_1": "Chris Broome",
+        "propertyManagement_Email_1": "christopher.broome@merck.com"
+    },
+    {
+        "address": "142 Park City Ctr - Park City Center Lancaster, PA 17601",
+        "primaryLeasingCompany_Company": "Brookfield Properties Retail Group",
+        "primaryLeasingCompany_Name_1": "Marc Kanuk",
+        "primaryLeasingCompany_Phone_1": "(646) 553-2312 (m)",
+        "primaryLeasingCompany_Email_1": "marc.kanuk@ggp.com",
+        "trueOwner_Company": "Brookfield Property REIT Inc.",
+        "propertyManagement_Company": "Brookfield Properties Retail Group",
+        "propertyManagement_Name_1": "Rachel Gallagher",
+        "propertyManagement_Email_1": "Rachel.Gallagher@brookfieldpropertiesretail.com"
+    },
+    {
+        "address": "1680 E Circle Dr Oaks, PA 19456",
+        "sf": "1,100,000",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "primaryLeasingCompany_Name_2": "Justin Call",
+        "primaryLeasingCompany_Phone_2": "(610) 721-7649 (m)",
+        "primaryLeasingCompany_Email_2": "jcall@audubonland.com",
+        "trueOwner_Company": "Suburban Management Company, Inc.",
+        "trueOwner_Name_1": "Gene Call",
+        "trueOwner_Phone_1": "(610) 721-6900 (m)",
+        "trueOwner_Email_1": "gcall@audubonland.com"
+    },
+    {
+        "address": "600 Memory Ln - Caterpillar-York Distribution Center York, PA 17402",
+        "sf": "1,068,680",
+        "built": "1952",
+        "trueOwner_Company": "Caterpillar Inc."
+    },
+    {
+        "address": "160 N Gulph Rd - The Plaza at King of Prussia King of Prussia, PA 19406",
+        "primaryLeasingCompany_Company": "Seritage Growth Properties",
+        "primaryLeasingCompany_Name_1": "Connor Nolan",
+        "primaryLeasingCompany_Phone_1": "(203) 767-6712 (m)",
+        "primaryLeasingCompany_Email_1": "cnolan@seritage.com",
+        "trueOwner_Company": "Simon Property Group, Inc.",
+        "trueOwner_Name_1": "David Simon",
+        "trueOwner_Phone_1": "(317) 636-1600 (m)",
+        "trueOwner_Email_1": "dsimon@simon.com",
+        "propertyManagement_Company": "Simon Property Group, Inc.",
+        "propertyManagement_Name_1": "Robert Hart"
+    },
+    {
+        "address": "2760 Red Lion Rd - TJX Distribution Center Philadelphia, PA 19114",
+        "sf": "1,015,500",
+        "built": "2001",
+        "primaryLeasingCompany_Company": "VEREIT, Inc.",
+        "primaryLeasingCompany_Name_1": "Gary Landriau",
+        "primaryLeasingCompany_Phone_1": "(917) 885-1835 (m)",
+        "primaryLeasingCompany_Email_1": "glandriau@vereit.com",
+        "trueOwner_Company": "VEREIT, Inc.",
+        "trueOwner_Name_1": "Brett Sheets",
+        "trueOwner_Phone_1": "(602) 908-8837 (m)",
+        "trueOwner_Email_1": "bsheets@vereit.com",
+        "propertyManagement_Company": "VEREIT, Inc.",
+        "propertyManagement_Name_1": "Karen Halpert",
+        "propertyManagement_Phone_1": "(480) 213-5974 (m)",
+        "propertyManagement_Email_1": "KHalpert@VEREIT.com"
+    },
+    {
+        "address": "300 S Salem Church Rd - Goodyear Tire & Rubber Company York, PA 17408",
+        "sf": "1,004,093",
+        "built": "2001",
+        "primaryLeasingCompany_Company": "VEREIT, Inc.",
+        "primaryLeasingCompany_Name_1": "Gary Landriau",
+        "primaryLeasingCompany_Phone_1": "(917) 885-1835 (m)",
+        "primaryLeasingCompany_Email_1": "glandriau@vereit.com",
+        "trueOwner_Company": "VEREIT, Inc.",
+        "trueOwner_Name_1": "Brett Sheets",
+        "trueOwner_Phone_1": "(602) 908-8837 (m)",
+        "trueOwner_Email_1": "bsheets@vereit.com",
+        "propertyManagement_Company": "VEREIT, Inc.",
+        "propertyManagement_Name_1": "Karen Halpert",
+        "propertyManagement_Phone_1": "(480) 213-5974 (m)",
+        "propertyManagement_Email_1": "KHalpert@VEREIT.com"
+    },
+    {
+        "address": "139 Modina Rd Coatesville, PA 19320",
+        "sf": "1,000,000",
+        "built": "1965",
+        "primaryLeasingCompany_Company": "Lukens Inc.",
+        "trueOwner_Company": "Lukens Inc."
+    },
+    {
+        "address": "3501 Paxton St - Harrisburg Mall Harrisburg, PA 17111",
+        "primaryLeasingCompany_Company": "St. John Properties",
+        "primaryLeasingCompany_Name_1": "Bill Holzman",
+        "primaryLeasingCompany_Phone_1": "(443) 388-3003 (m)",
+        "primaryLeasingCompany_Email_1": "bholzman@sjpi.com",
+        "primaryLeasingCompany_Name_2": "Eric Llewellyn",
+        "primaryLeasingCompany_Phone_2": "(443) 826-4048 (m)",
+        "primaryLeasingCompany_Email_2": "ellewellyn@sjpi.com",
+        "trueOwner_Company": "Petrie Richardson Ventures",
+        "trueOwner_Name_1": "Phillip Ross",
+        "trueOwner_Email_1": "pr@petrieross.com"
+    },
+    {
+        "address": "7050 Camp Hill Rd - McNeil Consumer Healthcare Plant Fort Washington, PA 19034",
+        "sf": "909,541",
+        "built": "1961",
+        "trueOwner_Company": "Johnson & Johnson"
+    },
+    {
+        "address": "650 Bentley Ridge Blvd - Bentley Ridge Apartments Lancaster, PA 17602",
+        "built": "1990",
+        "trueOwner_Company": "High Associates Ltd.",
+        "propertyManagement_Company": "High Associates - Bentley Ridge Apartments"
+    },
+    {
+        "address": "221 S 10th St Lemoyne, PA 17043",
+        "sf": "885,802",
+        "built": "1997",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Patrick McBride",
+        "primaryLeasingCompany_Phone_1": "(717) 919-1689 (m)",
+        "primaryLeasingCompany_Email_1": "pat.mcbride@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Gerry Blinebury",
+        "primaryLeasingCompany_Phone_2": "(267) 303-0751 (m)",
+        "primaryLeasingCompany_Email_2": "gerry.blinebury@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Adam Campbell",
+        "primaryLeasingCompany_Phone_3": "(717) 798-4514 (m)",
+        "primaryLeasingCompany_Email_3": "adam.campbell@cushwake.com",
+        "primaryLeasingCompany_Name_4": "Allie Rank",
+        "primaryLeasingCompany_Phone_4": "(717) 503-4237 (m)",
+        "primaryLeasingCompany_Email_4": "allie.rank@cushwake.com",
+        "trueOwner_Company": "Blackstone Real Estate Income Trust, Inc."
+    },
+    {
+        "address": "300 Avon Rd - Stonegate at Devon Apartment Homes Devon, PA 19333",
+        "built": "1963",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Stonegate at Devon Apartment Homes"
+    },
+    {
+        "address": "51 Oakland Ave West Grove, PA 19390",
+        "built": "1963",
+        "trueOwner_Company": "M V LaFrance Electric",
+        "trueOwner_Name_1": "Michael LaFrance"
+    },
+    {
+        "address": "999 Briarcrest Dr - Briarcrest Gardens Hershey, PA 17033",
+        "built": "2000",
+        "trueOwner_Company": "Horst Realty Company, LLC",
+        "trueOwner_Name_1": "Steve Horst",
+        "trueOwner_Email_1": "shorst@horstrealty.com",
+        "propertyManagement_Company": "Horst Realty - Briarcrest Gardens"
+    },
+    {
+        "address": "1375 Harrisburg Pike - LSC Communications Lancaster, PA 17601",
+        "sf": "814,734",
+        "built": "1973",
+        "trueOwner_Company": "Commonwealth of PA Dept. of Transportation"
+    },
+    {
+        "address": "360 Independence Ave - Reckitt Benckiser Mechanicsburg, PA 17055",
+        "sf": "812,425",
+        "built": "2002",
+        "primaryLeasingCompany_Company": "New York Life Insurance Company",
+        "trueOwner_Company": "New York Life Real Estate Investors",
+        "trueOwner_Name_1": "Brian Seaman",
+        "trueOwner_Phone_1": "(415) 608-7114 (m)",
+        "trueOwner_Email_1": "brian_seaman@nylinvestors.com"
+    },
+    {
+        "address": "125 Green Tree Rd - Greentree Logistics Center Phoenixville, PA 19460",
+        "sf": "811,455",
+        "built": "1988",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Paul Torosian",
+        "primaryLeasingCompany_Phone_1": "(609) 410-8755 (m)",
+        "primaryLeasingCompany_Email_1": "paul.torosian@am.jll.com",
+        "trueOwner_Company": "Goldman Sachs & Co. LLC",
+        "trueOwner_Name_1": "John Waldron",
+        "trueOwner_Email_1": "john.waldron@gs.com"
+    },
+    {
+        "address": "600 Industrial Dr Lewisberry, PA 17339",
+        "sf": "800,000",
+        "built": "2006",
+        "primaryLeasingCompany_Company": "Prologis, Inc.",
+        "primaryLeasingCompany_Name_1": "Justin Fanslau",
+        "primaryLeasingCompany_Phone_1": "(267) 664-7275 (m)",
+        "primaryLeasingCompany_Email_1": "jfanslau@prologis.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis, Inc.",
+        "propertyManagement_Name_1": "Sally Hutchinson",
+        "propertyManagement_Email_1": "shutchinson@libertyproperty.com"
+    },
+    {
+        "address": "4875 Susquehanna Trl - ES3 LLC Bldg 1 York, PA 17406",
+        "sf": "790,000",
+        "built": "2002",
+        "trueOwner_Company": "Ahold Delhaize"
+    },
+    {
+        "address": "230 Mall Blvd - Bldg 1 King of Prussia, PA 19406",
+        "sf": "786,204",
+        "built": "1961",
+        "trueOwner_Company": "Lockheed Martin Corporation"
+    },
+    {
+        "address": "325 S Salem Church Rd - Target Distribution Center York, PA 17408",
+        "sf": "785,400",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Joseph McDermott",
+        "primaryLeasingCompany_Email_1": "joe.mcdermott@cbre.com",
+        "trueOwner_Company": "Northwestern Mutual Life Insurance Company"
+    },
+    {
+        "address": "1665 State Hill Rd - Berkshire Mall Wyomissing, PA 19610",
+        "built": "1970",
+        "primaryLeasingCompany_Company": "Mason Asset Management Inc",
+        "primaryLeasingCompany_Name_1": "Igal Nassim",
+        "primaryLeasingCompany_Phone_1": "(201) 888-6453 (m)",
+        "primaryLeasingCompany_Email_1": "Igal@masonam.com",
+        "trueOwner_Company": "Allied Properties",
+        "propertyManagement_Company": "Allied Properties"
+    },
+    {
+        "address": "9896 Bustleton Ave - Paul’s Run Retirement Community Philadelphia, PA 19115",
+        "built": "1981"
+    },
+    {
+        "address": "211 Willow Valley Sq - Arbor View Lancaster, PA 17602",
+        "built": "1985",
+        "trueOwner_Company": "Willow Valley Associates Inc."
+    },
+    {
+        "address": "216 Greenfield Rd Lancaster, PA 17601",
+        "sf": "758,973",
+        "built": "1957",
+        "trueOwner_Company": "LSC Communications, Inc."
+    },
+    {
+        "address": "1900 Pineford Dr - Village of Pineford Apartments Middletown, PA 17057",
+        "built": "1954",
+        "primaryLeasingCompany_Company": "Horst Realty Company, LLC",
+        "primaryLeasingCompany_Name_1": "Bill Horst",
+        "primaryLeasingCompany_Email_1": "bhorst@horstrealty.com",
+        "primaryLeasingCompany_Name_2": "Michelle Ebert",
+        "primaryLeasingCompany_Phone_2": "(717) 823-1029 (m)",
+        "primaryLeasingCompany_Email_2": "mebert@horstrealty.com",
+        "trueOwner_Company": "Horst Realty Company, LLC",
+        "trueOwner_Name_1": "Bill Horst",
+        "trueOwner_Email_1": "bhorst@horstrealty.com",
+        "propertyManagement_Company": "Horst Realty - Village of Pineford"
+    },
+    {
+        "address": "101 Bern St Reading, PA 19601",
+        "sf": "740,977",
+        "built": "1945",
+        "trueOwner_Company": "Carpenter Technology Corporation"
+    },
+    {
+        "address": "900 Conshohocken Rd - ISG PLATE INC - Bld A Conshohocken, PA 19428",
+        "sf": "737,295",
+        "built": "1959",
+        "trueOwner_Company": "ArcelorMittal International"
+    },
+    {
+        "address": "1700 Huntingdon Pike - Meadowbrook Apartments Huntingdon Valley, PA 19006",
+        "built": "1968",
+        "trueOwner_Company": "Lindy Communities",
+        "trueOwner_Name_1": "Janice Elwood",
+        "trueOwner_Email_1": "jelwood@comehometolindy.com",
+        "propertyManagement_Company": "Lindy - Meadowbrook Apartments",
+        "propertyManagement_Name_1": "Jacob Lindy",
+        "propertyManagement_Email_1": "jacoblindy@comehometolindy.com"
+    },
+    {
+        "address": "10 Village Center Dr - Flying Hills Village Reading, PA 19607",
+        "built": "1985",
+        "trueOwner_Company": "Flying Hills Company",
+        "propertyManagement_Company": "Flying Hills Company",
+        "propertyManagement_Name_1": "Linda Borman",
+        "propertyManagement_Email_1": "linda@flyinghills.com"
+    },
+    {
+        "address": "1330 Wabank Rd - Kensington Club Lancaster, PA 17603",
+        "built": "1973",
+        "trueOwner_Company": "Solomon Organization LLC",
+        "trueOwner_Name_1": "Marc Solomon",
+        "propertyManagement_Company": "Solomon - Kensington Club"
+    },
+    {
+        "address": "4913 Wynnewood Rd - Pennswood Apartments and Townhomes Harrisburg, PA 17109",
+        "trueOwner_Company": "Jager Management, Inc.",
+        "trueOwner_Name_1": "Elaine Levitt Gershman",
+        "propertyManagement_Company": "Jager - Pennswood Apartments and Townhomes"
+    },
+    {
+        "address": "1002 Patriot Pky Reading, PA 19605",
+        "sf": "708,960",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Adam Campbell",
+        "primaryLeasingCompany_Phone_1": "(717) 798-4514 (m)",
+        "primaryLeasingCompany_Email_1": "adam.campbell@cushwake.com",
+        "trueOwner_Company": "Matrix Development Group",
+        "trueOwner_Name_1": "Joseph Taylor",
+        "trueOwner_Email_1": "jtaylor@matrixcompanies.com"
+    },
+    {
+        "address": "500 McCarthy Dr - Lot 3A Lewisberry, PA 17339",
+        "sf": "705,000",
+        "built": "2005",
+        "primaryLeasingCompany_Company": "Prologis, Inc.",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis, Inc.",
+        "propertyManagement_Name_1": "Sally Hutchinson",
+        "propertyManagement_Email_1": "shutchinson@libertyproperty.com"
+    },
+    {
+        "address": "1000 Armand Hammer Blvd - Tri-County Commerce Park Pottstown, PA 19464",
+        "sf": "701,774",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Paul Touhey",
+        "primaryLeasingCompany_Phone_1": "(610) 937-0354 (m)",
+        "primaryLeasingCompany_Email_1": "paul.touhey@cbre.com",
+        "primaryLeasingCompany_Name_2": "Andrew Green",
+        "primaryLeasingCompany_Phone_2": "(610) 405-9030 (m)",
+        "primaryLeasingCompany_Email_2": "andrew.Green@cbre.com",
+        "trueOwner_Company": "Cornerstone Realty Inc.",
+        "trueOwner_Name_1": "Jeff McLellan",
+        "trueOwner_Email_1": "jmclellan@cmcict.com",
+        "propertyManagement_Company": "BLC Management"
+    },
+    {
+        "address": "260 Exton Pky - Exton Square Mall Exton, PA 19341",
+        "primaryLeasingCompany_Company": "Pennsylvania Real Estate Investment Trust",
+        "trueOwner_Company": "Pennsylvania Real Estate Investment Trust"
+    },
+    {
+        "address": "336 E Penn Ave - C&S Wholesale Grocers Robesonia, PA 19551",
+        "sf": "682,118",
+        "built": "1973",
+        "trueOwner_Company": "C & S Wholesale Grocers Inc"
+    },
+    {
+        "address": "92 E Main St Adamstown, PA 19501",
+        "sf": "681,000",
+        "built": "1900",
+        "trueOwner_Company": "Bollman Hat Company"
+    },
+    {
+        "address": "1100 Virginia Dr Fort Washington, PA 19034",
+        "sf": "680,000",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Doug Newbert",
+        "primaryLeasingCompany_Phone_1": "(267) 980-6484 (m)",
+        "primaryLeasingCompany_Email_1": "Doug.Newbert@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Michael MacCrory",
+        "primaryLeasingCompany_Phone_2": "(610) 389-2767 (m)",
+        "primaryLeasingCompany_Email_2": "Mike.MacCrory@am.jll.com",
+        "trueOwner_Company": "Greenfield Partners",
+        "trueOwner_Name_1": "Eugene Gorab",
+        "trueOwner_Email_1": "gorabg@greenfieldpartners.com",
+        "propertyManagement_Company": "Somerset Properties"
+    },
+    {
+        "address": "800 Schuylkill River Rd - Philadelphia Inquirer (Bldg A) West Conshohocken, PA 19428",
+        "sf": "677,544",
+        "built": "1992",
+        "trueOwner_Company": "Philadelphia Inquirer"
+    },
+    {
+        "address": "300 Diller Ave New Holland, PA 17557",
+        "sf": "676,855",
+        "built": "1968",
+        "trueOwner_Company": "CNH Industrial America, LLC"
+    },
+    {
+        "address": "2750 Morris Rd - 2750 Morris Road Lansdale, PA 19446",
+        "sf": "675,608",
+        "built": "1989",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield of Pennsylvania, LLC",
+        "primaryLeasingCompany_Name_1": "Jonas Skovdal",
+        "primaryLeasingCompany_Phone_1": "(267) 939-1887 (m)",
+        "primaryLeasingCompany_Email_1": "jonas.skovdal@cushwake.com",
+        "trueOwner_Company": "The Davis Companies",
+        "trueOwner_Name_1": "Jonathan Davis",
+        "trueOwner_Phone_1": "(617) 513-1113 (m)",
+        "trueOwner_Email_1": "jdavis@TheDavisCompanies.com",
+        "propertyManagement_Company": "Advance Realty Investors",
+        "propertyManagement_Name_1": "Duane Horne",
+        "propertyManagement_Email_1": "duaneh@advancere.com"
+    },
+    {
+        "address": "225 Cross Farm Ln - UNFI York, PA Distribution Center York, PA 17406",
+        "sf": "675,000",
+        "built": "2007",
+        "primaryLeasingCompany_Company": "First Industrial Realty Trust, Inc.",
+        "primaryLeasingCompany_Name_1": "Jeffrey Thomas",
+        "primaryLeasingCompany_Phone_1": "(717) 991-2734 (m)",
+        "primaryLeasingCompany_Email_1": "jthomas@firstindustrial.com",
+        "trueOwner_Company": "First Industrial Realty Trust, Inc.",
+        "trueOwner_Name_1": "Peter Baccile",
+        "trueOwner_Email_1": "pbaccile@firstindustrial.com",
+        "propertyManagement_Company": "United Natural Foods, Inc.",
+        "propertyManagement_Name_1": "Lisa Madsen",
+        "propertyManagement_Email_1": "lmadsen@unfi.com"
+    },
+    {
+        "address": "3050 N 5th Street Hwy - Fairgrounds Square Mall Reading, PA 19605",
+        "primaryLeasingCompany_Company": "Hull Property Group",
+        "primaryLeasingCompany_Name_1": "Edward Dorr",
+        "primaryLeasingCompany_Phone_1": "(706) 830-5828 (m)",
+        "primaryLeasingCompany_Email_1": "edorr@hullpg.com",
+        "trueOwner_Company": "Hull Property Group"
+    },
+    {
+        "address": "580 Lewis Rd - Kingswood Apartments King of Prussia, PA 19406",
+        "built": "1964",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Kingswood Apartments"
+    },
+    {
+        "address": "1411 Lancaster Ave Columbia, PA 17512",
+        "sf": "660,000",
+        "built": "1972",
+        "trueOwner_Company": "Mueller Water Products, Inc."
+    },
+    {
+        "address": "100 1st Montgomery Blvd - The Fairways Thorndale, PA 19372",
+        "built": "1999",
+        "trueOwner_Company": "First Montgomery Group",
+        "propertyManagement_Company": "FMG - The Fairways"
+    },
+    {
+        "address": "201 Fulling Mill Rd Middletown, PA 17057",
+        "sf": "650,671",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Patrick McBride",
+        "primaryLeasingCompany_Phone_1": "(717) 919-1689 (m)",
+        "primaryLeasingCompany_Email_1": "pat.mcbride@cushwake.com",
+        "trueOwner_Company": "Blackstone Real Estate Income Trust, Inc."
+    },
+    {
+        "address": "351 W Schuylkill Rd - The Shoppes at Coventry Pottstown, PA 19465",
+        "primaryLeasingCompany_Company": "Pennmark Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Robert Sichelstiel",
+        "primaryLeasingCompany_Phone_1": "(484) 686-8302 (m)",
+        "primaryLeasingCompany_Email_1": "Sichelstiel@pennmarkproperties.com",
+        "primaryLeasingCompany_Name_2": "Justin Bartholomew",
+        "primaryLeasingCompany_Email_2": "justin@pennmarkproperties.com",
+        "trueOwner_Company": "Pennmark Management Company, Inc.",
+        "trueOwner_Name_1": "Donald Cafiero",
+        "trueOwner_Email_1": "dcafiero@pennmarkproperties.com",
+        "propertyManagement_Company": "Coventry Mall",
+        "propertyManagement_Name_1": "Justin Bartholomew",
+        "propertyManagement_Email_1": "jbartholomew@coventry-mall.com"
+    },
+    {
+        "address": "190 Colonial Crest Dr - Wheatland Hills Apartments Lancaster, PA 17601",
+        "built": "1975",
+        "trueOwner_Company": "Altman Management Company",
+        "propertyManagement_Company": "Altman - Wheatland Hills"
+    },
+    {
+        "address": "601 Allendale Rd King Of Prussia, PA 19406",
+        "sf": "641,320",
+        "built": "1961",
+        "trueOwner_Company": "First Quality Enterprises, Inc."
+    },
+    {
+        "address": "400 Alan Wood Rd - IKEA Conshohocken, PA 19428",
+        "built": "2003",
+        "trueOwner_Company": "IKEA US, Inc."
+    },
+    {
+        "address": "301 Highland Ave Jenkintown, PA 19046",
+        "sf": "631,434",
+        "built": "1896",
+        "primaryLeasingCompany_Company": "SPS Technologies",
+        "trueOwner_Company": "Precision Castparts Corp."
+    },
+    {
+        "address": "105 Willow Springs Ln - I-83 Logistics Center York, PA 17406",
+        "sf": "624,000",
+        "built": "2008",
+        "trueOwner_Company": "The Blackstone Group L.P.",
+        "trueOwner_Name_1": "Anthony Beovich",
+        "trueOwner_Email_1": "anthony.beovich@blackstone.com"
+    },
+    {
+        "address": "1425 Crooked Hill Rd - United States Postal Service Harrisburg, PA 17107",
+        "built": "1992"
+    },
+    {
+        "address": "1425 Eden Rd - Harley-Davidson Softail Operations York, PA 17402",
+        "sf": "614,055",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "Harley-Davidson",
+        "primaryLeasingCompany_Name_1": "Katie Moudy",
+        "trueOwner_Company": "Harley-Davidson, Inc."
+    },
+    {
+        "address": "41 Weaver Rd Denver, PA 17517",
+        "sf": "613,000",
+        "trueOwner_Company": "SK Realty Management",
+        "propertyManagement_Company": "Schein Henry Inc"
+    },
+    {
+        "address": "2050 State Rd Lancaster, PA 17601",
+        "sf": "609,893",
+        "built": "1981",
+        "trueOwner_Company": "Kellogg Company"
+    },
+    {
+        "address": "2759-2785 Papermill Rd - Broadcasting Square Reading, PA 19610",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Equity Retail Brokers, Inc.",
+        "primaryLeasingCompany_Name_1": "Rose Urban",
+        "primaryLeasingCompany_Phone_1": "(609) 231-4055 (m)",
+        "primaryLeasingCompany_Email_1": "roseurban@comcast.net",
+        "trueOwner_Company": "GH Spring Ridge Associates, Inc.",
+        "propertyManagement_Company": "Elysian Partners, LLC",
+        "propertyManagement_Name_1": "Loretta Ecker"
+    },
+    {
+        "address": "821 Sequoia Dr - Lakewood Hills Apartments Harrisburg, PA 17109",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Lakewood Hills",
+        "propertyManagement_Name_1": "Jackie Rapp",
+        "propertyManagement_Email_1": "jrapp@morganproperties.com"
+    },
+    {
+        "address": "2850 Appleton St - The Appleton Building Camp Hill, PA 17011",
+        "sf": "600,651",
+        "built": "1973",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Patrick Lafferty",
+        "primaryLeasingCompany_Phone_1": "(717) 940-2131 (m)",
+        "primaryLeasingCompany_Email_1": "patrick.lafferty@cbre.com",
+        "primaryLeasingCompany_Name_2": "Lalita Wertz",
+        "primaryLeasingCompany_Email_2": "lalita.wertz@cbre.com",
+        "trueOwner_Company": "Vision Group Ventures",
+        "trueOwner_Name_1": "Steven Brand",
+        "trueOwner_Email_1": "sbrand@visiongroupventures.com"
+    },
+    {
+        "address": "101 Commerce Dr Mechanicsburg, PA 17050",
+        "sf": "600,051",
+        "built": "1991",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Patrick Lafferty",
+        "primaryLeasingCompany_Phone_1": "(717) 940-2131 (m)",
+        "primaryLeasingCompany_Email_1": "patrick.lafferty@cbre.com",
+        "primaryLeasingCompany_Name_2": "Michael Hess",
+        "primaryLeasingCompany_Phone_2": "(717) 649-5209 (m)",
+        "primaryLeasingCompany_Email_2": "michael.hess@cbre.com",
+        "trueOwner_Company": "New York Life Real Estate Investors",
+        "trueOwner_Name_1": "Brian Seaman",
+        "trueOwner_Phone_1": "(415) 608-7114 (m)",
+        "trueOwner_Email_1": "brian_seaman@nylinvestors.com"
+    },
+    {
+        "address": "40 Dauphin Dr Mechanicsburg, PA 17050",
+        "sf": "600,000",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Henry Steinberg",
+        "primaryLeasingCompany_Phone_1": "(215) 688-2838 (m)",
+        "primaryLeasingCompany_Email_1": "hsteinberg@exeterpg.com",
+        "primaryLeasingCompany_Name_2": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_2": "trouse@exeterpg.com",
+        "trueOwner_Company": "Exeter Property Group",
+        "trueOwner_Name_1": "Henry Steinberg",
+        "trueOwner_Phone_1": "(215) 688-2838 (m)",
+        "trueOwner_Email_1": "hsteinberg@exeterpg.com"
+    },
+    {
+        "address": "40 E Main St New Kingstown, PA 17072",
+        "sf": "600,000",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_1": "trouse@exeterpg.com",
+        "trueOwner_Company": "Exeter Property Group"
+    },
+    {
+        "address": "255 W Lancaster Ave - Paoli Hospital Paoli, PA 19301",
+        "built": "1968"
+    },
+    {
+        "address": "132 White Oak Rd New Holland, PA 17557",
+        "sf": "597,125",
+        "built": "1970",
+        "trueOwner_Company": "Berk-Tek LLC"
+    },
+    {
+        "address": "1225 S Market St Mechanicsburg, PA 17055",
+        "sf": "596,703",
+        "built": "1999",
+        "trueOwner_Company": "Allen Distribution",
+        "trueOwner_Name_1": "Ryan Heishman",
+        "trueOwner_Email_1": "rheishman@allendistribution.com"
+    },
+    {
+        "address": "2913 Spooky Nook Rd Manheim, PA 17545",
+        "sf": "594,000",
+        "built": "1978",
+        "primaryLeasingCompany_Company": "The Sports Complex LP",
+        "primaryLeasingCompany_Name_1": "Lindsay Warner",
+        "trueOwner_Company": "The Sports Complex LP"
+    },
+    {
+        "address": "325 University Dr - Hershey Lodge Hershey, PA 17033",
+        "built": "1966",
+        "trueOwner_Company": "The Hershey Company",
+        "trueOwner_Name_1": "Susan Angele",
+        "trueOwner_Email_1": "sangele@yahoo.com"
+    },
+    {
+        "address": "191 S Keim St - Bldg 2 Pottstown, PA 19464",
+        "sf": "589,670",
+        "primaryLeasingCompany_Company": "Industrial Investments, Inc.",
+        "primaryLeasingCompany_Name_1": "Jay Bown",
+        "primaryLeasingCompany_Email_1": "jbown@industrialinvestments.com",
+        "trueOwner_Company": "Industrial Investments, Inc.",
+        "trueOwner_Name_1": "John Bown",
+        "trueOwner_Phone_1": "(215) 290-2919 (m)",
+        "trueOwner_Email_1": "jabown@industrialinvestments.com",
+        "propertyManagement_Company": "Industrial Investments, Inc.",
+        "propertyManagement_Name_1": "Jay Bown",
+        "propertyManagement_Email_1": "jbown@industrialinvestments.com"
+    },
+    {
+        "address": "1000 Stony Battery Rd Lancaster, PA 17601",
+        "sf": "588,983",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Qvc",
+        "trueOwner_Company": "Liberty Interactive Corporation"
+    },
+    {
+        "address": "1200 Wilson Dr - QVC Studio Park West Chester, PA 19380",
+        "sf": "585,000",
+        "built": "1998",
+        "trueOwner_Company": "QVC San Antonio, Inc.",
+        "propertyManagement_Company": "QVC, Inc.",
+        "propertyManagement_Name_1": "Tony Godonis"
+    },
+    {
+        "address": "8700 Ridge Ave - Cathedral Village Philadelphia, PA 19128",
+        "built": "1960",
+        "trueOwner_Company": "Cathedral Village"
+    },
+    {
+        "address": "100 S Limestone Rd Parkesburg, PA 19365",
+        "sf": "568,400",
+        "built": "1965",
+        "primaryLeasingCompany_Company": "A. Duie Pyle, Inc.",
+        "trueOwner_Company": "A. Duie Pyle",
+        "propertyManagement_Company": "A. Duie Pyle, Inc."
+    },
+    {
+        "address": "4405 Union Deposit Rd - Twin Lakes Manor Apartments Harrisburg, PA 17111",
+        "built": "1972",
+        "trueOwner_Company": "Property Management, Inc",
+        "propertyManagement_Company": "PMI - Twin Lakes Manor Apartments"
+    },
+    {
+        "address": "830 Old Lancaster Rd Bryn Mawr, PA 19010",
+        "built": "1983",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Joseph Fetterman",
+        "primaryLeasingCompany_Email_1": "joseph.fetterman@colliers.com"
+    },
+    {
+        "address": "21 Roadway Dr Carlisle, PA 17015",
+        "sf": "558,700",
+        "built": "1998",
+        "primaryLeasingCompany_Company": "Global Logistic Properties Ltd",
+        "trueOwner_Company": "Blackstone Real Estate Income Trust, Inc."
+    },
+    {
+        "address": "3000 Montrose Ave Reading, PA 19605",
+        "sf": "557,000",
+        "built": "1978",
+        "trueOwner_Company": "Exide Technologies"
+    },
+    {
+        "address": "2401-2385 W Cheltenham Ave - Greenleaf at Cheltenham Philadelphia, PA 19150",
+        "primaryLeasingCompany_Company": "Metro Commercial Real Estate, Inc.",
+        "primaryLeasingCompany_Name_1": "Max Silver",
+        "primaryLeasingCompany_Phone_1": "(610) 260-2672 (m)",
+        "primaryLeasingCompany_Email_1": "msilver@metrocommercial.com",
+        "trueOwner_Company": "Sun Equity Partners",
+        "trueOwner_Name_1": "Robert Tabak",
+        "trueOwner_Phone_1": "(646) 561-2860 (m)",
+        "trueOwner_Email_1": "rt@suneqp.com",
+        "propertyManagement_Company": "Cheltenham Square",
+        "propertyManagement_Name_1": "Jamie Mazzola-Watson"
+    },
+    {
+        "address": "125 S Keim St Pottstown, PA 19464",
+        "sf": "525,190",
+        "built": "1910",
+        "trueOwner_Company": "Torque Traction"
+    },
+    {
+        "address": "2195 N Reading Rd Denver, PA 17517",
+        "sf": "524,160",
+        "built": "1991",
+        "trueOwner_Company": "Campbell Soup Company"
+    },
+    {
+        "address": "100 Cider Mill Rd - SEI Oaks, PA 19456",
+        "sf": "520,000",
+        "built": "1996"
+    },
+    {
+        "address": "109 Landing Cir - The Landings at Eagle Heights Mountville, PA 17554",
+        "built": "2007",
+        "trueOwner_Company": "Landings Property Management Co.",
+        "propertyManagement_Company": "Manor - Landings at Eagle Heights"
+    },
+    {
+        "address": "1000 Easton Rd Wyncote, PA 19095",
+        "primaryLeasingCompany_Company": "Nassimi Realty LLC",
+        "primaryLeasingCompany_Name_1": "Kevin Nassimi",
+        "primaryLeasingCompany_Phone_1": "(516) 859-6266 (m)",
+        "primaryLeasingCompany_Email_1": "Kevin@Nassimi.com",
+        "trueOwner_Company": "Nassimi Realty LLC",
+        "trueOwner_Name_1": "Mike Nassimi",
+        "trueOwner_Email_1": "Mike@NassimiRealty.com",
+        "propertyManagement_Company": "Winbrook Management LLC",
+        "propertyManagement_Name_1": "Lori Ann Stopyra"
+    },
+    {
+        "address": "501 Ridge Ave Hanover, PA 17331",
+        "sf": "515,000",
+        "built": "1948",
+        "primaryLeasingCompany_Company": "Lee & Associates of Eastern Pennsylvania, LLC",
+        "primaryLeasingCompany_Name_1": "John Van Buskirk, SIOR",
+        "primaryLeasingCompany_Phone_1": "(717) 497-1276 (m)",
+        "primaryLeasingCompany_Email_1": "jvanbuskirk@lee-associates.com",
+        "trueOwner_Company": "Hanover Foods",
+        "trueOwner_Name_1": "Jeffrey Warehime",
+        "trueOwner_Email_1": "Jwarehime@hanoverfoods.com",
+        "propertyManagement_Company": "The RMR Group",
+        "propertyManagement_Name_1": "David Campoli",
+        "propertyManagement_Email_1": "dcampoli@rmrgroup.com"
+    },
+    {
+        "address": "4212 Williamsburg Dr - Stonebridge Apartment Homes Harrisburg, PA 17109",
+        "built": "1966",
+        "trueOwner_Company": "AJH Management",
+        "trueOwner_Name_1": "Asher Handler",
+        "trueOwner_Phone_1": "(732) 692-4348 (m)",
+        "trueOwner_Email_1": "asher@ajhmanagement.com",
+        "propertyManagement_Company": "One Wall - Stonebridge Apartments"
+    },
+    {
+        "address": "1008 E Lancaster Ave - Brandywine Square Downingtown, PA 19335",
+        "built": "1990",
+        "primaryLeasingCompany_Company": "Allied Properties",
+        "primaryLeasingCompany_Name_1": "Jim Oeste",
+        "primaryLeasingCompany_Email_1": "joeste@apropinc.com",
+        "trueOwner_Company": "Allied Properties",
+        "trueOwner_Name_1": "Jim Oeste",
+        "trueOwner_Email_1": "joeste@apropinc.com",
+        "propertyManagement_Company": "Allied Properties"
+    },
+    {
+        "address": "6345 Brackbill Blvd Mechanicsburg, PA 17050",
+        "sf": "507,634",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Gerry Blinebury",
+        "primaryLeasingCompany_Phone_1": "(267) 303-0751 (m)",
+        "primaryLeasingCompany_Email_1": "gerry.blinebury@cushwake.com",
+        "trueOwner_Company": "Penwood Real Estate Investment Management"
+    },
+    {
+        "address": "700 Summer Ln - Orchard Ridge Apartments Pottstown, PA 19465",
+        "built": "2005",
+        "trueOwner_Company": "High Associates Ltd.",
+        "propertyManagement_Company": "High Associates - Orchard Ridge",
+        "propertyManagement_Name_1": "Kathryn Sylvia",
+        "propertyManagement_Email_1": "ksylvia@high.net"
+    },
+    {
+        "address": "2040 N Union St Middletown, PA 17057",
+        "sf": "507,045",
+        "built": "1996",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Michael Zerbe",
+        "primaryLeasingCompany_Email_1": "Michael.Zerbe@colliers.com",
+        "primaryLeasingCompany_Name_2": "Mark Chubb",
+        "primaryLeasingCompany_Phone_2": "(302) 275-5043 (m)",
+        "primaryLeasingCompany_Email_2": "mark.chubb@colliers.com",
+        "primaryLeasingCompany_Name_3": "Summer Coulter",
+        "primaryLeasingCompany_Email_3": "summer.coulter@colliers.com",
+        "trueOwner_Company": "Link Logistics Real Estate"
+    },
+    {
+        "address": "420 Salem Church Rd - Harrisburg Distribution Center #4 Mechanicsburg, PA 17050",
+        "sf": "504,321",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "Moran Logistics",
+        "primaryLeasingCompany_Name_1": "John Moran",
+        "primaryLeasingCompany_Phone_1": "(717) 524-0855 (m)",
+        "primaryLeasingCompany_Email_1": "john@rolloutawning.com",
+        "primaryLeasingCompany_Name_2": "Chuck McCreary",
+        "primaryLeasingCompany_Email_2": "Chuck.mccreary@moranlogistics.com",
+        "trueOwner_Company": "Moran Logistics",
+        "trueOwner_Name_1": "John Moran",
+        "trueOwner_Phone_1": "(717) 524-0855 (m)",
+        "trueOwner_Email_1": "john@rolloutawning.com"
+    },
+    {
+        "address": "4501 Westport Dr - Westport Mechanicsburg, PA 17055",
+        "sf": "502,446",
+        "built": "1995",
+        "trueOwner_Company": "Exeter Property Group",
+        "trueOwner_Name_1": "James Hoeland",
+        "trueOwner_Email_1": "jhoeland@exeterpg.com"
+    },
+    {
+        "address": "2800 Centre Ave Reading, PA 19605",
+        "sf": "502,205",
+        "built": "1955",
+        "primaryLeasingCompany_Company": "FirstEnergy",
+        "primaryLeasingCompany_Name_1": "Verlan Renner",
+        "trueOwner_Company": "FirstEnergy",
+        "propertyManagement_Company": "FirstEnergy"
+    },
+    {
+        "address": "3300 Darby Rd - The Quadrangle Haverford, PA 19041",
+        "built": "1989",
+        "primaryLeasingCompany_Company": "Healthpeak Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "James Croy",
+        "primaryLeasingCompany_Email_1": "jcroy@hcpi.com",
+        "trueOwner_Company": "Healthpeak Properties, Inc.",
+        "trueOwner_Name_1": "Jeffrey Miller",
+        "trueOwner_Email_1": "jmiller@hcpi.com"
+    },
+    {
+        "address": "1361 E Boot Rd - Wellington at Hershey's Mill West Chester, PA 19380",
+        "built": "2005",
+        "trueOwner_Company": "Healthcare Trust, Inc.",
+        "propertyManagement_Company": "Wellington at Hershey's Mill"
+    },
+    {
+        "address": "6140 Springford Dr - Springford Apartments Harrisburg, PA 17111",
+        "trueOwner_Company": "DeSouza Brown Incorporated",
+        "propertyManagement_Company": "DeSouza Brown - Springford Apartments"
+    },
+    {
+        "address": "11 Bromley Dr - Oxford of Blue Bell Blue Bell, PA 19422",
+        "built": "1980",
+        "trueOwner_Company": "Scully Company",
+        "trueOwner_Name_1": "Pete Wilson",
+        "trueOwner_Email_1": "pwilson@scullycompany.com",
+        "propertyManagement_Company": "Penco Management - Oxford of Blue Bell",
+        "propertyManagement_Name_1": "Jody Serrao",
+        "propertyManagement_Email_1": "jserrao@pencomanagement.com"
+    },
+    {
+        "address": "86 Tube Dr Reading, PA 19605",
+        "sf": "487,458",
+        "built": "1969",
+        "trueOwner_Company": "Cambridge-Lee Industries LLC",
+        "trueOwner_Name_1": "Cambridge-Lee Industries"
+    },
+    {
+        "address": "400 Old Reading Pike Pottstown, PA 19464",
+        "sf": "482,286",
+        "built": "1956",
+        "primaryLeasingCompany_Company": "Axis Realty Partners",
+        "primaryLeasingCompany_Name_1": "Edward DiMarcantonio",
+        "primaryLeasingCompany_Phone_1": "(610) 960-0200 (m)",
+        "primaryLeasingCompany_Email_1": "dimarcantonio@comcast.net",
+        "trueOwner_Company": "400 Old Reading Pike, Inc.",
+        "trueOwner_Name_1": "Donald Faust"
+    },
+    {
+        "address": "1149 Kingsway Rd - Goshen Terrace Apartments West Chester, PA 19382",
+        "built": "1976",
+        "trueOwner_Company": "Berger Rental Communities",
+        "propertyManagement_Company": "Berger - Goshen Terrace"
+    },
+    {
+        "address": "201 Iron Lake Dr - Exton Crossing Exton, PA 19341",
+        "built": "1998",
+        "trueOwner_Company": "Harbor Group International, LLC",
+        "trueOwner_Name_1": "Karlynn Fleeger",
+        "trueOwner_Email_1": "kfleeger@harborgroupmanagement.com",
+        "propertyManagement_Company": "Harbor Group - Exton Crossing"
+    },
+    {
+        "address": "218 Apple Dr - Whiteland West Apartments Exton, PA 19341",
+        "built": "1975",
+        "trueOwner_Company": "Westover Companies",
+        "propertyManagement_Company": "Westover - Whiteland West Apartments"
+    },
+    {
+        "address": "1100 West Chester Pike - Golf Club Apartments West Chester, PA 19382",
+        "built": "1970",
+        "trueOwner_Company": "Harbor Group International, LLC",
+        "trueOwner_Name_1": "Karlynn Fleeger",
+        "trueOwner_Email_1": "kfleeger@harborgroupmanagement.com",
+        "propertyManagement_Company": "Harbor Group - Golf Club Apartments & Townhomes"
+    },
+    {
+        "address": "110 Pitney Rd - Playskool Facility Lancaster, PA 17602",
+        "sf": "468,801",
+        "built": "1956",
+        "primaryLeasingCompany_Company": "Dart Container Corporation",
+        "trueOwner_Company": "Dart Container Corporation",
+        "propertyManagement_Company": "Dart Container Corporation"
+    },
+    {
+        "address": "2815 Wyoming Dr - Berkshire Hills Sinking Spring, PA 19608",
+        "built": "1971",
+        "trueOwner_Company": "Mordechai Sternstein",
+        "trueOwner_Name_1": "Mordechai Sternstein",
+        "trueOwner_Phone_1": "(732) 666-1421 (m)",
+        "trueOwner_Email_1": "sternstein@gmail.com",
+        "propertyManagement_Company": "CT Management - Berkshire Hills"
+    },
+    {
+        "address": "200 Commerce St - Mountville Distribution Center Mountville, PA 17554",
+        "sf": "468,276",
+        "built": "1980",
+        "trueOwner_Company": "CNH Industrial America, LLC",
+        "propertyManagement_Company": "New Holland North America, Inc."
+    },
+    {
+        "address": "335-341 Heinz St - Arnold Logistics - Building 9 Mechanicsburg, PA 17055",
+        "sf": "465,700",
+        "built": "1989",
+        "trueOwner_Company": "Hager Pacific Properties",
+        "trueOwner_Name_1": "Moshe Hager",
+        "trueOwner_Email_1": "mhager@hagerpacific.com"
+    },
+    {
+        "address": "2899 Whiteford Rd - York Galleria York, PA 17402",
+        "primaryLeasingCompany_Company": "CBL & Associates Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "Sherry Rawson-Hurt",
+        "primaryLeasingCompany_Email_1": "sherry.rawson@cblproperties.com",
+        "trueOwner_Company": "CBL & Associates Properties, Inc.",
+        "trueOwner_Name_1": "Joyce Brown",
+        "trueOwner_Email_1": "joyce.brown@cblproperties.com",
+        "propertyManagement_Company": "CBL & Associates Properties, Inc.",
+        "propertyManagement_Name_1": "Lauri Altman",
+        "propertyManagement_Email_1": "lauri.altman@cblproperties.com"
+    },
+    {
+        "address": "2110 Harrisburg Pike - Lancaster General Health Suburban Pavilion Lancaster, PA 17601",
+        "sf": "463,170",
+        "primaryLeasingCompany_Company": "Lillibridge Healthcare Services, Inc.",
+        "primaryLeasingCompany_Name_1": "Tyler Miller",
+        "primaryLeasingCompany_Phone_1": "(804) 836-4473 (m)",
+        "primaryLeasingCompany_Email_1": "Tyler.miller@lillibridge.com",
+        "trueOwner_Company": "Ventas, Inc.",
+        "propertyManagement_Company": "Cogdell Spencer ERDMAN"
+    },
+    {
+        "address": "3819-3915 Union Deposit Rd - Union Square Shopping Center Harrisburg, PA 17109",
+        "primaryLeasingCompany_Company": "LMS Commercial Real Estate",
+        "primaryLeasingCompany_Name_1": "Arlene Gray",
+        "primaryLeasingCompany_Email_1": "agray@lms-pma.com",
+        "primaryLeasingCompany_Name_2": "Kristi Pennington",
+        "primaryLeasingCompany_Email_2": "KPennington@lms-pma.com",
+        "trueOwner_Company": "Paramount Realty Services, Inc.",
+        "trueOwner_Name_1": "Maurice Zekaria",
+        "trueOwner_Phone_1": "(732) 829-1124 (m)",
+        "trueOwner_Email_1": "mz@paramountrealty.com",
+        "propertyManagement_Company": "Property Management Alternatives",
+        "propertyManagement_Name_1": "Joseph Deerin Jr",
+        "propertyManagement_Email_1": "jrdeerin@deerincompanies.com"
+    },
+    {
+        "address": "300 New Kent Dr - New Kent West Chester, PA 19380",
+        "trueOwner_Company": "Hankin Group",
+        "propertyManagement_Company": "Hankin - New Kent Apartments"
+    },
+    {
+        "address": "485 St. Johns Church Rd - 485 Distribution Center Shiremanstown, PA 17011",
+        "sf": "457,000",
+        "trueOwner_Company": "Black Creek Industrial REIT IV"
+    },
+    {
+        "address": "855 N Park Rd - Wynnewood Park Reading, PA 19610",
+        "built": "1967",
+        "trueOwner_Company": "RP Management, Inc.",
+        "propertyManagement_Company": "RP Management - Wynnewood Park"
+    },
+    {
+        "address": "411-495 Eisenhower Dr - Hanover Crossings Hanover, PA 17331",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Chad Stine",
+        "primaryLeasingCompany_Phone_1": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_1": "cstine@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_2": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_2": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Abe Khan",
+        "primaryLeasingCompany_Phone_3": "(717) 891-0836 (m)",
+        "primaryLeasingCompany_Email_3": "akhan@bennettwilliams.com",
+        "trueOwner_Company": "Anne Kinsley",
+        "trueOwner_Name_1": "Anne Kinsley",
+        "trueOwner_Phone_1": "(717) 471-3841 (m)"
+    },
+    {
+        "address": "2801 E Market St - York Mall York, PA 17402",
+        "built": "1969",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Abe Khan",
+        "primaryLeasingCompany_Phone_1": "(717) 891-0836 (m)",
+        "primaryLeasingCompany_Email_1": "akhan@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_2": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_2": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Chad Stine",
+        "primaryLeasingCompany_Phone_3": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_3": "cstine@bennettwilliams.com",
+        "primaryLeasingCompany_Name_4": "Blake Shaffer",
+        "primaryLeasingCompany_Phone_4": "(717) 654-5612 (m)",
+        "primaryLeasingCompany_Email_4": "bshaffer@bennettwilliams.com",
+        "trueOwner_Company": "THF Realty",
+        "trueOwner_Name_1": "Kelly Mueller",
+        "trueOwner_Phone_1": "(314) 267-6596 (m)",
+        "trueOwner_Email_1": "kmueller@thfrealty.com",
+        "propertyManagement_Company": "THF Realty"
+    },
+    {
+        "address": "800 E Virginia Ave West Chester, PA 19380",
+        "sf": "450,000",
+        "built": "1880",
+        "primaryLeasingCompany_Company": "Oakmont Realty Corporation",
+        "primaryLeasingCompany_Name_1": "Matt Adams",
+        "primaryLeasingCompany_Phone_1": "(610) 873-2458 (m)",
+        "primaryLeasingCompany_Email_1": "madams@ekahndevelopment.com",
+        "trueOwner_Company": "J. Loew & Associates",
+        "trueOwner_Name_1": "Eli Kahn",
+        "trueOwner_Email_1": "ekahn@ekahndevelopment.com"
+    },
+    {
+        "address": "6342 Galleon Dr - The Villas at Silver Creek Mechanicsburg, PA 17050",
+        "built": "2005",
+        "propertyManagement_Company": "Riverside Properties - The Villas at Silver Creek"
+    },
+    {
+        "address": "3543 Simpson Ferry Rd Camp Hill, PA 17011",
+        "sf": "450,000",
+        "built": "1968",
+        "trueOwner_Company": "Foot Locker, Inc.",
+        "propertyManagement_Company": "Foot Locker Corporate Services Centerr",
+        "propertyManagement_Name_1": "Don Tocket"
+    },
+    {
+        "address": "9801 Blue Grass Rd Philadelphia, PA 19114",
+        "sf": "448,681",
+        "built": "1978",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Richard Gorodesky",
+        "primaryLeasingCompany_Phone_1": "(215) 460-5857 (m)",
+        "primaryLeasingCompany_Email_1": "richard.gorodesky@colliers.com",
+        "trueOwner_Company": "Sant Properties",
+        "trueOwner_Name_1": "Hardeep Chawla",
+        "trueOwner_Phone_1": "(215) 322-2821 (m)",
+        "trueOwner_Email_1": "hchawla@santproperties.com"
+    },
+    {
+        "address": "8526 Alicia St - Montclair Duplex Apartments Philadelphia, PA 19111",
+        "built": "1976",
+        "trueOwner_Company": "Sukonik Management Co.",
+        "propertyManagement_Company": "Mission Hill Associates- Montclair Duplex",
+        "propertyManagement_Name_1": "Robin Cohen",
+        "propertyManagement_Email_1": "Rcohen@sukonik.com"
+    },
+    {
+        "address": "401 Weavertown Rd Myerstown, PA 17067",
+        "sf": "443,654",
+        "built": "2000",
+        "trueOwner_Company": "GAF Materials LLC"
+    },
+    {
+        "address": "4112 Beechwood Ln - Beaufort Manor Apartments Harrisburg, PA 17112",
+        "built": "1968",
+        "trueOwner_Company": "The Apartment Gallery",
+        "propertyManagement_Company": "Apartment Gallery - Beaufort Manor Apartments",
+        "propertyManagement_Name_1": "Gailyn Blood",
+        "propertyManagement_Email_1": "gblood@theapartmentgallery.com"
+    },
+    {
+        "address": "2759 Lititz Pike Lancaster, PA 17601",
+        "built": "1924",
+        "trueOwner_Company": "Manheim Township School District",
+        "trueOwner_Name_1": "Joe Kurkiak",
+        "trueOwner_Email_1": "kurjiak@mtwp.k12.pa.us"
+    },
+    {
+        "address": "701 E Marshall St - Chester County Medical West Chester, PA 19380",
+        "built": "1986",
+        "trueOwner_Company": "Chester County Hospital",
+        "trueOwner_Name_1": "Perry Pepper",
+        "trueOwner_Phone_1": "(610) 348-7792 (m)",
+        "trueOwner_Email_1": "ppepper@cchosp.com"
+    },
+    {
+        "address": "1 Lee Blvd Malvern, PA 19355",
+        "sf": "440,000",
+        "primaryLeasingCompany_Company": "Raymour & Flanigan Furniture",
+        "primaryLeasingCompany_Name_1": "Nicole DeRose",
+        "primaryLeasingCompany_Phone_1": "(315) 415-6078 (m)",
+        "primaryLeasingCompany_Email_1": "NDeRose@raymourflanigan.com",
+        "trueOwner_Company": "Raymour & Flanigan Furniture",
+        "trueOwner_Name_1": "Neil Goldberg",
+        "trueOwner_Email_1": "neil.goldberg@raymourflanigan.com",
+        "propertyManagement_Company": "Raymour & Flanigan Furniture"
+    },
+    {
+        "address": "1250 York Rd Hanover, PA 17331",
+        "sf": "438,736",
+        "built": "1980",
+        "trueOwner_Company": "Campbell Snacks"
+    },
+    {
+        "address": "105 Coach Ln - Marchwood Apartments Exton, PA 19341",
+        "built": "1973",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Marchwood Apartments"
+    },
+    {
+        "address": "435 Crossfield Rd - Upper Merion School King Of Prussia, PA 19406",
+        "built": "1960"
+    },
+    {
+        "address": "1100 N Sherman St - Center Point Business Center York, PA 17402",
+        "sf": "432,442",
+        "built": "1958",
+        "primaryLeasingCompany_Company": "Kinsley Properties",
+        "primaryLeasingCompany_Name_1": "Daniel S. Hawks",
+        "primaryLeasingCompany_Phone_1": "(717) 324-2107 (m)",
+        "primaryLeasingCompany_Email_1": "dhawks@kinsleyproperties.com",
+        "trueOwner_Company": "Kinsley Properties",
+        "trueOwner_Name_1": "Bob Kinsley",
+        "trueOwner_Email_1": "bkinsley@rkinsley.com"
+    },
+    {
+        "address": "799 Patriot Dr - Greenfield Estates Lancaster, PA 17601",
+        "built": "1981",
+        "trueOwner_Company": "High Associates Ltd.",
+        "propertyManagement_Company": "High Associates - Greenfield Estates Apartments"
+    },
+    {
+        "address": "403 S Custer Ave New Holland, PA 17557",
+        "sf": "429,150",
+        "built": "1979",
+        "trueOwner_Company": "Victor F Weaver, Inc."
+    },
+    {
+        "address": "131 Mill Grove Dr - Mill Grove Apartments Audubon, PA 19403",
+        "built": "1970",
+        "trueOwner_Company": "The Klein Company",
+        "trueOwner_Name_1": "Stephen Klein",
+        "trueOwner_Email_1": "sklein@thekleincompany.com",
+        "propertyManagement_Company": "Klein Company - Mill Grove"
+    },
+    {
+        "address": "1155 Carlisle St - North Hanover Mall Hanover, PA 17331",
+        "primaryLeasingCompany_Company": "Mason Asset Management Inc",
+        "primaryLeasingCompany_Name_1": "Igal Nassim",
+        "primaryLeasingCompany_Email_1": "Igal@masonam.com",
+        "primaryLeasingCompany_Name_2": "Elliot Nassim",
+        "primaryLeasingCompany_Email_2": "elliot@masonam.com",
+        "trueOwner_Company": "Rmb Properties",
+        "trueOwner_Name_1": "Rama Bassalali",
+        "trueOwner_Email_1": "rama@rmbre.com",
+        "propertyManagement_Company": "North Hanover Mall"
+    },
+    {
+        "address": "520 Breezewood Ct - Delbrook Manor Apartments Mechanicsburg, PA 17050",
+        "built": "1970",
+        "trueOwner_Company": "Property Management, Inc",
+        "propertyManagement_Company": "PMI - Delbrook Manor Apartments"
+    },
+    {
+        "address": "532 E Emaus St - East End Warehouse Middletown, PA 17057",
+        "sf": "421,247",
+        "built": "1940",
+        "primaryLeasingCompany_Company": "Apex Realtors",
+        "trueOwner_Company": "Middletown East End Warehouse Company, Inc.",
+        "trueOwner_Name_1": "David Manley"
+    },
+    {
+        "address": "8201 Henry Ave - Summit Park Apartments Philadelphia, PA 19128",
+        "built": "1968",
+        "trueOwner_Company": "University City Housing",
+        "trueOwner_Name_1": "Michael Karp",
+        "trueOwner_Email_1": "mkarp@uchweb.com",
+        "propertyManagement_Company": "University City Housing - Summit Park Apartments"
+    },
+    {
+        "address": "222 Eden Rd - Eden Resort & Suites Lancaster, PA 17601",
+        "built": "1972",
+        "trueOwner_Company": "Lancaster Hospitality Group",
+        "trueOwner_Name_1": "Stephen Sikking"
+    },
+    {
+        "address": "1025-1033 W Old Chocolate Ave - Hershey West Chocolate Manufacturing Plant Hershey, PA 17033",
+        "sf": "416,431",
+        "built": "1900",
+        "trueOwner_Company": "The Hershey Company",
+        "trueOwner_Name_1": "Susan Angele",
+        "trueOwner_Email_1": "sangele@yahoo.com"
+    },
+    {
+        "address": "4581 Lower Valley Rd - Quebecor Printing Atglen, PA 19310",
+        "sf": "415,700",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Michael Golarz",
+        "primaryLeasingCompany_Phone_1": "(215) 275-0188 (m)",
+        "primaryLeasingCompany_Email_1": "michael.golarz@colliers.com",
+        "primaryLeasingCompany_Name_2": "Tom Golarz",
+        "primaryLeasingCompany_Phone_2": "(814) 441-8296 (m)",
+        "primaryLeasingCompany_Email_2": "tom.golarz@colliers.com",
+        "trueOwner_Company": "J.D. Eckman, Inc"
+    },
+    {
+        "address": "209 Longwood Ct W - Pheasant Ridge Lancaster, PA 17603",
+        "built": "1987",
+        "trueOwner_Company": "Sun Communities, Inc.",
+        "propertyManagement_Company": "Sun - Pheasant Ridge"
+    },
+    {
+        "address": "2 Richland Ln - Long Meadows Apartments Camp Hill, PA 17011",
+        "built": "1964",
+        "trueOwner_Company": "Property Management, Inc",
+        "propertyManagement_Company": "PMI - Long Meadows Apartments"
+    },
+    {
+        "address": "1156 Four Star Dr - Four Star Drive Mount Joy, PA 17552",
+        "sf": "413,860",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Jeff Herr",
+        "primaryLeasingCompany_Phone_1": "(717) 723-6182 (m)",
+        "primaryLeasingCompany_Email_1": "jherr@bennettwilliams.com",
+        "trueOwner_Company": "Redcay Development Company",
+        "trueOwner_Name_1": "Robert Redcay",
+        "trueOwner_Email_1": "rlredcay@redcay.com"
+    },
+    {
+        "address": "348-350 Poplar St Hanover, PA 17331",
+        "sf": "413,745",
+        "built": "1973",
+        "primaryLeasingCompany_Company": "Dietrich & Associates, Inc.",
+        "primaryLeasingCompany_Name_1": "Kurt Dietrich",
+        "primaryLeasingCompany_Phone_1": "(805) 441-6274 (m)",
+        "primaryLeasingCompany_Email_1": "kurt.dietrich@hanoverlogistics.com",
+        "trueOwner_Company": "Dietrich & Associates, Inc.",
+        "trueOwner_Name_1": "Kurt Dietrich",
+        "trueOwner_Phone_1": "(805) 441-6274 (m)",
+        "trueOwner_Email_1": "kurt.dietrich@hanoverlogistics.com",
+        "propertyManagement_Company": "Keystone Distribution",
+        "propertyManagement_Name_1": "Terry Hormel"
+    },
+    {
+        "address": "2500 W Moreland Rd - Willow Grove Park Willow Grove, PA 19090",
+        "primaryLeasingCompany_Company": "Pennsylvania Real Estate Investment Trust",
+        "primaryLeasingCompany_Name_1": "Paula Charles",
+        "primaryLeasingCompany_Email_1": "Paula.Charles@preit.com",
+        "trueOwner_Company": "Pennsylvania Real Estate Investment Trust",
+        "propertyManagement_Company": "Willow Grove Park",
+        "propertyManagement_Name_1": "Romaine Crawford"
+    },
+    {
+        "address": "Acco Dr - American Chain & Cab York, PA 17404",
+        "sf": "405,047",
+        "built": "1975",
+        "trueOwner_Company": "Bennett Williams Real Estate",
+        "trueOwner_Name_1": "Chad Stine",
+        "trueOwner_Email_1": "cstine@bennetwilliams.com"
+    },
+    {
+        "address": "365 Waterloo Blvd - Chaddwell Exton, PA 19341",
+        "built": "1990",
+        "trueOwner_Company": "Hankin Group",
+        "propertyManagement_Company": "Hankin - Chaddwell Apartments",
+        "propertyManagement_Name_1": "Kate Giunta",
+        "propertyManagement_Email_1": "k.giunta@hankinapartments.com"
+    },
+    {
+        "address": "2231 Lebanon Valley Mall - Lebanon Valley Mall Lebanon, PA 17042",
+        "primaryLeasingCompany_Company": "Boscov's Realty Group",
+        "primaryLeasingCompany_Name_1": "Jacob Stein",
+        "primaryLeasingCompany_Email_1": "jstein@boscovs.com",
+        "trueOwner_Company": "Boscov's Realty Group",
+        "trueOwner_Name_1": "Jacob Stein",
+        "trueOwner_Email_1": "jstein@boscovs.com",
+        "propertyManagement_Company": "Prizm Asset Management Company"
+    },
+    {
+        "address": "501 S 9th St Reading, PA 19602",
+        "sf": "400,760",
+        "built": "1910",
+        "primaryLeasingCompany_Company": "Premier Office Builders",
+        "primaryLeasingCompany_Name_1": "Jean Miller",
+        "primaryLeasingCompany_Email_1": "Jemiller@premierofficebuilders.com"
+    },
+    {
+        "address": "301 Friendship Ave - Buttonwood Gardens I York, PA 17406",
+        "built": "2006",
+        "trueOwner_Company": "RP Management, Inc.",
+        "propertyManagement_Company": "RP Management - Buttonwood Gardens I"
+    },
+    {
+        "address": "3999 West Chester Pike - (A) SAP America Headquarters Newtown Square, PA 19073",
+        "sf": "400,000",
+        "built": "1999",
+        "trueOwner_Company": "Equus Capital Partners, Ltd."
+    },
+    {
+        "address": "1 Meadow Ln - Westover Village Apartments Jeffersonville, PA 19403",
+        "built": "1976",
+        "trueOwner_Company": "Westover Companies",
+        "propertyManagement_Company": "Westover - Westover Village Apartments"
+    },
+    {
+        "address": "500 Windsor St York, PA 17403",
+        "sf": "395,554",
+        "built": "1946",
+        "trueOwner_Company": "Graham Packaging Company, Inc."
+    },
+    {
+        "address": "1201 Carlisle Rd - Delco Plaza York, PA 17404",
+        "built": "1973",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_1": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_1": "brohrbaugh@bennettwilliams.com",
+        "trueOwner_Company": "Allied Properties",
+        "trueOwner_Name_1": "Jim Oeste",
+        "trueOwner_Email_1": "joeste@apropinc.com"
+    },
+    {
+        "address": "173 Tuckerton Rd - Packaging Corporation of America Muhlenberg Township, PA 19605",
+        "sf": "394,289",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Adam Campbell",
+        "primaryLeasingCompany_Phone_1": "(717) 798-4514 (m)",
+        "primaryLeasingCompany_Email_1": "adam.campbell@cushwake.com",
+        "trueOwner_Company": "STAG Industrial, Inc."
+    },
+    {
+        "address": "1776 Louisa Ln - The Brambles Mechanicsburg, PA 17050",
+        "trueOwner_Company": "Gaughen Management Group",
+        "propertyManagement_Company": "GMG - The Brambles",
+        "propertyManagement_Name_1": "Janel Snyder",
+        "propertyManagement_Email_1": "info@gmgapartments.com"
+    },
+    {
+        "address": "184 Tuckerton Rd - Route 61 Distribution Center Reading, PA 19605",
+        "sf": "392,520",
+        "primaryLeasingCompany_Company": "NAI Keystone Commercial & Industrial LLC",
+        "primaryLeasingCompany_Name_1": "Steve Willems, SIOR",
+        "primaryLeasingCompany_Phone_1": "(610) 334-0272 (m)",
+        "primaryLeasingCompany_Email_1": "swillems@naikeystone.com",
+        "trueOwner_Company": "Continental Realty Services, Inc.",
+        "trueOwner_Name_1": "Ted Sherman",
+        "trueOwner_Phone_1": "(757) 348-3524 (m)",
+        "trueOwner_Email_1": "ted.sherman@continentalcapital.us",
+        "propertyManagement_Company": "Keystone Property & Asset Management",
+        "propertyManagement_Name_1": "Brian McCahon",
+        "propertyManagement_Phone_1": "(610) 370-8510 (m)",
+        "propertyManagement_Email_1": "bmccahon@keystonepam.com"
+    },
+    {
+        "address": "1000 Skiles Blvd - Jefferson at Westtown Apartments West Chester, PA 19382",
+        "built": "1998",
+        "trueOwner_Company": "JRK Property Holdings",
+        "trueOwner_Name_1": "James Bloomingdale",
+        "trueOwner_Email_1": "jbloomingdale@jrk.com",
+        "propertyManagement_Company": "JRK - Jefferson at Westtown Apartments"
+    },
+    {
+        "address": "1008 Eaglecrest Ct - Eagles Crest Apartments Harrisburg, PA 17109",
+        "trueOwner_Company": "Morgan Properties",
+        "propertyManagement_Company": "Morgan - Eagles Crest"
+    },
+    {
+        "address": "105 Steamboat Blvd - Navistar Parts Distribution Manchester, PA 17345",
+        "sf": "390,055",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "First Industrial Realty Trust, Inc.",
+        "primaryLeasingCompany_Name_1": "Jeffrey Thomas",
+        "primaryLeasingCompany_Phone_1": "(717) 991-2734 (m)",
+        "primaryLeasingCompany_Email_1": "jthomas@firstindustrial.com",
+        "trueOwner_Company": "First Industrial Realty Trust, Inc.",
+        "trueOwner_Name_1": "Peter Baccile",
+        "trueOwner_Email_1": "pbaccile@firstindustrial.com",
+        "propertyManagement_Company": "First Industrial Realty Trust, Inc.",
+        "propertyManagement_Name_1": "Jeffrey Thomas",
+        "propertyManagement_Phone_1": "(717) 991-2734 (m)",
+        "propertyManagement_Email_1": "jthomas@firstindustrial.com"
+    },
+    {
+        "address": "605 Loucks Mill Rd York, PA 17403",
+        "sf": "390,000",
+        "primaryLeasingCompany_Company": "Kinsley Properties",
+        "trueOwner_Company": "Kinsley Properties",
+        "propertyManagement_Company": "Kinsley Properties",
+        "propertyManagement_Name_1": "Tim Kinsley",
+        "propertyManagement_Email_1": "tkinsley@kinsleyproperties.com"
+    },
+    {
+        "address": "80 Keystone - Main Manufactoring Littlestown, PA 17340",
+        "sf": "389,832",
+        "built": "1925"
+    },
+    {
+        "address": "60 Steamboat Blvd - Americold Manchester, PA 17345",
+        "sf": "387,855",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "Americold Realty Trust",
+        "trueOwner_Company": "The Yucaipa Companies"
+    },
+    {
+        "address": "2800 Red Lion Rd Philadelphia, PA 19114",
+        "sf": "386,320",
+        "built": "2004",
+        "trueOwner_Company": "PIDC Financing Corp"
+    },
+    {
+        "address": "75 Townline Way - Townline Townhomes Blue Bell, PA 19422",
+        "built": "1974",
+        "trueOwner_Company": "The Klein Company",
+        "propertyManagement_Company": "Klein Company - Townline Townhomes"
+    },
+    {
+        "address": "2800 Concord Rd York, PA 17402",
+        "sf": "385,886",
+        "primaryLeasingCompany_Company": "Keystruct Construction Inc",
+        "primaryLeasingCompany_Name_1": "Jerry Watson",
+        "primaryLeasingCompany_Email_1": "jwatson@keystruct.com",
+        "trueOwner_Company": "Keystruct Construction Inc",
+        "trueOwner_Name_1": "Jerry Watson",
+        "trueOwner_Email_1": "jwatson@keystruct.com",
+        "propertyManagement_Company": "Keystruct Construction Inc",
+        "propertyManagement_Name_1": "Jerry Watson",
+        "propertyManagement_Email_1": "jwatson@keystruct.com"
+    },
+    {
+        "address": "2925 E Market St York, PA 17402",
+        "sf": "385,866",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Gerry Blinebury",
+        "primaryLeasingCompany_Phone_1": "(267) 303-0751 (m)",
+        "primaryLeasingCompany_Email_1": "gerry.blinebury@cushwake.com",
+        "trueOwner_Company": "STAG Industrial, Inc.",
+        "trueOwner_Name_1": "Benjamin Butcher",
+        "trueOwner_Email_1": "bbutcher@stagindustrial.com"
+    },
+    {
+        "address": "100 Redco Ave - Industrial Warehouse Red Lion, PA 17356",
+        "sf": "382,937",
+        "built": "1929",
+        "primaryLeasingCompany_Company": "Rock Commercial Real Estate, LLC",
+        "primaryLeasingCompany_Name_1": "Ted Turnbull, CCIM",
+        "primaryLeasingCompany_Phone_1": "(717) 487-6008 (m)",
+        "primaryLeasingCompany_Email_1": "tturnbull@rockrealestate.net",
+        "primaryLeasingCompany_Name_2": "Jason Turnbull, CCIM, SIOR",
+        "primaryLeasingCompany_Phone_2": "(717) 880-5957 (m)",
+        "primaryLeasingCompany_Email_2": "jason@rockrealestate.net",
+        "trueOwner_Company": "Rexroth Tenancy In Common Partnership"
+    },
+    {
+        "address": "9701-9745 Roosevelt Blvd Philadelphia, PA 19114",
+        "built": "2005",
+        "primaryLeasingCompany_Company": "The Goldenberg Group, Inc.",
+        "trueOwner_Company": "The Goldenberg Group, Inc.",
+        "trueOwner_Name_1": "Ben Alexander",
+        "trueOwner_Phone_1": "(215) 901-2771 (m)",
+        "trueOwner_Email_1": "balexander@goldenberggroup.com",
+        "propertyManagement_Company": "The Goldenberg Group, Inc."
+    },
+    {
+        "address": "465 Railroad Ave - Ames True Temper, Inc. Shiremanstown, PA 17011",
+        "sf": "380,000",
+        "built": "1953",
+        "primaryLeasingCompany_Company": "Ames True Temper",
+        "trueOwner_Company": "Griffon Corporation"
+    },
+    {
+        "address": "279 Lindenwood Dr - Thomas Meeting Exton, PA 19341",
+        "built": "1988",
+        "trueOwner_Company": "The Klein Company",
+        "propertyManagement_Company": "Klein Company - Thomas Meeting"
+    },
+    {
+        "address": "571 Independence Ave Mechanicsburg, PA 17055",
+        "sf": "378,000",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Bart Anderson",
+        "primaryLeasingCompany_Email_1": "bart.anderson@cbre.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis"
+    },
+    {
+        "address": "313 Conestoga Way - Eagle Stream Apartments Eagleville, PA 19403",
+        "built": "1971",
+        "trueOwner_Company": "Rockland Associates",
+        "propertyManagement_Company": "Rockland - Eagle Stream Apartments"
+    },
+    {
+        "address": "201 W Church Rd - Bldg A King of Prussia, PA 19406",
+        "sf": "376,946",
+        "built": "1958",
+        "trueOwner_Company": "Colonial Electric Supply"
+    },
+    {
+        "address": "3000 Espresso Way - Starbucks Corp. York, PA 17406",
+        "sf": "376,506",
+        "built": "1995",
+        "trueOwner_Company": "Starbucks Corporation",
+        "trueOwner_Name_1": "Doug Gordon",
+        "trueOwner_Email_1": "dgordon@starbucks.com"
+    },
+    {
+        "address": "500 Virginia Dr - 500 Virginia Dr Fort Washington, PA 19034",
+        "sf": "371,622",
+        "primaryLeasingCompany_Company": "Alliance Partners HSP, LLC",
+        "primaryLeasingCompany_Name_1": "Jake Maldonado",
+        "primaryLeasingCompany_Phone_1": "(443) 370-7405 (m)",
+        "primaryLeasingCompany_Email_1": "jmaldonado@alliancehsp.com",
+        "trueOwner_Company": "Alliance Partners HSP, LLC",
+        "trueOwner_Name_1": "Jake Maldonado",
+        "trueOwner_Phone_1": "(443) 370-7405 (m)",
+        "trueOwner_Email_1": "jmaldonado@alliancehsp.com"
+    },
+    {
+        "address": "2500 Bernville Rd - St. Joseph Medical Center Reading, PA 19605",
+        "built": "2006",
+        "trueOwner_Company": "St. Joseph Regional Health Network"
+    },
+    {
+        "address": "1801 Butler Pike - Sherry Lake Apartments Conshohocken, PA 19428",
+        "built": "1964",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Sherry Lake Apartments",
+        "propertyManagement_Name_1": "Laura Sandercock",
+        "propertyManagement_Email_1": "sherrylk@homeproperties.com"
+    },
+    {
+        "address": "299 Westminster Dr - Carlisle Crossing Carlisle, PA 17013",
+        "built": "2005",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_1": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_1": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Chad Stine",
+        "primaryLeasingCompany_Phone_2": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_2": "cstine@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Abe Khan",
+        "primaryLeasingCompany_Phone_3": "(717) 891-0836 (m)",
+        "primaryLeasingCompany_Email_3": "akhan@bennettwilliams.com",
+        "primaryLeasingCompany_Name_4": "Blake Shaffer",
+        "primaryLeasingCompany_Phone_4": "(717) 654-5612 (m)",
+        "primaryLeasingCompany_Email_4": "bshaffer@bennettwilliams.com",
+        "trueOwner_Company": "Cole Capital"
+    },
+    {
+        "address": "1086 W King Rd - Frazer Crossing Apartments Malvern, PA 19355",
+        "built": "1970",
+        "trueOwner_Company": "Harbor Group International, LLC",
+        "trueOwner_Name_1": "Karlynn Fleeger",
+        "trueOwner_Email_1": "kfleeger@harborgroupmanagement.com",
+        "propertyManagement_Company": "Harbor Group - Frazer Crossing Apartments"
+    },
+    {
+        "address": "3900 Germantown Pike Collegeville, PA 19426",
+        "sf": "368,327",
+        "built": "1939",
+        "trueOwner_Company": "Superior Tube Co Inc"
+    },
+    {
+        "address": "1001 Scott St - Oakbrook Homes Reading, PA 19611",
+        "built": "1956",
+        "trueOwner_Company": "Reading Housing Authority",
+        "propertyManagement_Company": "RHA- Oakbrook Homes"
+    },
+    {
+        "address": "101 Willowbrook Dr - Willowbrook Apartments Jeffersonville, PA 19403",
+        "built": "1972",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Willowbrook Apartments"
+    },
+    {
+        "address": "500 Meadowlake Dr - The Preserve at Milltown Downingtown, PA 19335",
+        "built": "1975",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - The Preserve at Milltown"
+    },
+    {
+        "address": "100 Cobblestone Dr - Millview Apartments Coatesville, PA 19320",
+        "built": "2002",
+        "trueOwner_Company": "Paradise Management, LLC",
+        "propertyManagement_Company": "Paradise Management - Millview Apartment Homes"
+    },
+    {
+        "address": "1000 Regatta Cir - The Point at Plymouth Meeting Norristown, PA 19401",
+        "trueOwner_Company": "Pantzer Properties",
+        "trueOwner_Name_1": "Jason Pantzer",
+        "trueOwner_Phone_1": "(917) 445-1966 (m)",
+        "trueOwner_Email_1": "jason@pancomgt.com",
+        "propertyManagement_Company": "Panco - The Point at Plymouth Meeting"
+    },
+    {
+        "address": "3301 Trindle Rd - Camp Hill Shopping Center Camp Hill, PA 17011",
+        "primaryLeasingCompany_Company": "Cedar Realty Trust, Inc.",
+        "primaryLeasingCompany_Name_1": "Dina Berlin-Blackstone",
+        "primaryLeasingCompany_Email_1": "dberlin@cdrrt.com",
+        "trueOwner_Company": "Cedar Realty Trust, Inc.",
+        "trueOwner_Name_1": "Bruce Schanzer",
+        "trueOwner_Email_1": "bschanzer@cdrrt.com",
+        "propertyManagement_Company": "Cedar Realty Trust, Inc."
+    },
+    {
+        "address": "1062 Macarthur Rd Reading, PA 19605",
+        "sf": "362,000",
+        "built": "1984",
+        "trueOwner_Company": "PVH"
+    },
+    {
+        "address": "1201 Eden Rd York, PA 17402",
+        "sf": "360,711",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Patrick Lafferty",
+        "primaryLeasingCompany_Phone_1": "(717) 940-2131 (m)",
+        "primaryLeasingCompany_Email_1": "patrick.lafferty@cbre.com",
+        "trueOwner_Company": "Kinsley Construction",
+        "trueOwner_Name_1": "Karla Houseman",
+        "trueOwner_Email_1": "khouseman@rkinsley.com"
+    },
+    {
+        "address": "405 Sterling St - Bldg 2 Camp Hill, PA 17011",
+        "sf": "360,000",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "ECD Services, Inc.",
+        "primaryLeasingCompany_Name_1": "Douglas Enck",
+        "primaryLeasingCompany_Phone_1": "(717) 497-7706 (m)",
+        "primaryLeasingCompany_Email_1": "denck@ecdservices.com",
+        "trueOwner_Company": "ECD Services, Inc.",
+        "propertyManagement_Company": "ECD Services, Inc.",
+        "propertyManagement_Name_1": "Carl Linsenbach",
+        "propertyManagement_Email_1": "carl@ecdservices.com"
+    },
+    {
+        "address": "2151 Gramercy Pl - Hershey Heights Hummelstown, PA 17036",
+        "built": "2000",
+        "trueOwner_Company": "RP Management, Inc.",
+        "propertyManagement_Company": "RP Management - Hershey Heights"
+    },
+    {
+        "address": "490 E Locust St Dallastown, PA 17313",
+        "sf": "358,456",
+        "built": "1958",
+        "trueOwner_Company": "Kratos Defense & Security Solutions, Inc."
+    },
+    {
+        "address": "240 Kindig Ln - UTZ Hanover, PA 17331",
+        "sf": "357,214",
+        "built": "1970",
+        "trueOwner_Company": "Utz Quality Foods, Inc",
+        "trueOwner_Name_1": "Dylan Lissette",
+        "trueOwner_Email_1": "dlissette@utzsnacks.com"
+    },
+    {
+        "address": "4600-4680 High Pointe Blvd - High Pointe Commons Harrisburg, PA 17111",
+        "built": "2006",
+        "primaryLeasingCompany_Company": "Levin Management",
+        "primaryLeasingCompany_Name_1": "Sid Singer",
+        "primaryLeasingCompany_Phone_1": "(856) 745-0355 (m)",
+        "primaryLeasingCompany_Email_1": "ssinger@levinmgt.com",
+        "trueOwner_Company": "Unison Realty Partners"
+    },
+    {
+        "address": "2601 River Rd - Turkey Hill Conestoga, PA 17516",
+        "sf": "354,170",
+        "built": "1980",
+        "trueOwner_Company": "W.P. Carey Inc."
+    },
+    {
+        "address": "4600 Jonestown Rd - Colonial Park Mall Harrisburg, PA 17109",
+        "primaryLeasingCompany_Company": "Metro Commercial Real Estate, Inc.",
+        "primaryLeasingCompany_Name_1": "Max Silver",
+        "primaryLeasingCompany_Phone_1": "(610) 260-2672 (m)",
+        "primaryLeasingCompany_Email_1": "msilver@metrocommercial.com",
+        "trueOwner_Company": "Kohan Retail Investment Group",
+        "trueOwner_Name_1": "Mike Kohan",
+        "trueOwner_Email_1": "Mike@kohanretail.com",
+        "propertyManagement_Company": "Washington Prime Group Inc."
+    },
+    {
+        "address": "2525 Monroe Blvd Norristown, PA 19403",
+        "sf": "352,446",
+        "built": "1970",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "trueOwner_Company": "Audubon Land Development Corporation",
+        "trueOwner_Name_1": "Tony D'orsogna",
+        "trueOwner_Phone_1": "(610) 721-5766 (m)",
+        "trueOwner_Email_1": "Tony@audubonland.com"
+    },
+    {
+        "address": "1301 Schuylkill Ave - Glenside/Hensler Homes Reading, PA 19601",
+        "built": "1939",
+        "trueOwner_Company": "Reading Housing Authority",
+        "propertyManagement_Company": "RHA- Glenside Homes"
+    },
+    {
+        "address": "1560 Joel Dr Lebanon, PA 17046",
+        "sf": "350,000",
+        "built": "2001",
+        "primaryLeasingCompany_Company": "RE/MAX of Reading",
+        "primaryLeasingCompany_Name_1": "Kent Wrobel",
+        "primaryLeasingCompany_Phone_1": "(610) 207-6229 (m)",
+        "primaryLeasingCompany_Email_1": "kwrobel@remax.net",
+        "trueOwner_Company": "Snow Goose Llp",
+        "trueOwner_Name_1": "George Christianson",
+        "trueOwner_Email_1": "Georgec@Christiansonmeyer.com"
+    },
+    {
+        "address": "427 Kings Mill Rd York, PA 17401",
+        "sf": "350,000",
+        "built": "1920",
+        "trueOwner_Company": "York College of Pennsylvania"
+    },
+    {
+        "address": "1400 AIP Dr Middletown, PA 17057",
+        "sf": "349,225",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_1": "trouse@exeterpg.com",
+        "trueOwner_Company": "Exeter Property Group"
+    },
+    {
+        "address": "801 Wilson Ave Hanover, PA 17331",
+        "sf": "348,574",
+        "built": "1969",
+        "trueOwner_Company": "THE ESAB GROUP, INC."
+    },
+    {
+        "address": "1560 Wick Ln - Blue Bell Villas Blue Bell, PA 19422",
+        "built": "1976",
+        "trueOwner_Company": "Korman Communities",
+        "propertyManagement_Company": "Korman - Blue Bell Villas"
+    },
+    {
+        "address": "200 Tranquility Ln - Heritage of Green Hills Shillington, PA 19607",
+        "built": "1978",
+        "trueOwner_Company": "Sivers Company"
+    },
+    {
+        "address": "600-650 S Trooper Rd Norristown, PA 19403",
+        "built": "2001",
+        "primaryLeasingCompany_Company": "Tornetta Realty Corp.",
+        "primaryLeasingCompany_Name_1": "Kim Tornetta Attanasio",
+        "primaryLeasingCompany_Email_1": "kta@tornettaproperties.com",
+        "trueOwner_Company": "Tornetta Realty Corp.",
+        "trueOwner_Name_1": "Charles Tornetta",
+        "trueOwner_Email_1": "ctornetta@tornetta.com",
+        "propertyManagement_Company": "Tornetta Realty Corp."
+    },
+    {
+        "address": "500 Beacon Dr - Williamsburg Estates Harrisburg, PA 17112",
+        "trueOwner_Company": "Beacon Communities LLC",
+        "propertyManagement_Company": "Beacon - Williamsburg Estates"
+    },
+    {
+        "address": "21 Windsor Way - Windsor Commons Townhomes Red Lion, PA 17356",
+        "built": "2003",
+        "trueOwner_Company": "Boyd/Wilson Property Management",
+        "propertyManagement_Company": "Boyd/Wilson - Windsor Commons Townhouses",
+        "propertyManagement_Name_1": "Kris Black",
+        "propertyManagement_Email_1": "kblack@boydwilson.com"
+    },
+    {
+        "address": "500 Independence Ave Mechanicsburg, PA 17055",
+        "sf": "342,500",
+        "built": "2007",
+        "trueOwner_Company": "Duke Realty Corporation",
+        "propertyManagement_Company": "Duke Realty Corporation",
+        "propertyManagement_Name_1": "Ryan Piercy"
+    },
+    {
+        "address": "3400 W Market St York, PA 17404",
+        "sf": "342,000",
+        "built": "1982",
+        "trueOwner_Company": "Marci Plotkin",
+        "trueOwner_Name_1": "Marci Plotkin",
+        "trueOwner_Email_1": "Marci.plotkin@sbcglobal.net"
+    },
+    {
+        "address": "3489-3573 Capital City Mall Dr - Capital City Mall Camp Hill, PA 17011",
+        "primaryLeasingCompany_Company": "Landmark Commercial Realty Inc.",
+        "primaryLeasingCompany_Name_1": "Ted Pfeifer",
+        "primaryLeasingCompany_Phone_1": "(717) 799-4004 (m)",
+        "primaryLeasingCompany_Email_1": "tpfeifer@landmarkcr.com",
+        "trueOwner_Company": "Pennsylvania Real Estate Investment Trust"
+    },
+    {
+        "address": "1800 Loucks Rd - West Manchester Town Center York, PA 17408",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_1": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_1": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Chad Stine",
+        "primaryLeasingCompany_Phone_2": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_2": "cstine@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Abe Khan",
+        "primaryLeasingCompany_Phone_3": "(717) 891-0836 (m)",
+        "primaryLeasingCompany_Email_3": "akhan@bennettwilliams.com",
+        "primaryLeasingCompany_Name_4": "Blake Shaffer",
+        "primaryLeasingCompany_Phone_4": "(717) 654-5612 (m)",
+        "primaryLeasingCompany_Email_4": "bshaffer@bennettwilliams.com",
+        "trueOwner_Company": "M&R Investors",
+        "trueOwner_Name_1": "Anthony Ruggeri",
+        "propertyManagement_Company": "West Manchester Mall",
+        "propertyManagement_Name_1": "Barbara Bacior"
+    },
+    {
+        "address": "201 Cumberland Pky Mechanicsburg, PA 17055",
+        "sf": "340,000",
+        "built": "1992",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "trueOwner_Company": "Blackstone Real Estate Income Trust, Inc."
+    },
+    {
+        "address": "340 Emig Rd - Emig Mill Business Ctr York, PA 17406",
+        "sf": "340,000",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_1": "trouse@exeterpg.com",
+        "trueOwner_Company": "Exeter Property Group",
+        "trueOwner_Name_1": "Edward Fitzgerald",
+        "trueOwner_Email_1": "wfitzgerald@exeterpg.com"
+    },
+    {
+        "address": "336-340 Heinz St - Arnold Logistics - Building 9 Mechanicsburg, PA 17055",
+        "sf": "340,000",
+        "built": "1989",
+        "trueOwner_Company": "Hager Pacific Properties",
+        "trueOwner_Name_1": "Moshe Hager",
+        "trueOwner_Email_1": "mhager@hagerpacific.com"
+    },
+    {
+        "address": "101 Norwood House Rd - Norwood House Apartments Downingtown, PA 19335",
+        "built": "1971",
+        "trueOwner_Company": "Westover Companies",
+        "propertyManagement_Company": "Westover - Norwood House"
+    },
+    {
+        "address": "500 Community Dr - Shillington Commons Reading, PA 19607",
+        "built": "1968",
+        "trueOwner_Company": "The Kamson Corporation",
+        "propertyManagement_Company": "Kamson - Shillington Commons"
+    },
+    {
+        "address": "431 Railroad Ave Camp Hill, PA 17011",
+        "sf": "338,303",
+        "built": "1966",
+        "primaryLeasingCompany_Company": "Lee & Associates of Eastern Pennsylvania, LLC",
+        "primaryLeasingCompany_Name_1": "Ed Skonecki",
+        "primaryLeasingCompany_Phone_1": "(717) 562-0901 (m)",
+        "primaryLeasingCompany_Email_1": "eskonecki@lee-associates.com",
+        "primaryLeasingCompany_Name_2": "Joel Kreider",
+        "primaryLeasingCompany_Phone_2": "(724) 601-4493 (m)",
+        "primaryLeasingCompany_Email_2": "jkreider@lee-associates.com",
+        "trueOwner_Company": "First Industrial Realty Trust, Inc.",
+        "trueOwner_Name_1": "Peter Baccile",
+        "trueOwner_Email_1": "pbaccile@firstindustrial.com",
+        "propertyManagement_Company": "First Industrial Realty Trust, Inc.",
+        "propertyManagement_Name_1": "Jeffrey Thomas",
+        "propertyManagement_Phone_1": "(717) 991-2734 (m)",
+        "propertyManagement_Email_1": "jthomas@firstindustrial.com"
+    },
+    {
+        "address": "318 June Ave - BlueStar Appliances Blandon, PA 19510",
+        "sf": "338,301",
+        "built": "1973",
+        "trueOwner_Company": "BlueStar Appliances"
+    },
+    {
+        "address": "500 New Holland Ave - Bldg 2 Lancaster, PA 17602",
+        "sf": "337,000",
+        "built": "1933",
+        "trueOwner_Company": "Urban Place Lp"
+    },
+    {
+        "address": "42 Oak Ridge Dr - Powder Mill Apartments York, PA 17402",
+        "built": "1977",
+        "trueOwner_Company": "Manor Communities",
+        "propertyManagement_Company": "Manor Management - Powder Mill Apartments",
+        "propertyManagement_Name_1": "Tina Ruppert",
+        "propertyManagement_Email_1": "truppert@themanorgroup.com"
+    },
+    {
+        "address": "6180 Morgantown Rd - Morgantown Center Morgantown, PA 19543",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Audubon Land Development Corporation",
+        "primaryLeasingCompany_Name_1": "Alyssa Neilson- Borzillo",
+        "primaryLeasingCompany_Phone_1": "(610) 513-1250 (m)",
+        "primaryLeasingCompany_Email_1": "alyssa.n@audubonland.com",
+        "trueOwner_Company": "Audubon Land Development Corporation",
+        "trueOwner_Name_1": "Tony D'orsogna",
+        "trueOwner_Phone_1": "(610) 721-5766 (m)",
+        "trueOwner_Email_1": "Tony@audubonland.com",
+        "propertyManagement_Company": "Morelli Rental Corporation",
+        "propertyManagement_Name_1": "Chuck Frank",
+        "propertyManagement_Email_1": "chuck@morellirental.com"
+    },
+    {
+        "address": "3145 Shillington Rd Reading, PA 19608",
+        "sf": "334,974",
+        "built": "1960",
+        "primaryLeasingCompany_Company": "Keller Williams Platinum Realty",
+        "primaryLeasingCompany_Name_1": "Jeff Hettinger",
+        "primaryLeasingCompany_Phone_1": "(610) 334-6624 (m)",
+        "primaryLeasingCompany_Email_1": "jeffhettinger@kw.com",
+        "trueOwner_Company": "Bernard Hofmann",
+        "trueOwner_Name_1": "Bernard Hofmann",
+        "trueOwner_Email_1": "bhofmann@reid-hofmann.com"
+    },
+    {
+        "address": "100 Bridlewood Way - Greenspring Apartments York, PA 17402",
+        "trueOwner_Company": "AION Partners",
+        "propertyManagement_Company": "AION - Greenspring Apartments"
+    },
+    {
+        "address": "200 Eastwick St - Exeter Village Reading, PA 19606",
+        "built": "2000",
+        "trueOwner_Company": "Equus Capital Partners, Ltd.",
+        "propertyManagement_Company": "The Galman Group - Exeter Village"
+    },
+    {
+        "address": "450 Forest Ave - 450 Green Apartments East Norriton, PA 19401",
+        "built": "1960",
+        "trueOwner_Company": "Lindy Communities",
+        "propertyManagement_Company": "Lindy - 450 Green Apartments"
+    },
+    {
+        "address": "1700 Butler Pike - Plymouth Park Apartments Conshohocken, PA 19428",
+        "built": "1970",
+        "trueOwner_Company": "Samuel Geltman & Company",
+        "propertyManagement_Company": "Samuel Geltman - Plymouth Park"
+    },
+    {
+        "address": "50 Eisenhower Dr - Springetts Apartments York, PA 17402",
+        "built": "1969",
+        "trueOwner_Company": "Manor Communities",
+        "propertyManagement_Company": "Manor Management - Springetts Apartments"
+    },
+    {
+        "address": "1633-A Judie Ln - The Villages Of Lancaster Green Lancaster, PA 17603",
+        "built": "1969",
+        "trueOwner_Company": "RP Management, Inc.",
+        "trueOwner_Name_1": "Michael Cohen",
+        "trueOwner_Email_1": "mcohen@rpmgt.com",
+        "propertyManagement_Company": "RP Management - The Villages of Lancaster Green"
+    },
+    {
+        "address": "40 Dennis Dr - R.M. Palmer Company Reading, PA 19606",
+        "sf": "330,682",
+        "built": "1992",
+        "trueOwner_Company": "R.M. Palmer"
+    },
+    {
+        "address": "500 W Germantown Pike - Plymouth Meeting Mall Plymouth Meeting, PA 19462",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "John Krause",
+        "primaryLeasingCompany_Phone_1": "(215) 740-4262 (m)",
+        "primaryLeasingCompany_Email_1": "john.krause@cbre.com",
+        "primaryLeasingCompany_Name_2": "Brian Bruzek",
+        "primaryLeasingCompany_Phone_2": "(215) 900-2541 (m)",
+        "primaryLeasingCompany_Email_2": "brian.bruzek@cbre.com",
+        "primaryLeasingCompany_Name_3": "John La Prise",
+        "primaryLeasingCompany_Email_3": "john.laprise@cbre.com",
+        "trueOwner_Company": "Pennsylvania Real Estate Investment Trust",
+        "propertyManagement_Company": "Pennsylvania Real Estate Investment Trust"
+    },
+    {
+        "address": "6 Doughten Rd New Kingstown, PA 17072",
+        "sf": "330,000",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Adam Campbell",
+        "primaryLeasingCompany_Phone_1": "(717) 798-4514 (m)",
+        "primaryLeasingCompany_Email_1": "adam.campbell@cushwake.com",
+        "trueOwner_Company": "STAG Industrial, Inc.",
+        "propertyManagement_Company": "CBRE, Inc"
+    },
+    {
+        "address": "219 Sugartown Rd - La Maison Apartments Wayne, PA 19087",
+        "built": "1970",
+        "trueOwner_Company": "Richard S. Sposato",
+        "trueOwner_Name_1": "Richard Sposato",
+        "trueOwner_Email_1": "info@lamaisonapartments.net",
+        "propertyManagement_Company": "La Maison"
+    },
+    {
+        "address": "18 Westover Club Dr - Westover Club West Norriton, PA 19403",
+        "built": "1970",
+        "trueOwner_Company": "Scully Company",
+        "propertyManagement_Company": "Scully - Westover Club Apartments"
+    },
+    {
+        "address": "8 Welsh Dr - Colebrook Apartments Lancaster, PA 17601",
+        "built": "1974",
+        "trueOwner_Company": "Cammeby's International",
+        "propertyManagement_Company": "JCM - Colebrook Apartments",
+        "propertyManagement_Name_1": "Misty Jones",
+        "propertyManagement_Email_1": "mistyj@jerseyc.com"
+    },
+    {
+        "address": "750 Linden Ave York, PA 17404",
+        "sf": "325,610",
+        "built": "1895",
+        "trueOwner_Company": "York Wallcoverings Inc"
+    },
+    {
+        "address": "1055-1101 Crossroads Blvd Reading, PA 19605",
+        "sf": "324,132",
+        "built": "1993",
+        "trueOwner_Company": "Crossroad Beverage Group LLC",
+        "trueOwner_Name_1": "Kirk Richmond"
+    },
+    {
+        "address": "100 Crestwyck Cir - The Crest at Elm Tree Apartments Mount Joy, PA 17552",
+        "built": "2005",
+        "trueOwner_Company": "B&F Properties",
+        "propertyManagement_Company": "B&F Properties - The Crest At Elm Tree"
+    },
+    {
+        "address": "701 Sterling Pl - Waterford at Sterling Place Lancaster, PA 17603",
+        "built": "1997",
+        "trueOwner_Company": "McCormack Baron Salazar",
+        "propertyManagement_Company": "McCormack - Waterford at Sterling Place",
+        "propertyManagement_Name_1": "Marilyn Rodriguez",
+        "propertyManagement_Email_1": "marilyn.rodriguez@Mccormackbaron.com"
+    },
+    {
+        "address": "1041 W Valley Rd - Ebeling & Reuss Bldg Wayne, PA 19087",
+        "sf": "322,740",
+        "primaryLeasingCompany_Company": "Vanguard",
+        "primaryLeasingCompany_Name_1": "Susan Montgomery",
+        "primaryLeasingCompany_Email_1": "susan_montgomery@vanguard.com",
+        "trueOwner_Company": "Vanguard",
+        "propertyManagement_Company": "Vanguard"
+    },
+    {
+        "address": "600 Creekside Ln - Newport Commons Apartments Lititz, PA 17543",
+        "built": "2003",
+        "trueOwner_Company": "Dana Glass Properties, Inc.",
+        "propertyManagement_Company": "Boyd/Wilson - Newport Commons Apartments"
+    },
+    {
+        "address": "900 Reisling Ln - Spring House at Brandywine West Chester, PA 19382",
+        "trueOwner_Company": "Coastal Ridge Real Estate",
+        "trueOwner_Name_1": "Patrick McBride",
+        "trueOwner_Email_1": "pmcbride@coastalridgere.com",
+        "propertyManagement_Company": "Coastal Ridge - Spring House at Brandywine",
+        "propertyManagement_Name_1": "Tabitha Hans-Arroyo",
+        "propertyManagement_Email_1": "thansarroyo@springhouseatbrandywine.com"
+    },
+    {
+        "address": "100 Capital Ln - Building 100 Middletown, PA 17057",
+        "sf": "321,333",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Patrick McBride",
+        "primaryLeasingCompany_Phone_1": "(717) 919-1689 (m)",
+        "primaryLeasingCompany_Email_1": "pat.mcbride@cushwake.com",
+        "trueOwner_Company": "The Blackstone Group L.P.",
+        "propertyManagement_Company": "Woodmont Properties",
+        "propertyManagement_Name_1": "Eric Witmondt",
+        "propertyManagement_Email_1": "eric.witmondt@woodmontproperties.com"
+    },
+    {
+        "address": "Gap Newport Pike - London Grove Village Shopping Center Avondale, PA 19311",
+        "built": "2007",
+        "primaryLeasingCompany_Company": "Pettinaro Management, LLC.",
+        "primaryLeasingCompany_Name_1": "Timothy Spencer",
+        "primaryLeasingCompany_Phone_1": "(484) 888-3251 (m)",
+        "primaryLeasingCompany_Email_1": "tjspencer@pettinaro.com",
+        "trueOwner_Company": "Pettinaro Corporation",
+        "trueOwner_Name_1": "Dena Hendry",
+        "trueOwner_Phone_1": "(302) 559-7709 (m)",
+        "trueOwner_Email_1": "dhendry@pettinaro.com"
+    },
+    {
+        "address": "26 Barnhart Dr Hanover, PA 17331",
+        "sf": "320,458",
+        "built": "1990",
+        "primaryLeasingCompany_Company": "Hanover Logistics",
+        "primaryLeasingCompany_Name_1": "Kurt Dietrich",
+        "primaryLeasingCompany_Phone_1": "(805) 441-6274 (m)",
+        "primaryLeasingCompany_Email_1": "kurt.dietrich@hanoverlogistics.com",
+        "primaryLeasingCompany_Name_2": "Kevin Davis",
+        "primaryLeasingCompany_Phone_2": "(805) 441-6274 (m)",
+        "primaryLeasingCompany_Email_2": "kevin.davis@hanoverlogistics.com",
+        "trueOwner_Company": "Hanover Logistics",
+        "trueOwner_Name_1": "Kurt Dietrich",
+        "trueOwner_Phone_1": "(805) 441-6274 (m)",
+        "trueOwner_Email_1": "kurt.dietrich@hanoverlogistics.com"
+    },
+    {
+        "address": "830 N Highlands Dr - The Terraces at Springford Harrisburg, PA 17111",
+        "built": "1997",
+        "trueOwner_Company": "DeSouza Brown Incorporated",
+        "propertyManagement_Company": "DeSouza Brown - Terraces at Springford",
+        "propertyManagement_Name_1": "Kristen Morrisey",
+        "propertyManagement_Email_1": "terraces@desouzabrown.com"
+    },
+    {
+        "address": "1300 Fayette St - Plymouth Gardens Conshohocken, PA 19428",
+        "built": "1967",
+        "trueOwner_Company": "Samuel Geltman & Company",
+        "propertyManagement_Company": "Samuel Geltman - Plymouth Gardens",
+        "propertyManagement_Name_1": "Donna Weiss",
+        "propertyManagement_Email_1": "plymouthgardens@comcast.net"
+    },
+    {
+        "address": "1415 Spencer Ave - Manor House Lancaster, PA 17603",
+        "built": "1962",
+        "trueOwner_Company": "Manor Communities",
+        "propertyManagement_Company": "Manor Communities - Manor House Apartments"
+    },
+    {
+        "address": "40 High St Philadelphia, PA 19144",
+        "built": "1914"
+    },
+    {
+        "address": "300 E Marshall St - The Metropolitan West Chester West Chester, PA 19380",
+        "built": "1973",
+        "trueOwner_Company": "Seven Oaks Investors",
+        "trueOwner_Name_1": "Judith Goldstein",
+        "propertyManagement_Company": "Metropolitan - The Metropolitan West Chester"
+    },
+    {
+        "address": "191 S Keim St - Bldg 1B1C1E Pottstown, PA 19464",
+        "sf": "317,000",
+        "primaryLeasingCompany_Company": "Industrial Investments, Inc.",
+        "primaryLeasingCompany_Name_1": "Jay Bown",
+        "primaryLeasingCompany_Email_1": "jbown@industrialinvestments.com",
+        "trueOwner_Company": "Industrial Investments, Inc.",
+        "trueOwner_Name_1": "John Bown",
+        "trueOwner_Phone_1": "(215) 290-2919 (m)",
+        "trueOwner_Email_1": "jabown@industrialinvestments.com",
+        "propertyManagement_Company": "Industrial Investments, Inc.",
+        "propertyManagement_Name_1": "Jay Bown",
+        "propertyManagement_Email_1": "jbown@industrialinvestments.com"
+    },
+    {
+        "address": "5069 Stacey Dr E - Aspen Hill Apartments Harrisburg, PA 17111",
+        "built": "1972",
+        "trueOwner_Company": "Altman Management Company",
+        "trueOwner_Name_1": "Ben Altman",
+        "trueOwner_Phone_1": "(267) 625-3582 (m)",
+        "trueOwner_Email_1": "ben@altmanco.com",
+        "propertyManagement_Company": "Altman - Aspen Hill Apartments"
+    },
+    {
+        "address": "1107 Bern Rd Wyomissing, PA 19610",
+        "sf": "315,075",
+        "built": "1920",
+        "primaryLeasingCompany_Company": "NAI Keystone Commercial & Industrial LLC",
+        "primaryLeasingCompany_Name_1": "Bryan Cole, SIOR",
+        "primaryLeasingCompany_Phone_1": "(610) 209-9624 (m)",
+        "primaryLeasingCompany_Email_1": "bcole@naikeystone.com"
+    },
+    {
+        "address": "201 Center St Hanover, PA 17331",
+        "sf": "315,000",
+        "built": "1995",
+        "primaryLeasingCompany_Company": "Dietrich & Associates, Inc.",
+        "primaryLeasingCompany_Name_1": "Kurt Dietrich",
+        "primaryLeasingCompany_Phone_1": "(805) 441-6274 (m)",
+        "primaryLeasingCompany_Email_1": "kurt.dietrich@hanoverlogistics.com",
+        "trueOwner_Company": "Krista Dietrich & Kate Davis",
+        "trueOwner_Name_1": "Krista Dietrich",
+        "trueOwner_Email_1": "kdivine4@aol.com",
+        "propertyManagement_Company": "Hanover Logistics",
+        "propertyManagement_Name_1": "Kevin Davis",
+        "propertyManagement_Phone_1": "(805) 441-6274 (m)",
+        "propertyManagement_Email_1": "kevin.davis@hanoverlogistics.com"
+    },
+    {
+        "address": "4388 Main St - Connelly Containers Philadelphia, PA 19127",
+        "sf": "315,000",
+        "built": "1960",
+        "primaryLeasingCompany_Company": "Connelly Containers Inc.",
+        "primaryLeasingCompany_Name_1": "Tom Connelly",
+        "propertyManagement_Company": "Connelly Containers Inc.",
+        "propertyManagement_Name_1": "Tom Connelly"
+    },
+    {
+        "address": "200 W Stewart Huston Dr Coatesville, PA 19320",
+        "sf": "314,521",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "BPG Management Corporation",
+        "trueOwner_Company": "Communications Test Design, Inc.",
+        "trueOwner_Name_1": "Gerald Parsons",
+        "propertyManagement_Company": "BPG Management Corporation",
+        "propertyManagement_Name_1": "Mark Brenan"
+    },
+    {
+        "address": "576 Yellow Hill Rd - Lake in Wood RV Resort Narvon, PA 17555",
+        "built": "1890",
+        "trueOwner_Company": "Sun Communities, Inc.",
+        "trueOwner_Name_1": "Gary Shiffman",
+        "trueOwner_Email_1": "gshiffman@suncommunities.com",
+        "propertyManagement_Company": "Sun - Lake in Wood RV Resort"
+    },
+    {
+        "address": "515 N Zarfoss Dr - York Distribution Center York, PA 17404",
+        "sf": "312,769",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Prologis",
+        "primaryLeasingCompany_Name_1": "Megan Buffington",
+        "primaryLeasingCompany_Phone_1": "(717) 919-3478 (m)",
+        "primaryLeasingCompany_Email_1": "mbuffington@prologis.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis"
+    },
+    {
+        "address": "334 Lopax Rd - Treeview Apartments Harrisburg, PA 17112",
+        "built": "1978",
+        "trueOwner_Company": "DeSouza Brown Incorporated",
+        "propertyManagement_Company": "DeSouza Brown - Treeview Apartments",
+        "propertyManagement_Name_1": "Lonney Greene",
+        "propertyManagement_Email_1": "lgreene@desouzabrown.com"
+    },
+    {
+        "address": "590 Candlewyck Rd - Belair Luxury Town Homes Lancaster, PA 17601",
+        "built": "1988",
+        "trueOwner_Company": "RP Management, Inc.",
+        "propertyManagement_Company": "RP Management - Belair Townhomes"
+    },
+    {
+        "address": "35 Dauphin Dr Mechanicsburg, PA 17050",
+        "sf": "310,050",
+        "built": "2008",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Vincent Ranalli",
+        "primaryLeasingCompany_Phone_1": "(610) 308-4958 (m)",
+        "primaryLeasingCompany_Email_1": "vincent.ranalli@cbre.com",
+        "primaryLeasingCompany_Name_2": "Melissa Rykowski",
+        "primaryLeasingCompany_Email_2": "melissa.rykowski@cbre.com",
+        "primaryLeasingCompany_Name_3": "Tony Gruenling",
+        "primaryLeasingCompany_Email_3": "Tony.Gruenling@cbre.com",
+        "trueOwner_Company": "Hartz Mountain Industries, Inc."
+    },
+    {
+        "address": "2500 Rolo Ct - Crestview Mobile Home Park Mechanicsburg, PA 17055",
+        "built": "1987",
+        "trueOwner_Company": "Carl E & Kelly J Dallmeyer",
+        "trueOwner_Name_1": "Carl Dallmeyer",
+        "trueOwner_Email_1": "Carl@TritonBG.com"
+    },
+    {
+        "address": "9200 Bustleton Ave - Heatherwood Apartments Philadelphia, PA 19115",
+        "built": "1972",
+        "trueOwner_Company": "Altman Management Company",
+        "propertyManagement_Company": "Altman - Heatherwood Apartments"
+    },
+    {
+        "address": "2120 Buchert Rd - Rolling Hills Apartments Pottstown, PA 19464",
+        "built": "1974",
+        "trueOwner_Company": "Interstate Realty Management",
+        "propertyManagement_Company": "Interstate - Rolling Hills Apartments"
+    },
+    {
+        "address": "760 E Berlin Rd - Voith York, PA 17408",
+        "sf": "308,000",
+        "built": "1978",
+        "trueOwner_Company": "Voith",
+        "trueOwner_Name_1": "Toralf Haag"
+    },
+    {
+        "address": "3990 E Market St York, PA 17402",
+        "sf": "307,321",
+        "built": "1968",
+        "trueOwner_Company": "W.P. Carey Inc."
+    },
+    {
+        "address": "100 Wickshire Cir - Highlands at Warwick Lititz, PA 17543",
+        "built": "2000",
+        "trueOwner_Company": "B&F Properties",
+        "propertyManagement_Company": "B&F Properties - Highlands at Warwick",
+        "propertyManagement_Name_1": "Caroline Schompert",
+        "propertyManagement_Email_1": "caroline@bfproperty.com"
+    },
+    {
+        "address": "2501-2555 E Market St - York Marketplace York, PA 17402",
+        "built": "1994",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Abe Khan",
+        "primaryLeasingCompany_Phone_1": "(717) 891-0836 (m)",
+        "primaryLeasingCompany_Email_1": "akhan@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_2": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_2": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Chad Stine",
+        "primaryLeasingCompany_Phone_3": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_3": "cstine@bennettwilliams.com",
+        "trueOwner_Company": "The Blackstone Group L.P.",
+        "trueOwner_Name_1": "Jacob Werner",
+        "trueOwner_Phone_1": "(917) 855-1548 (m)",
+        "trueOwner_Email_1": "werner@blackstone.com",
+        "propertyManagement_Company": "ShopCore Properties",
+        "propertyManagement_Name_1": "Scott Krumm",
+        "propertyManagement_Email_1": "skrumm@shopcore.com"
+    },
+    {
+        "address": "2090 Lincoln Hwy E - East Towne Centre Lancaster, PA 17602",
+        "built": "1974",
+        "primaryLeasingCompany_Company": "Pennmark Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Robert Sichelstiel",
+        "primaryLeasingCompany_Phone_1": "(484) 686-8302 (m)",
+        "primaryLeasingCompany_Email_1": "Sichelstiel@pennmarkproperties.com",
+        "primaryLeasingCompany_Name_2": "Justin Bartholomew",
+        "primaryLeasingCompany_Email_2": "justin@pennmarkproperties.com",
+        "trueOwner_Company": "Oritani Bank",
+        "trueOwner_Name_1": "Kevin Lynch"
+    },
+    {
+        "address": "100-126 Colonial Dr - Governor Mifflin Apartments Shillington, PA 19607",
+        "built": "1969",
+        "trueOwner_Company": "Westover Companies",
+        "propertyManagement_Company": "Westover - Governor Mifflin Apartments"
+    },
+    {
+        "address": "720 Laurel St - United Corrstack LLC Reading, PA 19602",
+        "sf": "304,656",
+        "built": "1900",
+        "trueOwner_Company": "Interstate Resources, Inc.",
+        "trueOwner_Name_1": "Charles Feghali",
+        "trueOwner_Email_1": "Charles.Feghali@iripaper.com"
+    },
+    {
+        "address": "1735 Old Philadelphia Pike - Cedar Acres Lancaster, PA 17602",
+        "built": "1975",
+        "trueOwner_Company": "Cedar Acres",
+        "trueOwner_Name_1": "Andrew Sheaffer",
+        "trueOwner_Email_1": "sheaffer.andrew@gmail.com",
+        "propertyManagement_Company": "Cedar Acres"
+    },
+    {
+        "address": "2000 Maplewood Dr - York Apartments York, PA 17403",
+        "built": "1965",
+        "trueOwner_Company": "Altman Management Company",
+        "propertyManagement_Company": "Altman - York Apartments"
+    },
+    {
+        "address": "1035 Longford Rd Phoenixville, PA 19460",
+        "sf": "300,053",
+        "built": "1950",
+        "trueOwner_Company": "Graphic Packaging International"
+    },
+    {
+        "address": "1000 New Holland Ave - Burle Business Park - Building 2 Lancaster, PA 17601",
+        "sf": "300,000",
+        "primaryLeasingCompany_Company": "Burle Business Park",
+        "primaryLeasingCompany_Name_1": "Althea Ramsay Carrigan",
+        "primaryLeasingCompany_Phone_1": "(717) 669-8861 (m)",
+        "primaryLeasingCompany_Email_1": "ramsaya@burlepark.com",
+        "trueOwner_Company": "Burle Business Park",
+        "trueOwner_Name_1": "Althea Ramsay Carrigan",
+        "trueOwner_Phone_1": "(717) 669-8861 (m)",
+        "trueOwner_Email_1": "ramsaya@burlepark.com",
+        "propertyManagement_Company": "Burle Business Park"
+    },
+    {
+        "address": "1800 Cloister Dr Lancaster, PA 17601",
+        "sf": "300,000",
+        "built": "1998",
+        "trueOwner_Company": "Hager Pacific Properties",
+        "trueOwner_Name_1": "Moshe Hager",
+        "trueOwner_Email_1": "mhager@hagerpacific.com"
+    },
+    {
+        "address": "715 Fountain Ave Lancaster, PA 17601",
+        "sf": "300,000",
+        "built": "1914"
+    },
+    {
+        "address": "7125 Grayson Rd Harrisburg, PA 17111",
+        "sf": "300,000",
+        "built": "1991",
+        "primaryLeasingCompany_Company": "Lee & Associates of Eastern Pennsylvania, LLC",
+        "primaryLeasingCompany_Name_1": "Ed Skonecki",
+        "primaryLeasingCompany_Phone_1": "(717) 562-0901 (m)",
+        "primaryLeasingCompany_Email_1": "eskonecki@lee-associates.com",
+        "primaryLeasingCompany_Name_2": "Joel Kreider",
+        "primaryLeasingCompany_Phone_2": "(724) 601-4493 (m)",
+        "primaryLeasingCompany_Email_2": "jkreider@lee-associates.com",
+        "primaryLeasingCompany_Name_3": "John Van Buskirk, SIOR",
+        "primaryLeasingCompany_Phone_3": "(717) 497-1276 (m)",
+        "primaryLeasingCompany_Email_3": "jvanbuskirk@lee-associates.com",
+        "primaryLeasingCompany_Name_4": "Alexis Briggs",
+        "primaryLeasingCompany_Phone_4": "(717) 610-4179 (m)",
+        "primaryLeasingCompany_Email_4": "abriggs@lee-associates.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis"
+    },
+    {
+        "address": "11350 Norcom Rd Philadelphia, PA 19154",
+        "sf": "300,000",
+        "built": "1968",
+        "trueOwner_Company": "Monarch Brands"
+    },
+    {
+        "address": "1109 E Baltimore Pike - Kendal Kennett Square, PA 19348",
+        "built": "1973",
+        "trueOwner_Company": "Kendal-Crosslands Communities",
+        "trueOwner_Name_1": "Philip DeBaun"
+    },
+    {
+        "address": "201 Osprey Ln - The Reserve and Gardens at Hershey Meadows Hummelstown, PA 17036",
+        "built": "2006",
+        "trueOwner_Company": "DeSouza Brown Incorporated",
+        "trueOwner_Name_1": "Marc DeSouza",
+        "trueOwner_Email_1": "mdesouza@desouzabrown.com",
+        "propertyManagement_Company": "DeSouza Brown - The Gardens at Hershey Meadows"
+    },
+    {
+        "address": "3000 Espresso Way - Building 2 York, PA 17406",
+        "sf": "298,000",
+        "built": "2001",
+        "trueOwner_Company": "Starbucks Corporation",
+        "trueOwner_Name_1": "Doug Gordon",
+        "trueOwner_Email_1": "dgordon@starbucks.com"
+    },
+    {
+        "address": "4000 Geerdes Blvd - Orchards of King of Prussia King of Prussia, PA 19406",
+        "sf": "297,665",
+        "built": "1988",
+        "trueOwner_Company": "Lockheed Martin Corporation",
+        "propertyManagement_Company": "Lockheed Martin Corporation",
+        "propertyManagement_Name_1": "John Happick"
+    },
+    {
+        "address": "229 N 5th Ave - Building 3 Lebanon, PA 17046",
+        "sf": "297,491",
+        "primaryLeasingCompany_Company": "NAI Keystone Commercial & Industrial LLC",
+        "primaryLeasingCompany_Name_1": "Steve Willems, SIOR",
+        "primaryLeasingCompany_Phone_1": "(610) 334-0272 (m)",
+        "primaryLeasingCompany_Email_1": "swillems@naikeystone.com",
+        "trueOwner_Company": "Lincoln Fifth Corporation"
+    },
+    {
+        "address": "9490 Blue Grass Rd - Forman Mills/jomar Philadelphia, PA 19114",
+        "primaryLeasingCompany_Company": "Metro Commercial Real Estate, Inc.",
+        "primaryLeasingCompany_Name_1": "Greg Jones",
+        "primaryLeasingCompany_Phone_1": "(484) 948-5217 (m)",
+        "primaryLeasingCompany_Email_1": "gjones@metrocommercial.com",
+        "trueOwner_Company": "Sant Properties",
+        "trueOwner_Name_1": "Hardeep Chawla"
+    },
+    {
+        "address": "4275 Reading Crest Ave - Novipax - Plant Reading, PA 19605",
+        "sf": "294,390",
+        "built": "1968",
+        "trueOwner_Company": "DRA Advisors LLC",
+        "trueOwner_Name_1": "David Luski",
+        "trueOwner_Email_1": "dluski@draadvisors.com"
+    },
+    {
+        "address": "800 E Park Dr - Four Points Sheraton Harrisburg, PA 17111",
+        "built": "1980",
+        "trueOwner_Company": "The Hershey Company"
+    },
+    {
+        "address": "1684 S Broad St - The Pinnacle Lansdale, PA 19446",
+        "sf": "293,910",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Stephen Kriz",
+        "primaryLeasingCompany_Phone_1": "(215) 272-0316 (m)",
+        "primaryLeasingCompany_Email_1": "stephen.kriz@cbre.com",
+        "primaryLeasingCompany_Name_2": "Brian Smyth",
+        "primaryLeasingCompany_Phone_2": "(484) 368-6394 (m)",
+        "primaryLeasingCompany_Email_2": "brian.smyth@cbre.com",
+        "trueOwner_Company": "Nicoletti Robert Family Trust",
+        "trueOwner_Name_1": "Mark Nicoletti",
+        "trueOwner_Phone_1": "(215) 651-0717 (m)",
+        "trueOwner_Email_1": "mnicoletti@gmail.com",
+        "propertyManagement_Company": "Merck & Co. Inc"
+    },
+    {
+        "address": "447 Old Swede Rd - KIWI Building Douglassville, PA 19518",
+        "sf": "293,038",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "primaryLeasingCompany_Name_2": "Justin Call",
+        "primaryLeasingCompany_Phone_2": "(610) 721-7649 (m)",
+        "primaryLeasingCompany_Email_2": "jcall@audubonland.com",
+        "trueOwner_Company": "Suburban Management Company, Inc.",
+        "propertyManagement_Company": "Cosmetic Essence Innovations",
+        "propertyManagement_Name_1": "Eleanor Hauer"
+    },
+    {
+        "address": "1100 Brennan Blvd - Orion Frazer, PA 19355",
+        "sf": "292,440",
+        "built": "2001",
+        "trueOwner_Company": "Vanguard"
+    },
+    {
+        "address": "300 Lackawanna St - Jamestown Village Apartments Reading, PA 19601",
+        "built": "1973",
+        "trueOwner_Company": "Preservation Management, Inc.",
+        "propertyManagement_Company": "Preservation - Jamestown Village Apartments"
+    },
+    {
+        "address": "8 Lee Blvd Malvern, PA 19355",
+        "sf": "291,349",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_1": "trouse@exeterpg.com",
+        "trueOwner_Company": "Mapletree US Management, LLC",
+        "trueOwner_Name_1": "Brian Roach"
+    },
+    {
+        "address": "755 Brackbill Rd Gap, PA 17527",
+        "sf": "291,116",
+        "built": "1900",
+        "trueOwner_Company": "URBN"
+    },
+    {
+        "address": "20 Industrial Dr Hanover, PA 17331",
+        "sf": "290,000",
+        "built": "1967",
+        "trueOwner_Company": "Sky Management Services, LLC"
+    },
+    {
+        "address": "400 Running Pump Rd Lancaster, PA 17603",
+        "sf": "288,655",
+        "built": "1977",
+        "trueOwner_Company": "The Hershey Company",
+        "trueOwner_Name_1": "Susan Angele",
+        "trueOwner_Email_1": "sangele@yahoo.com"
+    },
+    {
+        "address": "1400 Orchard View Rd - Woodgate Reading, PA 19606",
+        "built": "1987",
+        "trueOwner_Company": "William Isenberg",
+        "trueOwner_Name_1": "William Isenberg",
+        "propertyManagement_Company": "RP Management - Woodgate Apartments"
+    },
+    {
+        "address": "1499 Zeager Rd Elizabethtown, PA 17022",
+        "sf": "285,201",
+        "built": "1991",
+        "primaryLeasingCompany_Company": "Exeter Property Group",
+        "primaryLeasingCompany_Name_1": "Tilghman Rouse",
+        "primaryLeasingCompany_Email_1": "trouse@exeterpg.com",
+        "trueOwner_Company": "Exeter Property Group",
+        "trueOwner_Name_1": "Edward Fitzgerald",
+        "trueOwner_Email_1": "wfitzgerald@exeterpg.com"
+    },
+    {
+        "address": "1615 E Boot Rd - Bellingham West Chester, PA 19380",
+        "built": "1991",
+        "trueOwner_Company": "Senior Lifestyle Corporation",
+        "trueOwner_Name_1": "Peter Kravaritis",
+        "trueOwner_Phone_1": "(224) 220-6856 (m)",
+        "trueOwner_Email_1": "pkravaritis@seniorlifestyle.com",
+        "propertyManagement_Company": "Bellingham",
+        "propertyManagement_Name_1": "Alex Berol"
+    },
+    {
+        "address": "900 Selwyn Pl - ReNew Glenmoore Glenmoore, PA 19343",
+        "built": "2008",
+        "trueOwner_Company": "FPA Multifamily LLC",
+        "propertyManagement_Company": "Trinity - ReNew Glenmoore"
+    },
+    {
+        "address": "1040 Lititz Pike - Shoppes At Kissel Village Lititz, PA 17543",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Waters Retail Group",
+        "primaryLeasingCompany_Name_1": "Joe Waters",
+        "primaryLeasingCompany_Email_1": "joewaters@watersretailgroup.com",
+        "primaryLeasingCompany_Name_2": "Kevin Lahn",
+        "primaryLeasingCompany_Phone_2": "(610) 659-7084 (m)",
+        "primaryLeasingCompany_Email_2": "klahn@watersretailgroup.com",
+        "trueOwner_Company": "Waters Retail Group",
+        "trueOwner_Name_1": "Robert Waters",
+        "trueOwner_Email_1": "bwaters@rjwaters.com",
+        "propertyManagement_Company": "Waters Retail Group"
+    },
+    {
+        "address": "2685 Carnegie Rd - Suburban Park York, PA 17402",
+        "built": "1970",
+        "trueOwner_Company": "Chatam Management Company, Inc.",
+        "trueOwner_Name_1": "Anita Gupta",
+        "trueOwner_Phone_1": "(347) 582-2418 (m)",
+        "trueOwner_Email_1": "agupta@chatammgmt.com",
+        "propertyManagement_Company": "CLK - Suburban Park Apartments"
+    },
+    {
+        "address": "2801 Valley Rd - Kahn Building Harrisburg, PA 17110",
+        "sf": "283,000",
+        "primaryLeasingCompany_Company": "Union Deposit Corp",
+        "primaryLeasingCompany_Name_1": "Cindy Klinger",
+        "primaryLeasingCompany_Phone_1": "(717) 877-2577 (m)",
+        "primaryLeasingCompany_Email_1": "clklinger@gmail.com",
+        "trueOwner_Company": "Union Deposit Corp",
+        "trueOwner_Name_1": "Cindy Klinger",
+        "trueOwner_Phone_1": "(717) 877-2577 (m)",
+        "trueOwner_Email_1": "clklinger@gmail.com",
+        "propertyManagement_Company": "Union Deposit Corp",
+        "propertyManagement_Name_1": "Cindy Klinger",
+        "propertyManagement_Phone_1": "(717) 877-2577 (m)",
+        "propertyManagement_Email_1": "clklinger@gmail.com"
+    },
+    {
+        "address": "494 Wharton Blvd E - Claremont Apartments Exton, PA 19341",
+        "built": "2003",
+        "trueOwner_Company": "Hankin Group",
+        "propertyManagement_Company": "Hankin - Claremont Apartments"
+    },
+    {
+        "address": "1401 Eland Downe - Eland Downe Townhomes Phoenixville, PA 19460",
+        "built": "1986",
+        "trueOwner_Company": "Boyd/Wilson Property Management",
+        "propertyManagement_Company": "Boyd/Wilson - Eland Downe"
+    },
+    {
+        "address": "1601 Markley St - EISENHOWER MIDDLE SCHOOL Norristown, PA 19401",
+        "built": "1937"
+    },
+    {
+        "address": "907-985 Paoli Pike - West Goshen Shopping Center West Chester, PA 19380",
+        "primaryLeasingCompany_Company": "Arrow Real Estate Services",
+        "primaryLeasingCompany_Name_1": "Damon Di Placido",
+        "primaryLeasingCompany_Phone_1": "(215) 275-1679 (m)",
+        "primaryLeasingCompany_Email_1": "damond@arrowrealestateservices.com",
+        "primaryLeasingCompany_Name_2": "Brooke Henningsen",
+        "primaryLeasingCompany_Phone_2": "(610) 721-9910 (m)",
+        "primaryLeasingCompany_Email_2": "brookeh@arrowrealestateservices.com",
+        "trueOwner_Company": "The Robbins Companies",
+        "trueOwner_Name_1": "Chris Robbins",
+        "trueOwner_Email_1": "chrisr@robbinscompanies.com",
+        "propertyManagement_Company": "The Robbins Companies"
+    },
+    {
+        "address": "311 E Lancaster Ave - AVE Malvern Malvern, PA 19355",
+        "built": "1997",
+        "trueOwner_Company": "Korman Communities",
+        "trueOwner_Name_1": "Bradley Korman",
+        "trueOwner_Email_1": "bkorman@kormancommunities.com",
+        "propertyManagement_Company": "Korman - AVE Malvern"
+    },
+    {
+        "address": "200 W Ridge Pike - Plymouth Square Conshohocken, PA 19428",
+        "primaryLeasingCompany_Company": "Brixmor Property Group",
+        "primaryLeasingCompany_Name_1": "Josh Brawer",
+        "primaryLeasingCompany_Phone_1": "(610) 322-1881 (m)",
+        "primaryLeasingCompany_Email_1": "josh.brawer@brixmor.com",
+        "trueOwner_Company": "Brixmor Property Group Inc.",
+        "trueOwner_Name_1": "Scott MacDonald",
+        "trueOwner_Email_1": "scott.macdonald@brixmor.com",
+        "propertyManagement_Company": "Brixmor Management",
+        "propertyManagement_Name_1": "Tim McNally"
+    },
+    {
+        "address": "2476 Swedesford Rd Malvern, PA 19355",
+        "sf": "280,000",
+        "built": "1968",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "James Dugan",
+        "primaryLeasingCompany_Phone_1": "(610) 348-7280 (m)",
+        "primaryLeasingCompany_Email_1": "jdugan@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Tucker McBride",
+        "primaryLeasingCompany_Email_2": "tucker.mcbride@ngkf.com",
+        "trueOwner_Company": "AFA Real Estate Partners",
+        "trueOwner_Name_1": "Robert Connell",
+        "trueOwner_Email_1": "rconnell@apexfinancialadvisors.com",
+        "propertyManagement_Company": "Exeter Property Group"
+    },
+    {
+        "address": "400 W Crestwood Dr - Fairmount Park Camp Hill, PA 17011",
+        "trueOwner_Company": "LCL Management",
+        "propertyManagement_Company": "LCL - Fairmount Park Apartment Homes"
+    },
+    {
+        "address": "909 Katie Ct - D&H Distributing Harrisburg, PA 17109",
+        "sf": "280,000",
+        "built": "1988",
+        "trueOwner_Company": "High Street Realty Company, LLC"
+    },
+    {
+        "address": "415 E Memorial Blvd Womelsdorf, PA 19567",
+        "sf": "280,000",
+        "built": "1970",
+        "primaryLeasingCompany_Company": "Seven D of Newmanstown, PA",
+        "primaryLeasingCompany_Name_1": "Denny DeGol",
+        "primaryLeasingCompany_Phone_1": "(814) 931-6789 (m)",
+        "primaryLeasingCompany_Email_1": "denny@degol.com",
+        "trueOwner_Company": "Seven D of Newmanstown, PA",
+        "trueOwner_Name_1": "Denny DeGol",
+        "trueOwner_Phone_1": "(814) 931-6789 (m)",
+        "trueOwner_Email_1": "denny@degol.com"
+    },
+    {
+        "address": "913 S Severgn Dr - Severgn Exton, PA 19341",
+        "built": "1986",
+        "trueOwner_Company": "Hankin Group",
+        "propertyManagement_Company": "Hankin - Severgn Apartments"
+    },
+    {
+        "address": "2880 Blackbridge Rd York, PA 17406",
+        "sf": "278,937",
+        "built": "1971",
+        "trueOwner_Company": "Matthews International Corporation"
+    },
+    {
+        "address": "57 Grumbacher Rd York, PA 17406",
+        "sf": "278,582",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Jason Webb",
+        "primaryLeasingCompany_Phone_1": "(717) 329-0881 (m)",
+        "primaryLeasingCompany_Email_1": "Jason.Webb@am.jll.com",
+        "trueOwner_Company": "STAG Industrial, Inc."
+    },
+    {
+        "address": "350 Brooke Dr - Walnut Crossing Royersford, PA 19468",
+        "built": "1997",
+        "trueOwner_Company": "The Klein Company",
+        "propertyManagement_Company": "Klein Company - Walnut Crossing"
+    },
+    {
+        "address": "841 E Wyomissing Blvd Reading, PA 19611",
+        "sf": "278,000",
+        "built": "1962"
+    },
+    {
+        "address": "121 November Dr - Camp Hill Plaza Apartments Camp Hill, PA 17011",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Camp Hill Plaza Apartments"
+    },
+    {
+        "address": "217 Cedar Village Dr - Central Park Townhomes York, PA 17406",
+        "built": "1972",
+        "trueOwner_Company": "LCL Management",
+        "propertyManagement_Company": "LCL - Central Park Townhomes",
+        "propertyManagement_Name_1": "Sherri Hockely",
+        "propertyManagement_Email_1": "sherhockl@comcast.net"
+    },
+    {
+        "address": "6000 Carlisle Pike - Hampden Commons Mechanicsburg, PA 17050",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_1": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_1": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Chad Stine",
+        "primaryLeasingCompany_Phone_2": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_2": "cstine@bennettwilliams.com",
+        "trueOwner_Company": "The Home Depot, Inc.",
+        "trueOwner_Name_1": "Gene Acuff",
+        "trueOwner_Email_1": "GENE_ACUFF@homedepot.com"
+    },
+    {
+        "address": "5850-5950 Carlisle Pike - Hampden Commons Shopping Center Mechanicsburg, PA 17050",
+        "built": "1998",
+        "primaryLeasingCompany_Company": "Olympic Realty & Development Corp.",
+        "primaryLeasingCompany_Name_1": "David Schwartz",
+        "primaryLeasingCompany_Phone_1": "(917) 796-8855 (m)",
+        "primaryLeasingCompany_Email_1": "davidschwartz@olympicrd.com",
+        "trueOwner_Company": "Olympic Realty & Development Corp.",
+        "trueOwner_Name_1": "David Schwartz",
+        "trueOwner_Phone_1": "(917) 796-8855 (m)",
+        "trueOwner_Email_1": "davidschwartz@olympicrd.com",
+        "propertyManagement_Company": "Olympic Realty & Development Corp.",
+        "propertyManagement_Name_1": "David Schwartz",
+        "propertyManagement_Phone_1": "(917) 796-8855 (m)",
+        "propertyManagement_Email_1": "davidschwartz@olympicrd.com"
+    },
+    {
+        "address": "900 High St - Utz Warehouse Hanover, PA 17331",
+        "sf": "275,297",
+        "built": "1975",
+        "trueOwner_Company": "Utz Quality Foods, Inc"
+    },
+    {
+        "address": "1955 Ticonderoga Blvd Chester Springs, PA 19425",
+        "sf": "274,857",
+        "built": "1967",
+        "primaryLeasingCompany_Company": "J. Loew & Associates",
+        "primaryLeasingCompany_Name_1": "James McNally",
+        "primaryLeasingCompany_Email_1": "jmcnally@jloew.com",
+        "trueOwner_Company": "J. Loew & Associates"
+    },
+    {
+        "address": "1955-2145 Ticonderoga Blvd - Eaglepointe Industrial Center Chester Springs, PA 19425",
+        "sf": "274,857",
+        "built": "1967",
+        "primaryLeasingCompany_Company": "J. Loew & Associates",
+        "primaryLeasingCompany_Name_1": "Eli Kahn",
+        "primaryLeasingCompany_Email_1": "ekahn@ekahndevelopment.com",
+        "trueOwner_Company": "J. Loew & Associates",
+        "trueOwner_Name_1": "Eli Kahn",
+        "trueOwner_Email_1": "ekahn@ekahndevelopment.com",
+        "propertyManagement_Company": "J. Loew & Associates"
+    },
+    {
+        "address": "590 Industrial Dr Lewisberry, PA 17339",
+        "sf": "274,224",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "NAI CIR",
+        "primaryLeasingCompany_Name_1": "Daniel Alderman",
+        "primaryLeasingCompany_Phone_1": "(717) 579-2052 (m)",
+        "primaryLeasingCompany_Email_1": "dalderman@naicir.com",
+        "trueOwner_Company": "Desert Sierra Properties Inc",
+        "trueOwner_Name_1": "Robert Spears",
+        "trueOwner_Email_1": "rspears@spearsmfg.net"
+    },
+    {
+        "address": "27 E Central Ave - Paoli Place Apts and Townhomes Paoli, PA 19301",
+        "built": "1955",
+        "trueOwner_Company": "Westover Companies",
+        "propertyManagement_Company": "Westover - Paoli Place Apts and Townhomes"
+    },
+    {
+        "address": "175-177 E Walnut St - Specialty Industries Bldg Red Lion, PA 17356",
+        "sf": "273,302",
+        "built": "1987",
+        "trueOwner_Company": "Rand-Whitney Group LLC"
+    },
+    {
+        "address": "245 Reading Rd East Earl, PA 17519",
+        "sf": "273,131",
+        "built": "1966",
+        "trueOwner_Company": "Conestoga Wood Specialties Corporation"
+    },
+    {
+        "address": "500 Richardson Dr Lancaster, PA 17603",
+        "sf": "272,896",
+        "built": "1988",
+        "trueOwner_Company": "WestRock Fulfillment Company"
+    },
+    {
+        "address": "401 W Lincoln Ave Lititz, PA 17543",
+        "sf": "272,832",
+        "built": "1986",
+        "trueOwner_Company": "Redcay Development Company",
+        "trueOwner_Name_1": "Robert Redcay",
+        "trueOwner_Email_1": "rlredcay@redcay.com"
+    },
+    {
+        "address": "100 Gea Dr York, PA 17406",
+        "sf": "272,787",
+        "primaryLeasingCompany_Company": "Kinsley Properties",
+        "primaryLeasingCompany_Name_1": "Daniel S. Hawks",
+        "primaryLeasingCompany_Phone_1": "(717) 324-2107 (m)",
+        "primaryLeasingCompany_Email_1": "dhawks@kinsleyproperties.com",
+        "trueOwner_Company": "Kinsley Properties",
+        "trueOwner_Name_1": "Tim Kinsley",
+        "trueOwner_Email_1": "tkinsley@kinsleyproperties.com"
+    },
+    {
+        "address": "400 E 2nd St Boyertown, PA 19512",
+        "sf": "272,386",
+        "built": "1956",
+        "trueOwner_Company": "Berk International",
+        "trueOwner_Name_1": "Larry Berk",
+        "trueOwner_Email_1": "lberk@berkwiper.net"
+    },
+    {
+        "address": "401 Moulstown Rd Hanover, PA 17331",
+        "sf": "271,606",
+        "trueOwner_Company": "Conewago Contractors INC",
+        "trueOwner_Name_1": "Donald Smith"
+    },
+    {
+        "address": "2600 Willow Street Pike N - Kendig Square Willow Street, PA 17584",
+        "built": "1991",
+        "primaryLeasingCompany_Company": "The Staenberg Group",
+        "primaryLeasingCompany_Name_1": "Sam Adler",
+        "primaryLeasingCompany_Email_1": "sadler@tsgproperties.com",
+        "propertyManagement_Company": "THF Realty"
+    },
+    {
+        "address": "101-147 E Swedesford Rd - Fairfield Place Exton, PA 19341",
+        "built": "1990",
+        "primaryLeasingCompany_Company": "Waters Retail Group",
+        "primaryLeasingCompany_Name_1": "Kevin Lahn",
+        "primaryLeasingCompany_Phone_1": "(610) 659-7084 (m)",
+        "primaryLeasingCompany_Email_1": "klahn@watersretailgroup.com",
+        "trueOwner_Company": "Waters Retail Group",
+        "trueOwner_Name_1": "Francis McDonnell",
+        "trueOwner_Phone_1": "(484) 888-0093 (m)",
+        "trueOwner_Email_1": "fmcdonnell@rjwaters.com",
+        "propertyManagement_Company": "Waters Retail Group",
+        "propertyManagement_Name_1": "Kevin Lahn",
+        "propertyManagement_Phone_1": "(610) 659-7084 (m)",
+        "propertyManagement_Email_1": "klahn@watersretailgroup.com"
+    },
+    {
+        "address": "1400 N Cameron St Harrisburg, PA 17103",
+        "sf": "270,000",
+        "primaryLeasingCompany_Company": "NAI CIR",
+        "primaryLeasingCompany_Name_1": "Jack Shepley",
+        "primaryLeasingCompany_Phone_1": "(717) 645-2254 (m)",
+        "primaryLeasingCompany_Email_1": "jshepley@ipg-cir.com",
+        "primaryLeasingCompany_Name_2": "Aaron Albright",
+        "primaryLeasingCompany_Phone_2": "(717) 602-9477 (m)",
+        "primaryLeasingCompany_Email_2": "aalbright@naicir.com",
+        "trueOwner_Company": "Novinger Group, Inc.",
+        "trueOwner_Name_1": "Jim Novinger"
+    },
+    {
+        "address": "2500-2701 Green St - Riverfront Park Apartments Harrisburg, PA 17110",
+        "built": "1956",
+        "trueOwner_Company": "S & S Properties Investment",
+        "trueOwner_Name_1": "Raj Sharma",
+        "trueOwner_Phone_1": "(484) 368-2426 (m)",
+        "trueOwner_Email_1": "wynnewoodgreens@hotmail.com",
+        "propertyManagement_Company": "Park Run - Riverfront Park Apartments"
+    },
+    {
+        "address": "1 Innovation Way Harrisburg, PA 17110",
+        "sf": "270,000",
+        "built": "1990",
+        "primaryLeasingCompany_Company": "NAI CIR",
+        "primaryLeasingCompany_Name_1": "Daniel Alderman",
+        "primaryLeasingCompany_Phone_1": "(717) 579-2052 (m)",
+        "primaryLeasingCompany_Email_1": "dalderman@naicir.com",
+        "trueOwner_Company": "hdkng;f",
+        "trueOwner_Name_1": "Maurice Flurie",
+        "trueOwner_Email_1": "mflurie@connectionseducation.com",
+        "propertyManagement_Company": "Pennsylvania State Employees",
+        "propertyManagement_Name_1": "Alan Brunner"
+    },
+    {
+        "address": "207 Pitney Rd Lancaster, PA 17601",
+        "sf": "268,102",
+        "built": "1985",
+        "trueOwner_Company": "Universal Corporation"
+    },
+    {
+        "address": "111 Bill Smith Blvd - Abrams Run Apartments King of Prussia, PA 19406",
+        "built": "1996",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Abram's Run Apartments"
+    },
+    {
+        "address": "460 Sterling St - DC #3 Camp Hill, PA 17011",
+        "sf": "267,042",
+        "built": "1993",
+        "primaryLeasingCompany_Company": "ECD Services, Inc.",
+        "primaryLeasingCompany_Name_1": "Douglas Enck",
+        "primaryLeasingCompany_Phone_1": "(717) 497-7706 (m)",
+        "primaryLeasingCompany_Email_1": "denck@ecdservices.com",
+        "trueOwner_Company": "ECD Services, Inc.",
+        "propertyManagement_Company": "ECD Services, Inc.",
+        "propertyManagement_Name_1": "Carl Linsenbach",
+        "propertyManagement_Email_1": "carl@ecdservices.com"
+    },
+    {
+        "address": "5470 Perkiomen Ave - Shelbourne Square Reading, PA 19606",
+        "built": "1991",
+        "primaryLeasingCompany_Company": "Bennett Williams Commercial",
+        "primaryLeasingCompany_Name_1": "Blake Shaffer",
+        "primaryLeasingCompany_Phone_1": "(717) 654-5612 (m)",
+        "primaryLeasingCompany_Email_1": "bshaffer@bennettwilliams.com",
+        "primaryLeasingCompany_Name_2": "Gary Russell",
+        "primaryLeasingCompany_Phone_2": "(717) 579-3112 (m)",
+        "primaryLeasingCompany_Email_2": "grussell@bennettwilliams.com",
+        "primaryLeasingCompany_Name_3": "Brad Rohrbaugh",
+        "primaryLeasingCompany_Phone_3": "(717) 891-7368 (m)",
+        "primaryLeasingCompany_Email_3": "brohrbaugh@bennettwilliams.com",
+        "primaryLeasingCompany_Name_4": "Chad Stine",
+        "primaryLeasingCompany_Phone_4": "(717) 968-7505 (m)",
+        "primaryLeasingCompany_Email_4": "cstine@bennettwilliams.com",
+        "trueOwner_Company": "Lavipour & Company",
+        "trueOwner_Name_1": "David Lavipour",
+        "trueOwner_Email_1": "dlavipour@lavipour.com",
+        "propertyManagement_Company": "Lavipour & Company",
+        "propertyManagement_Name_1": "Andrea Brigante",
+        "propertyManagement_Email_1": "abrigante@lavipour.com"
+    },
+    {
+        "address": "2001 Centre Ave Reading, PA 19605",
+        "sf": "266,400",
+        "built": "2002",
+        "trueOwner_Company": "STAG Industrial, Inc.",
+        "trueOwner_Name_1": "Benjamin Butcher",
+        "trueOwner_Email_1": "bbutcher@stagindustrial.com"
+    },
+    {
+        "address": "104 Camelot Arms - Camelot Arms Apartments York, PA 17406",
+        "built": "1990",
+        "trueOwner_Company": "The Apartment Gallery",
+        "propertyManagement_Company": "Apartment Gallery - Camelot Arms",
+        "propertyManagement_Name_1": "Kelly Werner",
+        "propertyManagement_Email_1": "kwerner@theapartmentgallery.com"
+    },
+    {
+        "address": "1 Black Hawk Cir - Black Hawk Apartments Downingtown, PA 19335",
+        "built": "1964",
+        "trueOwner_Company": "Westover Companies",
+        "trueOwner_Name_1": "Gunti Weissenberger",
+        "trueOwner_Email_1": "gunti@westovercompanies.com",
+        "propertyManagement_Company": "Westover - Black Hawk Apartments"
+    },
+    {
+        "address": "350 Old Silver Spring Rd Mechanicsburg, PA 17050",
+        "sf": "264,120",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Patrick McBride",
+        "primaryLeasingCompany_Phone_1": "(717) 919-1689 (m)",
+        "primaryLeasingCompany_Email_1": "pat.mcbride@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Allie Rank",
+        "primaryLeasingCompany_Phone_2": "(717) 503-4237 (m)",
+        "primaryLeasingCompany_Email_2": "allie.rank@cushwake.com",
+        "trueOwner_Company": "First Industrial Realty Trust, Inc.",
+        "trueOwner_Name_1": "Jeffrey Thomas",
+        "trueOwner_Phone_1": "(717) 991-2734 (m)",
+        "trueOwner_Email_1": "jthomas@firstindustrial.com",
+        "propertyManagement_Company": "First Industrial Realty Trust, Inc.",
+        "propertyManagement_Name_1": "Jeffrey Thomas",
+        "propertyManagement_Phone_1": "(717) 991-2734 (m)",
+        "propertyManagement_Email_1": "jthomas@firstindustrial.com"
+    },
+    {
+        "address": "1500 S Cameron St Harrisburg, PA 17104",
+        "sf": "264,000",
+        "built": "1900",
+        "primaryLeasingCompany_Company": "Ames True Temper Co.",
+        "trueOwner_Company": "Griffon Corporation"
+    },
+    {
+        "address": "1500 Windermere Rd - The Point at Windermere West Chester, PA 19380",
+        "built": "1991",
+        "trueOwner_Company": "Pantzer Properties",
+        "trueOwner_Name_1": "Jason Pantzer",
+        "trueOwner_Phone_1": "(917) 445-1966 (m)",
+        "trueOwner_Email_1": "jason@pancomgt.com",
+        "propertyManagement_Company": "Panco - The Point at Windermere"
+    },
+    {
+        "address": "925 Reese Ave Hershey, PA 17033",
+        "sf": "263,318",
+        "built": "1900",
+        "trueOwner_Company": "The Hershey Company",
+        "trueOwner_Name_1": "Susan Angele",
+        "trueOwner_Email_1": "sangele@yahoo.com"
+    },
+    {
+        "address": "100 Lincoln St New Oxford, PA 17350",
+        "sf": "263,005",
+        "primaryLeasingCompany_Company": "UNFI",
+        "trueOwner_Company": "Timbar Corporation",
+        "trueOwner_Name_1": "Matthew Heleva"
+    },
+    {
+        "address": "1700 Cloister Dr - Jacobson Companies Lancaster, PA 17601",
+        "sf": "262,500",
+        "built": "1998",
+        "trueOwner_Company": "Hager Pacific Properties",
+        "trueOwner_Name_1": "Moshe Hager",
+        "trueOwner_Email_1": "mhager@hagerpacific.com"
+    },
+    {
+        "address": "355 Independence Ave Mechanicsburg, PA 17055",
+        "sf": "262,500",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Bart Anderson",
+        "primaryLeasingCompany_Email_1": "bart.anderson@cbre.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis"
+    },
+    {
+        "address": "1515 English Dr - Graham Hill Mechanicsburg, PA 17055",
+        "built": "2002",
+        "trueOwner_Company": "Applied Bank",
+        "propertyManagement_Company": "PMI - Graham Hill"
+    },
+    {
+        "address": "690-694 Good Dr Lancaster, PA 17601",
+        "sf": "260,922",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "Lillibridge Healthcare Services, Inc.",
+        "primaryLeasingCompany_Name_1": "Tyler Miller",
+        "primaryLeasingCompany_Phone_1": "(804) 836-4473 (m)",
+        "primaryLeasingCompany_Email_1": "Tyler.miller@lillibridge.com",
+        "trueOwner_Company": "Ventas, Inc.",
+        "trueOwner_Name_1": "Ross Nemzin",
+        "trueOwner_Email_1": "ross.nemzin@ventasreit.com"
+    },
+    {
+        "address": "801 Ridge Pike - Masonic Village at Lafayette Hill Lafayette Hill, PA 19444",
+        "built": "1974"
+    },
+    {
+        "address": "98 Highland Ave - Highland IP Oaks, PA 19456",
+        "sf": "260,000",
+        "built": "1940",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "primaryLeasingCompany_Name_2": "Justin Call",
+        "primaryLeasingCompany_Phone_2": "(610) 721-7649 (m)",
+        "primaryLeasingCompany_Email_2": "jcall@audubonland.com",
+        "trueOwner_Company": "Suburban Management Company, Inc.",
+        "trueOwner_Name_1": "Gene Call",
+        "trueOwner_Phone_1": "(610) 721-6900 (m)",
+        "trueOwner_Email_1": "gcall@audubonland.com",
+        "propertyManagement_Company": "Alco Industries Inc.",
+        "propertyManagement_Name_1": "Gene Call"
+    },
+    {
+        "address": "6350 Brackbill Blvd Mechanicsburg, PA 17050",
+        "sf": "259,200",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Tony Gruenling",
+        "primaryLeasingCompany_Email_1": "Tony.Gruenling@cbre.com",
+        "primaryLeasingCompany_Name_2": "Vincent Ranalli",
+        "primaryLeasingCompany_Phone_2": "(610) 308-4958 (m)",
+        "primaryLeasingCompany_Email_2": "vincent.ranalli@cbre.com",
+        "trueOwner_Company": "STAG Industrial, Inc."
+    },
+    {
+        "address": "640-690 W Dekalb Pike - The Court at King of Prussia King Of Prussia, PA 19406",
+        "built": "1981",
+        "primaryLeasingCompany_Company": "Simon Property Group, Inc.",
+        "primaryLeasingCompany_Name_1": "Marleen Losee",
+        "primaryLeasingCompany_Email_1": "mlosee@simon.com",
+        "trueOwner_Company": "Simon Property Group, Inc.",
+        "propertyManagement_Company": "Simon Property Group, Inc.",
+        "propertyManagement_Name_1": "Robert Hart"
+    },
+    {
+        "address": "333 Lancaster Ave - Westgate Village Malvern, PA 19355",
+        "built": "1974",
+        "trueOwner_Company": "First Montgomery Group",
+        "propertyManagement_Company": "FMG - Westgate Village Apartments"
+    },
+    {
+        "address": "1322 W Chester Pike - Rose Hill Apartments West Chester, PA 19382",
+        "built": "1967",
+        "trueOwner_Company": "Zarelli Group, LLC",
+        "propertyManagement_Company": "Zarelli Group - Rose Hill Apartments",
+        "propertyManagement_Name_1": "Cindy Zarelli"
+    },
+    {
+        "address": "105 Aberdeen Rd - Herculite Products, Inc. York, PA 17406",
+        "sf": "257,680",
+        "built": "1965",
+        "primaryLeasingCompany_Company": "Rock Commercial Real Estate, LLC",
+        "primaryLeasingCompany_Name_1": "Greg Finkelstein CPA, CCIM",
+        "primaryLeasingCompany_Phone_1": "(717) 855-5456 (m)",
+        "primaryLeasingCompany_Email_1": "gfinkelstein@rockrealestate.net",
+        "trueOwner_Company": "Herculite Products"
+    },
+    {
+        "address": "360 S Belmont St York, PA 17403",
+        "sf": "256,589",
+        "built": "1970",
+        "trueOwner_Company": "DF Stauffer Biscuit Co"
+    },
+    {
+        "address": "1365 Enterprise Dr West Chester, PA 19380",
+        "sf": "256,500",
+        "built": "1983",
+        "trueOwner_Company": "QVC, Inc.",
+        "propertyManagement_Company": "QVC, Inc.",
+        "propertyManagement_Name_1": "Pat Cassidy"
+    },
+    {
+        "address": "81 W Huller Ln Reading, PA 19605",
+        "sf": "256,308",
+        "built": "1972",
+        "trueOwner_Company": "Brenntag Northeast, Inc."
+    },
+    {
+        "address": "680 W Dekalb Pike - Macy's King Of Prussia, PA 19406",
+        "built": "1981",
+        "trueOwner_Company": "Simon Property Group, Inc."
+    },
+    {
+        "address": "2392 Mount Joy Rd Manheim, PA 17545",
+        "built": "1972",
+        "trueOwner_Company": "LCBC Church"
+    },
+    {
+        "address": "301 N Progress Ave - The Pines Harrisburg, PA 17109",
+        "trueOwner_Company": "CLK Multifamily Management",
+        "propertyManagement_Company": "CLK - The Pines"
+    },
+    {
+        "address": "401 Greenland Dr - The Summit at Mill Creek Lancaster, PA 17602",
+        "trueOwner_Company": "The High Companies",
+        "propertyManagement_Company": "High Associates - The Summit at Mill Creek"
+    },
+    {
+        "address": "2621 Van Buren Ave Norristown, PA 19403",
+        "sf": "254,500",
+        "primaryLeasingCompany_Company": "Procision Commercial Realty",
+        "primaryLeasingCompany_Name_1": "Robert Beach",
+        "primaryLeasingCompany_Email_1": "rbeach@procisionbb.com",
+        "primaryLeasingCompany_Name_2": "Shaun Thompson",
+        "primaryLeasingCompany_Email_2": "sthompson@procisionbb.com",
+        "trueOwner_Company": "Megger",
+        "trueOwner_Name_1": "Tom Liptack",
+        "trueOwner_Email_1": "tom.liptack@megger.com",
+        "propertyManagement_Company": "CBRE Property Management"
+    },
+    {
+        "address": "301 Railroad Ave Shiremanstown, PA 17011",
+        "sf": "254,449",
+        "built": "1963",
+        "primaryLeasingCompany_Company": "Lee & Associates of Eastern Pennsylvania, LLC",
+        "primaryLeasingCompany_Name_1": "Ed Skonecki",
+        "primaryLeasingCompany_Phone_1": "(717) 562-0901 (m)",
+        "primaryLeasingCompany_Email_1": "eskonecki@lee-associates.com",
+        "primaryLeasingCompany_Name_2": "Joel Kreider",
+        "primaryLeasingCompany_Phone_2": "(724) 601-4493 (m)",
+        "primaryLeasingCompany_Email_2": "jkreider@lee-associates.com",
+        "primaryLeasingCompany_Name_3": "John Van Buskirk, SIOR",
+        "primaryLeasingCompany_Phone_3": "(717) 497-1276 (m)",
+        "primaryLeasingCompany_Email_3": "jvanbuskirk@lee-associates.com",
+        "trueOwner_Company": "Penwood Real Estate Investment Management"
+    },
+    {
+        "address": "101 N Cheviot Way - Lion's Gate Townhomes Red Lion, PA 17356",
+        "built": "2006",
+        "trueOwner_Company": "Morgan Properties",
+        "propertyManagement_Company": "Morgan - Lion's Gate Townhomes"
+    },
+    {
+        "address": "150 E Wynnewood Rd - The Wynnewood Wynnewood, PA 19096",
+        "trueOwner_Company": "New York Life Real Estate Investors",
+        "propertyManagement_Company": "Alterra - Wynnewood Apartments"
+    },
+    {
+        "address": "900 Hemlock Rd Morgantown, PA 19543",
+        "sf": "253,677",
+        "built": "1982",
+        "trueOwner_Company": "Titanium Metals Corporation"
+    },
+    {
+        "address": "245 Salem Church Rd - Exel Logistics Mechanicsburg, PA 17050",
+        "sf": "252,000",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "CBRE, Inc",
+        "primaryLeasingCompany_Name_1": "Vincent Ranalli",
+        "primaryLeasingCompany_Phone_1": "(610) 308-4958 (m)",
+        "primaryLeasingCompany_Email_1": "vincent.ranalli@cbre.com",
+        "trueOwner_Company": "STAG Industrial, Inc.",
+        "trueOwner_Name_1": "David King",
+        "trueOwner_Phone_1": "(617) 459-2255 (m)",
+        "trueOwner_Email_1": "dking@stagcapital.com",
+        "propertyManagement_Company": "CBRE, Inc"
+    },
+    {
+        "address": "99 Brower Ave - The Penn Bldg Oaks, PA 19456",
+        "sf": "251,650",
+        "built": "1958",
+        "primaryLeasingCompany_Company": "Suburban Management Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Gene Call",
+        "primaryLeasingCompany_Phone_1": "(610) 721-6900 (m)",
+        "primaryLeasingCompany_Email_1": "gcall@audubonland.com",
+        "trueOwner_Company": "Audubon Land Development Corp"
+    },
+    {
+        "address": "200 Elmer Cir - Reed Farm Reading, PA 19605",
+        "built": "2003",
+        "trueOwner_Company": "Metropolitan Management Group",
+        "trueOwner_Name_1": "Kevin Timochenko",
+        "trueOwner_Phone_1": "(609) 948-5448 (m)",
+        "trueOwner_Email_1": "info@mmgapts.com",
+        "propertyManagement_Company": "Metropolitan - Reed Farm"
+    },
+    {
+        "address": "1905 Horseshoe Rd - Bldg 225/Acme Lancaster, PA 17602",
+        "sf": "250,320",
+        "built": "1980",
+        "primaryLeasingCompany_Company": "High Associates Ltd.",
+        "primaryLeasingCompany_Name_1": "Linford Good",
+        "primaryLeasingCompany_Phone_1": "(717) 468-1896 (m)",
+        "primaryLeasingCompany_Email_1": "lgood@high.net",
+        "primaryLeasingCompany_Name_2": "Ruth Devenney",
+        "primaryLeasingCompany_Phone_2": "(717) 468-1995 (m)",
+        "primaryLeasingCompany_Email_2": "rdevenney@high.net",
+        "primaryLeasingCompany_Name_3": "Michael Bowser",
+        "primaryLeasingCompany_Phone_3": "(917) 617-1412 (m)",
+        "primaryLeasingCompany_Email_3": "mbowser@high.net",
+        "trueOwner_Company": "High Associates Ltd.",
+        "propertyManagement_Company": "High Associates Ltd."
+    },
+    {
+        "address": "401 Eden Rd - Roseville House Apartments Lancaster, PA 17601",
+        "built": "1963",
+        "trueOwner_Company": "Samuel Geltman & Company",
+        "propertyManagement_Company": "Samuel Geltman - Roseville House",
+        "propertyManagement_Name_1": "Rebecca Ray",
+        "propertyManagement_Email_1": "rosevillehouseapts@comcast.net"
+    },
+    {
+        "address": "160 N Gulph Rd - Bloomingdale's King Of Prussia, PA 19406",
+        "built": "1981",
+        "trueOwner_Company": "Simon Property Group, Inc.",
+        "propertyManagement_Company": "Simon Property Group, Inc."
+    },
+    {
+        "address": "815 Market St Harrisburg, PA 17101",
+        "sf": "250,000",
+        "primaryLeasingCompany_Company": "Equilibrium Equities, Inc.",
+        "primaryLeasingCompany_Name_1": "Adam Meinstein",
+        "primaryLeasingCompany_Email_1": "apm@equilibriumequities.com",
+        "trueOwner_Company": "Equilibrium Equities, Inc.",
+        "trueOwner_Name_1": "Adam Meinstein",
+        "trueOwner_Email_1": "apm@equilibriumequities.com"
+    },
+    {
+        "address": "800 South St Reading, PA 19602",
+        "sf": "250,000",
+        "trueOwner_Company": "Interstate Resources, Inc."
+    },
+    {
+        "address": "201 Reeceville Rd - Brandywine Hospital (Main) Coatesville, PA 19320",
+        "built": "1981"
+    },
+    {
+        "address": "1200 Charleston Grn - Charleston Greene Malvern, PA 19355",
+        "built": "1978",
+        "trueOwner_Company": "Toll Apartment Group",
+        "propertyManagement_Company": "BET - Charleston Greene"
+    },
+    {
+        "address": "1700 Yorktowne Dr - Yorktowne Pointe York, PA 17408",
+        "built": "1982",
+        "trueOwner_Company": "AION Management",
+        "trueOwner_Name_1": "Billie-Jo Sedlacek",
+        "trueOwner_Email_1": "b.sedlacek@aionmanagement.com",
+        "propertyManagement_Company": "AION - Yorktowne Pointe"
+    },
+    {
+        "address": "1011 New Hope St - Curren Terrace Norristown, PA 19401",
+        "built": "1971",
+        "trueOwner_Company": "Morgan Properties",
+        "trueOwner_Name_1": "Jonathan Morgan",
+        "trueOwner_Phone_1": "(610) 506-9911 (m)",
+        "trueOwner_Email_1": "jmorgan@morganproperties.com",
+        "propertyManagement_Company": "Morgan - Curren Terrace"
+    },
+    {
+        "address": "326 June Ave Blandon, PA 19510",
+        "sf": "248,669",
+        "built": "1979",
+        "trueOwner_Company": "Can Corporation of America",
+        "trueOwner_Name_1": "Ronald Moreau"
+    },
+    {
+        "address": "2828 Charter Rd - Philadelphia Steel & Wire Philadelphia, PA 19154",
+        "sf": "248,178",
+        "built": "1967",
+        "primaryLeasingCompany_Company": "Sparks Exhibits Inc",
+        "trueOwner_Company": "Sparks",
+        "trueOwner_Name_1": "Scott Tarte",
+        "propertyManagement_Company": "Sparks Exhibits Inc"
+    },
+    {
+        "address": "3640 Sandhurst Dr - Berkshire Business Park York, PA 17406",
+        "sf": "248,040",
+        "built": "2001",
+        "primaryLeasingCompany_Company": "Kinsley Properties",
+        "trueOwner_Company": "Cranberry Run Business Center",
+        "propertyManagement_Company": "Kinsley Properties",
+        "propertyManagement_Name_1": "Tim Kinsley",
+        "propertyManagement_Email_1": "tkinsley@kinsleyproperties.com"
+    }
+]

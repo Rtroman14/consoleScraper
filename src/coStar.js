@@ -86,7 +86,7 @@ while (run) {
 
     allData.push(coStar);
 
-    if (pages % 10 === 0) {
+    if (pages % 5 === 0) {
         exportFile(allData, `coStart_Pages 0-${pages}.json`);
     }
 

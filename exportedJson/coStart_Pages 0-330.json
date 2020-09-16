@@ -1,0 +1,3261 @@
+[
+    {
+        "address": "181 E 56th Ave - Silco Building Denver, CO 80216",
+        "sf": "25,316",
+        "built": "1962",
+        "primaryLeasingCompany_Company": "The Colorado Group, Inc.",
+        "primaryLeasingCompany_Name_1": "Barb Pozzi",
+        "primaryLeasingCompany_Phone_1": "(303) 956-9033 (m)",
+        "primaryLeasingCompany_Email_1": "barbp@coloradogroup.com",
+        "trueOwner_Company": "HVH Transportation, Inc.",
+        "trueOwner_Name_1": "Bruce Holder",
+        "trueOwner_Email_1": "bholder@hvhtransportation.com",
+        "propertyManagement_Company": "HVH Transportation, Inc.",
+        "propertyManagement_Name_1": "Wayne Holder"
+    },
+    {
+        "address": "10000 E 56th Ave Denver, CO 80239",
+        "sf": "392,425",
+        "built": "2015",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Chris Nordling, SIOR",
+        "primaryLeasingCompany_Email_1": "cnordling@ngkf.com",
+        "trueOwner_Company": "Prologis, Inc.",
+        "propertyManagement_Company": "Prologis"
+    },
+    {
+        "address": "420 E 58th Ave - Mart Plaza Denver, CO 80216",
+        "sf": "45,000",
+        "built": "1976",
+        "primaryLeasingCompany_Company": "Realty One Group Premier",
+        "primaryLeasingCompany_Name_1": "Jillian Moster",
+        "primaryLeasingCompany_Email_1": "jillian@jeffsamuelson.com",
+        "primaryLeasingCompany_Name_2": "Jeff Samuelson",
+        "primaryLeasingCompany_Phone_2": "(303) 522-8277 (m)",
+        "primaryLeasingCompany_Email_2": "jeff@jeffsamuelson.com",
+        "trueOwner_Company": "Walker Property Group, Inc.",
+        "trueOwner_Name_1": "Ed Sullivan",
+        "trueOwner_Email_1": "esullivan@wcg-corp.com",
+        "propertyManagement_Company": "Walker Property Group, Inc."
+    },
+    {
+        "address": "2101 W 64th Ave Denver, CO 80221",
+        "sf": "157,100",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "T.J. Smith",
+        "primaryLeasingCompany_Phone_1": "(303) 888-1644 (m)",
+        "primaryLeasingCompany_Email_1": "tj.smith@colliers.com",
+        "primaryLeasingCompany_Name_2": "Thomas Stahl",
+        "primaryLeasingCompany_Phone_2": "(303) 898-5800 (m)",
+        "primaryLeasingCompany_Email_2": "tom.stahl@colliers.com",
+        "trueOwner_Company": "Corum Real Estate Group Inc.",
+        "trueOwner_Name_1": "Eric Komppa",
+        "trueOwner_Email_1": "eric.komppa@corumrealestate.com"
+    },
+    {
+        "address": "651 E 66th Ave Denver, CO 80229",
+        "sf": "20,571",
+        "built": "1970"
+    },
+    {
+        "address": "18300 E 71st Ave - High Plains Office Bldg Denver, CO 80249",
+        "sf": "27,067",
+        "built": "2004",
+        "primaryLeasingCompany_Company": "SVN l Denver Commercial",
+        "primaryLeasingCompany_Name_1": "Cobey Wess",
+        "primaryLeasingCompany_Phone_1": "(970) 691-1140 (m)",
+        "primaryLeasingCompany_Email_1": "cobey.wess@svn.com",
+        "trueOwner_Company": "All-in & Focused Dev Llc",
+        "trueOwner_Name_1": "Thomas Heine",
+        "trueOwner_Email_1": "tom@aljex.com"
+    },
+    {
+        "address": "2300 E 76TH Ave - Phase 3 Denver, CO 80229",
+        "sf": "30,000",
+        "built": "2019",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "T.J. Smith",
+        "primaryLeasingCompany_Phone_1": "(303) 888-1644 (m)",
+        "primaryLeasingCompany_Email_1": "tj.smith@colliers.com",
+        "primaryLeasingCompany_Name_2": "Nick Rice",
+        "primaryLeasingCompany_Phone_2": "(303) 829-8222 (m)",
+        "primaryLeasingCompany_Email_2": "nick.rice@colliers.com",
+        "trueOwner_Company": "Lum Yip Kee Limited"
+    },
+    {
+        "address": "2140-2160 E 88th Ave Denver, CO 80229",
+        "built": "1970",
+        "primaryLeasingCompany_Company": "Wheelhouse Commercial",
+        "primaryLeasingCompany_Name_1": "Gregory Johnson",
+        "primaryLeasingCompany_Phone_1": "(303) 667-3061 (m)",
+        "primaryLeasingCompany_Email_1": "gjohnson@wheelhousecommercial.com",
+        "trueOwner_Company": "Daniel Sloane",
+        "trueOwner_Name_1": "Daniel Sloane"
+    },
+    {
+        "address": "675 E 124th Ave Denver, CO 80241",
+        "sf": "58,000",
+        "built": "1980",
+        "trueOwner_Company": "Dish Network LLC",
+        "trueOwner_Name_1": "Charles Ergen",
+        "trueOwner_Email_1": "charles.ergen@dish.com"
+    },
+    {
+        "address": "4555 Airport Way Denver, CO 80239",
+        "sf": "87,201",
+        "built": "2008",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Don Misner",
+        "primaryLeasingCompany_Email_1": "Don.misner@am.jll.com",
+        "trueOwner_Company": "Credit Suisse Asset Management (Schweiz) AG",
+        "trueOwner_Name_1": "Christian Bieri",
+        "propertyManagement_Company": "Cushman & Wakefield Inc",
+        "propertyManagement_Name_1": "Jen McNally",
+        "propertyManagement_Phone_1": "(303) 720-5612 (m)",
+        "propertyManagement_Email_1": "Jenifer.McNally@cis.cushwake.com"
+    },
+    {
+        "address": "300 E Alameda Ave Denver, CO 80209",
+        "built": "1968",
+        "primaryLeasingCompany_Company": "SullivanHayes Brokerage",
+        "primaryLeasingCompany_Name_1": "Courtney Dahlberg Key",
+        "primaryLeasingCompany_Phone_1": "(303) 882-0777 (m)",
+        "primaryLeasingCompany_Email_1": "ckey@sullivanhayes.com",
+        "trueOwner_Company": "Brewster Properties I Llc",
+        "trueOwner_Name_1": "Douglas Hsiao"
+    },
+    {
+        "address": "4120 E Alameda Ave Denver, CO 80246",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "John Gustafson",
+        "primaryLeasingCompany_Phone_1": "(303) 917-8971 (m)",
+        "primaryLeasingCompany_Email_1": "jgustafson@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Michael Quinlan",
+        "primaryLeasingCompany_Phone_2": "(303) 726-4730 (m)",
+        "primaryLeasingCompany_Email_2": "mquinlan@ngkf.com",
+        "trueOwner_Company": "E M Caplow & Associates Inc",
+        "trueOwner_Name_1": "Mark Caplow",
+        "trueOwner_Email_1": "info@caplow.com"
+    },
+    {
+        "address": "12364 W Alameda Pky - Green Mountain Plaza Denver, CO 80228",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Stephen Serenyi",
+        "primaryLeasingCompany_Email_1": "steve.serenyi@colliers.com",
+        "primaryLeasingCompany_Name_2": "Tyler Ryon",
+        "primaryLeasingCompany_Phone_2": "(720) 383-2667 (m)",
+        "primaryLeasingCompany_Email_2": "Tyler.Ryon@colliers.com",
+        "trueOwner_Company": "Real Estate Law Group",
+        "trueOwner_Name_1": "Christine Gregorak",
+        "propertyManagement_Company": "Westar Real Property Services, Inc.",
+        "propertyManagement_Name_1": "Mark Bennett",
+        "propertyManagement_Email_1": "mark@westardenver.com"
+    },
+    {
+        "address": "1720 S Bellaire St - Tower Colorado Denver, CO 80222",
+        "sf": "146,566",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Ryan Stout",
+        "primaryLeasingCompany_Phone_1": "(303) 886-3327 (m)",
+        "primaryLeasingCompany_Email_1": "ryan.stout@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Nate Bradley",
+        "primaryLeasingCompany_Phone_2": "(303) 726-2334 (m)",
+        "primaryLeasingCompany_Email_2": "nate.bradley@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Zach Williams",
+        "primaryLeasingCompany_Phone_3": "(303) 594-0089 (m)",
+        "primaryLeasingCompany_Email_3": "zach.williams@cushwake.com",
+        "trueOwner_Company": "Ogilvie Properties, Inc.",
+        "trueOwner_Name_1": "Stuart Ogilvie",
+        "trueOwner_Phone_1": "(303) 778-7585 (m)",
+        "trueOwner_Email_1": "stu@ogprops.com",
+        "propertyManagement_Company": "Ogilvie Properties, Inc."
+    },
+    {
+        "address": "7887 E Belleview Ave - Belleview Tower Denver, CO 80237",
+        "sf": "201,670",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Andy Ross",
+        "primaryLeasingCompany_Phone_1": "(720) 308-4665 (m)",
+        "primaryLeasingCompany_Email_1": "Andy.Ross@am.jll.com",
+        "primaryLeasingCompany_Name_2": "John Beason",
+        "primaryLeasingCompany_Phone_2": "(720) 693-3781 (m)",
+        "primaryLeasingCompany_Email_2": "John.beason@am.jll.com",
+        "primaryLeasingCompany_Name_3": "Andrea Staucet",
+        "primaryLeasingCompany_Phone_3": "(949) 463-8460 (m)",
+        "primaryLeasingCompany_Email_3": "Andrea.Staucet@am.jll.com",
+        "trueOwner_Company": "Endeavor Real Estate Group",
+        "trueOwner_Name_1": "Chad Marsh",
+        "trueOwner_Email_1": "cmarsh@endeavor-re.com",
+        "propertyManagement_Company": "Endeavor Real Estate Group",
+        "propertyManagement_Name_1": "Chad Marsh",
+        "propertyManagement_Email_1": "cmarsh@endeavor-re.com"
+    },
+    {
+        "address": "2399 Blake St - AKA 1601-1603 Park Avenue West Denver, CO 80205",
+        "sf": "71,702",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Allison Berry",
+        "primaryLeasingCompany_Phone_1": "(202) 531-3931 (m)",
+        "primaryLeasingCompany_Email_1": "allison.berry@cbre.com",
+        "primaryLeasingCompany_Name_2": "Hilary Barnett",
+        "primaryLeasingCompany_Phone_2": "(303) 882-6546 (m)",
+        "primaryLeasingCompany_Email_2": "Hilary.barnett@cbre.com",
+        "trueOwner_Company": "Rentas US RE, LLC"
+    },
+    {
+        "address": "3001-3043 Brighton Blvd - INDUSTRY Denver Denver, CO 80216",
+        "sf": "152,000",
+        "built": "2015",
+        "primaryLeasingCompany_Company": "Transwestern Real Estate Services",
+        "primaryLeasingCompany_Name_1": "Whitney Hake",
+        "primaryLeasingCompany_Phone_1": "(303) 601-6465 (m)",
+        "primaryLeasingCompany_Email_1": "Whitney.Hake@transwestern.com",
+        "primaryLeasingCompany_Name_2": "Billy Woodward",
+        "primaryLeasingCompany_Phone_2": "(303) 990-1625 (m)",
+        "primaryLeasingCompany_Email_2": "billy.woodward@transwestern.com",
+        "primaryLeasingCompany_Name_3": "Alison Utz",
+        "primaryLeasingCompany_Email_3": "Alison.Utz@transwestern.com",
+        "trueOwner_Company": "Industry Denver",
+        "propertyManagement_Company": "Q factor Solutions, LLC"
+    },
+    {
+        "address": "3350 Brighton Blvd - The Source Denver, CO 80216",
+        "primaryLeasingCompany_Company": "Zeppelin Development",
+        "trueOwner_Company": "Zeppelin Development",
+        "trueOwner_Name_1": "Mickey Zeppelin",
+        "propertyManagement_Company": "Love Your Hood",
+        "propertyManagement_Name_1": "Mark McClung",
+        "propertyManagement_Phone_1": "(303) 669-0171 (m)",
+        "propertyManagement_Email_1": "mark@loveyourhood.com"
+    },
+    {
+        "address": "100-104 Broadway Denver, CO 80203",
+        "sf": "49,524",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "David Fried",
+        "primaryLeasingCompany_Phone_1": "(303) 489-0888 (m)",
+        "primaryLeasingCompany_Email_1": "david.fried@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Stockton Baker",
+        "primaryLeasingCompany_Phone_2": "(303) 947-3170 (m)",
+        "primaryLeasingCompany_Email_2": "Stockton.Baker@cushwake.com",
+        "trueOwner_Company": "NWE Management Company",
+        "propertyManagement_Company": "Sessions Group"
+    },
+    {
+        "address": "601 Broadway - Denver Health Administration Denver, CO 80203",
+        "sf": "300,000",
+        "built": "2017",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Dorit Fischer",
+        "primaryLeasingCompany_Phone_1": "(303) 667-6873 (m)",
+        "primaryLeasingCompany_Email_1": "dfischer@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_2": "Dax Gitcho",
+        "primaryLeasingCompany_Phone_2": "(303) 946-2611 (m)",
+        "primaryLeasingCompany_Email_2": "dgitcho@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_3": "Hayden Hirschfeld",
+        "primaryLeasingCompany_Phone_3": "(303) 619-2457 (m)",
+        "primaryLeasingCompany_Email_3": "hhirschfeld@shamesmakovsky.com",
+        "trueOwner_Company": "Denver Health and Hospital Authority",
+        "propertyManagement_Company": "Denver Health and Hospital Authority",
+        "propertyManagement_Name_1": "Carl Kline",
+        "propertyManagement_Email_1": "carl.kline@dhha.org"
+    },
+    {
+        "address": "700 Broadway - Anthem Denver, CO 80203",
+        "sf": "427,757",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Michael Crane",
+        "primaryLeasingCompany_Phone_1": "(303) 807-1843 (m)",
+        "primaryLeasingCompany_Email_1": "michael.crane@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Andy Ross",
+        "primaryLeasingCompany_Phone_2": "(720) 308-4665 (m)",
+        "primaryLeasingCompany_Email_2": "Andy.Ross@am.jll.com",
+        "trueOwner_Company": "Bradford Allen Realty Services",
+        "trueOwner_Name_1": "Drew Simmons",
+        "trueOwner_Email_1": "dsimmons@bradfordallen.com",
+        "propertyManagement_Company": "Blue Cross & Blue Shield of CO",
+        "propertyManagement_Name_1": "Al Nielson"
+    },
+    {
+        "address": "1290 Broadway - 1290 Broadway Denver, CO 80203",
+        "sf": "252,230",
+        "primaryLeasingCompany_Company": "Avison Young",
+        "primaryLeasingCompany_Name_1": "Chad Alexander",
+        "primaryLeasingCompany_Phone_1": "(303) 676-7199 (m)",
+        "primaryLeasingCompany_Email_1": "chad.alexander@avisonyoung.com",
+        "primaryLeasingCompany_Name_2": "Joseph Serieno",
+        "primaryLeasingCompany_Phone_2": "(303) 898-7261 (m)",
+        "primaryLeasingCompany_Email_2": "joe.serieno@avisonyoung.com",
+        "trueOwner_Company": "Principal Financial Group, Inc.",
+        "trueOwner_Name_1": "Daniel Houston",
+        "trueOwner_Email_1": "daniel.houston@principal.com"
+    },
+    {
+        "address": "2330 Broadway - Broadway Plaza Lofts Denver, CO 80205",
+        "built": "2005",
+        "primaryLeasingCompany_Company": "Century Real Estate Service",
+        "primaryLeasingCompany_Name_1": "Brent Snyder",
+        "primaryLeasingCompany_Phone_1": "(720) 273-9678 (m)",
+        "primaryLeasingCompany_Email_1": "bsnyder@centuryadvisorsllc.com",
+        "trueOwner_Company": "PacifiCap Properties Group",
+        "trueOwner_Name_1": "Chad Rennaker",
+        "trueOwner_Phone_1": "(503) 752-1393 (m)",
+        "trueOwner_Email_1": "crennaker@pacificap.com",
+        "propertyManagement_Company": "Pacificap - Broadway Plaza Lofts"
+    },
+    {
+        "address": "4751 Broadway - Salvation Army Denver, CO 80216",
+        "sf": "89,236",
+        "built": "1961",
+        "primaryLeasingCompany_Company": "Downtown Property Services, LLC",
+        "primaryLeasingCompany_Name_1": "Alex Thompson",
+        "primaryLeasingCompany_Phone_1": "(303) 591-6308 (m)",
+        "primaryLeasingCompany_Email_1": "alex@dpsdenver.com",
+        "primaryLeasingCompany_Name_2": "Ari Stutz",
+        "primaryLeasingCompany_Phone_2": "(303) 489-9090 (m)",
+        "primaryLeasingCompany_Email_2": "space@dpsdenver.com",
+        "trueOwner_Company": "Stutz Investments, LLC",
+        "propertyManagement_Company": "The Salvation Army"
+    },
+    {
+        "address": "7010 Broadway - Plaza 36 Denver, CO 80221",
+        "sf": "45,375",
+        "built": "1979",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Jeremy Reeves",
+        "primaryLeasingCompany_Phone_1": "(720) 317-9678 (m)",
+        "primaryLeasingCompany_Email_1": "jeremy.reeves@colliers.com",
+        "trueOwner_Company": "Bo Hong",
+        "trueOwner_Name_1": "Bo Hong",
+        "propertyManagement_Company": "Colliers International",
+        "propertyManagement_Name_1": "Michelle Simonton",
+        "propertyManagement_Phone_1": "(720) 334-5584 (m)",
+        "propertyManagement_Email_1": "michelle.simonton@colliers.com"
+    },
+    {
+        "address": "7100 N Broadway St - Bldg 6 Denver, CO 80221",
+        "sf": "38,255",
+        "built": "1978",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Daniel Close",
+        "primaryLeasingCompany_Phone_1": "(303) 946-3285 (m)",
+        "primaryLeasingCompany_Email_1": "daniel.close@cbre.com",
+        "primaryLeasingCompany_Name_2": "Matt Kawulok",
+        "primaryLeasingCompany_Phone_2": "(303) 819-0497 (m)",
+        "primaryLeasingCompany_Email_2": "Matt.Kawulok@cbre.com",
+        "trueOwner_Company": "The Bendetti Company"
+    },
+    {
+        "address": "400 S Broadway - Unique Properties Denver, CO 80209",
+        "sf": "17,859",
+        "built": "1965",
+        "primaryLeasingCompany_Company": "Unique Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "Marc Lippitt",
+        "primaryLeasingCompany_Email_1": "mlippitt@uniqueprop.com",
+        "primaryLeasingCompany_Name_2": "Justin Herman",
+        "primaryLeasingCompany_Phone_2": "(610) 836-2156 (m)",
+        "primaryLeasingCompany_Email_2": "jherman@uniqueprop.com",
+        "trueOwner_Company": "Unique Properties, Inc."
+    },
+    {
+        "address": "1212 S Broadway Denver, CO 80210",
+        "sf": "35,200",
+        "primaryLeasingCompany_Company": "Fuller Real Estate",
+        "primaryLeasingCompany_Name_1": "David Gagliano",
+        "primaryLeasingCompany_Phone_1": "(303) 818-3618 (m)",
+        "primaryLeasingCompany_Email_1": "dgagliano@fullerre.com",
+        "trueOwner_Company": "Jordy Construction",
+        "trueOwner_Name_1": "Charles Jordy",
+        "trueOwner_Phone_1": "(720) 570-5702 (m)",
+        "trueOwner_Email_1": "charles@jordyconstruction.com",
+        "propertyManagement_Company": "J C Broadway LLC"
+    },
+    {
+        "address": "2424-2434 W Caithness Pl - LoHi Gold Denver, CO 80211",
+        "built": "2012",
+        "primaryLeasingCompany_Company": "Heitler Development, Inc.",
+        "primaryLeasingCompany_Name_1": "Bruce Heitler",
+        "primaryLeasingCompany_Email_1": "bruce@heitlerdev.com",
+        "trueOwner_Company": "Grand Peaks Properties, Inc.",
+        "trueOwner_Name_1": "Courtney Crowder",
+        "trueOwner_Email_1": "ccrowder@grandpeaks.com",
+        "propertyManagement_Company": "Grand Peaks Property Management"
+    },
+    {
+        "address": "1801 California St - 1801 California Denver, CO 80202",
+        "sf": "1,315,428",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Nicholas Pavlakovich",
+        "primaryLeasingCompany_Phone_1": "(303) 550-5504 (m)",
+        "primaryLeasingCompany_Email_1": "nick.pavlakovich@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Matthew Gautreau",
+        "primaryLeasingCompany_Phone_2": "(303) 949-5126 (m)",
+        "primaryLeasingCompany_Email_2": "matt.gautreau@cushwake.com",
+        "trueOwner_Company": "Brookfield Asset Management, Inc.",
+        "propertyManagement_Company": "Brookfield Office Properties, Inc.",
+        "propertyManagement_Name_1": "Myra Napoli",
+        "propertyManagement_Email_1": "myra.napoli@brookfield.com"
+    },
+    {
+        "address": "5135 Chambers Rd - Bldg B Denver, CO 80239",
+        "built": "2002",
+        "primaryLeasingCompany_Company": "John Propp Commercial Group",
+        "primaryLeasingCompany_Name_1": "John Propp",
+        "primaryLeasingCompany_Phone_1": "(303) 910-6753 (m)",
+        "primaryLeasingCompany_Email_1": "john@johnproppcommercial.com",
+        "propertyManagement_Company": "Peakview Realty, LLC",
+        "propertyManagement_Name_1": "Sana Kim",
+        "propertyManagement_Phone_1": "(720) 695-4242 (m)",
+        "propertyManagement_Email_1": "PeakviewRE@gmail.com"
+    },
+    {
+        "address": "501 S Cherry St - One Cherry Center Denver, CO 80246",
+        "sf": "155,984",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Ryan Stout",
+        "primaryLeasingCompany_Phone_1": "(303) 886-3327 (m)",
+        "primaryLeasingCompany_Email_1": "ryan.stout@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Nate Bradley",
+        "primaryLeasingCompany_Phone_2": "(303) 726-2334 (m)",
+        "primaryLeasingCompany_Email_2": "nate.bradley@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Zach Williams",
+        "primaryLeasingCompany_Phone_3": "(303) 594-0089 (m)",
+        "primaryLeasingCompany_Email_3": "zach.williams@cushwake.com",
+        "trueOwner_Company": "DPC Development Companies",
+        "trueOwner_Name_1": "Justin Lutgen",
+        "trueOwner_Email_1": "jlutgen@dpccompanies.com",
+        "propertyManagement_Company": "DPC Development Companies",
+        "propertyManagement_Name_1": "Heather Farley",
+        "propertyManagement_Phone_1": "(720) 785-4626 (m)",
+        "propertyManagement_Email_1": "hdemello@dpccompanies.com"
+    },
+    {
+        "address": "950 S Cherry St - Cherry Tower Denver, CO 80246",
+        "sf": "226,195",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Ryan Stout",
+        "primaryLeasingCompany_Phone_1": "(303) 886-3327 (m)",
+        "primaryLeasingCompany_Email_1": "ryan.stout@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Nate Bradley",
+        "primaryLeasingCompany_Phone_2": "(303) 726-2334 (m)",
+        "primaryLeasingCompany_Email_2": "nate.bradley@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Zach Williams",
+        "primaryLeasingCompany_Phone_3": "(303) 594-0089 (m)",
+        "primaryLeasingCompany_Email_3": "zach.williams@cushwake.com",
+        "trueOwner_Company": "Goodman Realty Group",
+        "trueOwner_Name_1": "Angela Padilla",
+        "trueOwner_Email_1": "padilla@goodmanrealty.com",
+        "propertyManagement_Company": "Goodman Realty Group"
+    },
+    {
+        "address": "4500 S Cherry Creek Dr - 4500 Cherry Creek Denver, CO 80246",
+        "sf": "238,357",
+        "built": "1973",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "John Marold",
+        "primaryLeasingCompany_Email_1": "john.marold@cbre.com",
+        "primaryLeasingCompany_Name_2": "Lindsay Gilbert",
+        "primaryLeasingCompany_Phone_2": "(720) 480-9734 (m)",
+        "primaryLeasingCompany_Email_2": "Lindsay.Gilbert@cbre.com",
+        "trueOwner_Company": "DRA Advisors LLC",
+        "trueOwner_Name_1": "Valla Brown",
+        "trueOwner_Email_1": "vbrown@draadvisors.com",
+        "propertyManagement_Company": "DPC Development Companies",
+        "propertyManagement_Name_1": "Heather Farley",
+        "propertyManagement_Phone_1": "(720) 785-4626 (m)",
+        "propertyManagement_Email_1": "hdemello@dpccompanies.com"
+    },
+    {
+        "address": "3773 Cherry Creek North Dr - Ptarmigan at Cherry Creek Denver, CO 80209",
+        "sf": "435,011",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Nicholas Pavlakovich",
+        "primaryLeasingCompany_Phone_1": "(303) 550-5504 (m)",
+        "primaryLeasingCompany_Email_1": "nick.pavlakovich@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Matthew Gautreau",
+        "primaryLeasingCompany_Phone_2": "(303) 949-5126 (m)",
+        "primaryLeasingCompany_Email_2": "matt.gautreau@cushwake.com",
+        "trueOwner_Company": "Hamilton Partners",
+        "trueOwner_Name_1": "Scott Schroeder",
+        "trueOwner_Email_1": "sschroeder@hpre.com",
+        "propertyManagement_Company": "Titan Investments"
+    },
+    {
+        "address": "3200 Cherry Creek South Dr - The Citadel Denver, CO 80209",
+        "sf": "130,652",
+        "built": "1987",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Peter Staab",
+        "primaryLeasingCompany_Phone_1": "(303) 638-4020 (m)",
+        "primaryLeasingCompany_Email_1": "pstaab@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Nathan Johnson",
+        "primaryLeasingCompany_Phone_2": "(303) 960-8800 (m)",
+        "primaryLeasingCompany_Email_2": "njohnson@ngkf.com",
+        "trueOwner_Company": "Matador Equity Partners",
+        "propertyManagement_Company": "ColeTaylor-Citadel"
+    },
+    {
+        "address": "7808 E Cherry Creek South Dr - Bldg 4 Denver, CO 80231",
+        "sf": "28,840",
+        "built": "1996",
+        "primaryLeasingCompany_Company": "Stream Realty Partners, LP",
+        "primaryLeasingCompany_Name_1": "Buzz Miller",
+        "primaryLeasingCompany_Phone_1": "(303) 981-8407 (m)",
+        "primaryLeasingCompany_Email_1": "buzz.miller@streamrealty.com",
+        "primaryLeasingCompany_Name_2": "Peter Beugg",
+        "primaryLeasingCompany_Phone_2": "(720) 220-7383 (m)",
+        "primaryLeasingCompany_Email_2": "peter.beugg@streamrealty.com",
+        "primaryLeasingCompany_Name_3": "Tyler Reed",
+        "primaryLeasingCompany_Phone_3": "(303) 601-4663 (m)",
+        "primaryLeasingCompany_Email_3": "tyler.reed@streamrealty.com",
+        "trueOwner_Company": "The STG Group",
+        "propertyManagement_Company": "The STG Group"
+    },
+    {
+        "address": "1221 S Clarkson St - Washington Park Denver, CO 80210",
+        "sf": "31,763",
+        "built": "1974",
+        "primaryLeasingCompany_Company": "Pinnacle Real Estate Advisors",
+        "primaryLeasingCompany_Name_1": "Don Brennan",
+        "primaryLeasingCompany_Phone_1": "(303) 777-7365 (m)",
+        "primaryLeasingCompany_Email_1": "dbrennan@rio-realestate.com",
+        "trueOwner_Company": "MDF Commercial, LLC",
+        "trueOwner_Name_1": "Jewel Brown",
+        "propertyManagement_Company": "Weststar Management Corp",
+        "propertyManagement_Name_1": "Kevin Hayutin",
+        "propertyManagement_Phone_1": "(720) 880-2922 (m)",
+        "propertyManagement_Email_1": "kevin@weststarcommercial.com"
+    },
+    {
+        "address": "820 Clermont St Denver, CO 80220",
+        "sf": "14,193",
+        "built": "1971",
+        "primaryLeasingCompany_Company": "Broad Street Realty",
+        "primaryLeasingCompany_Name_1": "Christopher Ferritto",
+        "primaryLeasingCompany_Phone_1": "(386) 214-6685 (m)",
+        "primaryLeasingCompany_Email_1": "cferritto@broadstreetrealty.com",
+        "primaryLeasingCompany_Name_2": "Colin Clancy",
+        "primaryLeasingCompany_Phone_2": "(720) 352-5334 (m)",
+        "primaryLeasingCompany_Email_2": "cclancy@broadstreetrealty.com",
+        "trueOwner_Company": "James Downs Dentist"
+    },
+    {
+        "address": "1201 E Colfax Ave - Bourbon Square Denver, CO 80218",
+        "built": "1905",
+        "primaryLeasingCompany_Company": "Quiat Companies",
+        "primaryLeasingCompany_Name_1": "James Cortney",
+        "primaryLeasingCompany_Phone_1": "(720) 723-2768 (m)",
+        "primaryLeasingCompany_Email_1": "jim@quiatcompanies.com",
+        "trueOwner_Company": "Quiat Companies",
+        "trueOwner_Name_1": "James Cortney",
+        "trueOwner_Phone_1": "(720) 723-2768 (m)",
+        "trueOwner_Email_1": "jim@quiatcompanies.com"
+    },
+    {
+        "address": "720 S Colorado Blvd - Galleria North Tower Denver, CO 80246",
+        "sf": "300,000",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Daniel Beer",
+        "primaryLeasingCompany_Phone_1": "(303) 618-0939 (m)",
+        "primaryLeasingCompany_Email_1": "dan.beer@cushwake.com",
+        "trueOwner_Company": "Panther Real Estate Partners",
+        "trueOwner_Name_1": "Jeff Krinsky",
+        "trueOwner_Phone_1": "(305) 374-7075 (m)",
+        "trueOwner_Email_1": "jkrinsky@pantheroffice.com",
+        "propertyManagement_Company": "Cushman & Wakefield",
+        "propertyManagement_Name_1": "Julie Patton",
+        "propertyManagement_Email_1": "Julie.patton@cis.cushwake.com"
+    },
+    {
+        "address": "1550 S Colorado Blvd - Florida Mall Denver, CO 80222",
+        "built": "1990",
+        "primaryLeasingCompany_Company": "Dikeou Realty",
+        "primaryLeasingCompany_Name_1": "Eric Henderson",
+        "primaryLeasingCompany_Email_1": "ehenderson@dikeou.com",
+        "trueOwner_Company": "Dikeou Realty",
+        "trueOwner_Name_1": "Panayes Dikeou",
+        "trueOwner_Email_1": "pdikeou@dikeou.com"
+    },
+    {
+        "address": "1685 S Colorado Blvd - Boulevard Center Denver, CO 80222",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Regency Centers",
+        "primaryLeasingCompany_Name_1": "Tricia Freeman",
+        "primaryLeasingCompany_Phone_1": "(503) 603-4721 (m)",
+        "primaryLeasingCompany_Email_1": "triciafreeman@regencycenters.com",
+        "trueOwner_Company": "Regency Centers Corporation",
+        "trueOwner_Name_1": "Anne Brettingen",
+        "trueOwner_Email_1": "AnneBrettingen@RegencyCenters.com",
+        "propertyManagement_Company": "Regency Centers"
+    },
+    {
+        "address": "2000 S Colorado Blvd - Tower I Denver, CO 80222",
+        "sf": "179,733",
+        "built": "1987",
+        "primaryLeasingCompany_Company": "Lincoln Property Company",
+        "primaryLeasingCompany_Name_1": "Scott Caldwell",
+        "primaryLeasingCompany_Phone_1": "(720) 318-5982 (m)",
+        "primaryLeasingCompany_Email_1": "scaldwell@lpc.com",
+        "primaryLeasingCompany_Name_2": "Peter Thomas",
+        "primaryLeasingCompany_Phone_2": "(303) 324-0677 (m)",
+        "primaryLeasingCompany_Email_2": "pthomas@lpc.com",
+        "primaryLeasingCompany_Name_3": "Andrew Piepgras",
+        "primaryLeasingCompany_Email_3": "apiepgras@lpc.com",
+        "trueOwner_Company": "Lincoln Property Company",
+        "propertyManagement_Company": "Lincoln Property Company"
+    },
+    {
+        "address": "2000 S Colorado Blvd - Tower II Denver, CO 80222",
+        "sf": "320,760",
+        "built": "1996",
+        "primaryLeasingCompany_Company": "Lincoln Property Company",
+        "primaryLeasingCompany_Name_1": "Scott Caldwell",
+        "primaryLeasingCompany_Phone_1": "(720) 318-5982 (m)",
+        "primaryLeasingCompany_Email_1": "scaldwell@lpc.com",
+        "primaryLeasingCompany_Name_2": "Peter Thomas",
+        "primaryLeasingCompany_Phone_2": "(303) 324-0677 (m)",
+        "primaryLeasingCompany_Email_2": "pthomas@lpc.com",
+        "primaryLeasingCompany_Name_3": "Andrew Piepgras",
+        "primaryLeasingCompany_Email_3": "apiepgras@lpc.com",
+        "trueOwner_Company": "Lincoln Property Company",
+        "propertyManagement_Company": "Lincoln Property Company",
+        "propertyManagement_Name_1": "Scott Caldwell",
+        "propertyManagement_Phone_1": "(720) 318-5982 (m)",
+        "propertyManagement_Email_1": "scaldwell@lpc.com"
+    },
+    {
+        "address": "2696 S Colorado Blvd - Chase Bank of University Hills Denver, CO 80222",
+        "sf": "92,082",
+        "built": "1983",
+        "primaryLeasingCompany_Company": "Fairbairn Commercial, Inc.",
+        "primaryLeasingCompany_Name_1": "John Fairbairn",
+        "primaryLeasingCompany_Phone_1": "(720) 435-0853 (m)",
+        "primaryLeasingCompany_Email_1": "john@denverofficespace.com",
+        "trueOwner_Company": "Prestwick Pointe Valley Equity Group LLC",
+        "trueOwner_Name_1": "Andrew Ward",
+        "trueOwner_Phone_1": "(720) 418-0080 (m)",
+        "trueOwner_Email_1": "andy@valleyequitygroup.com",
+        "propertyManagement_Company": "Salsa Properties, LLC",
+        "propertyManagement_Name_1": "Andy Ward",
+        "propertyManagement_Email_1": "andy@salsallc.com"
+    },
+    {
+        "address": "7475 Dakin St - Covalt Tower Denver, CO 80221",
+        "sf": "63,821",
+        "primaryLeasingCompany_Company": "RE/MAX Commercial Alliance",
+        "primaryLeasingCompany_Name_1": "Russ Baca",
+        "primaryLeasingCompany_Phone_1": "(970) 215-5105 (m)",
+        "primaryLeasingCompany_Email_1": "bacaruss@gmail.com",
+        "trueOwner_Company": "Covalt & Company MSI, LLC"
+    },
+    {
+        "address": "5353 W Dartmouth Ave - Bear Valley Office Building Denver, CO 80227",
+        "sf": "77,339",
+        "built": "1979",
+        "primaryLeasingCompany_Company": "RE/MAX Traditions, Inc.",
+        "primaryLeasingCompany_Name_1": "Ken Voss",
+        "primaryLeasingCompany_Phone_1": "(970) 232-5446 (m)",
+        "primaryLeasingCompany_Email_1": "kenvoss@longmontcommercial.com",
+        "trueOwner_Company": "R Don Burton",
+        "trueOwner_Name_1": "R Burton",
+        "propertyManagement_Company": "Sessions Group"
+    },
+    {
+        "address": "2015 S Dayton St - Govt Bldg Denver, CO 80247",
+        "sf": "12,428",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "RE 1313",
+        "primaryLeasingCompany_Name_1": "Danchen Astle",
+        "primaryLeasingCompany_Phone_1": "(303) 332-5955 (m)",
+        "primaryLeasingCompany_Email_1": "danchen@re1313.com",
+        "primaryLeasingCompany_Name_2": "Brandi Spencer",
+        "primaryLeasingCompany_Phone_2": "(303) 803-4358 (m)",
+        "primaryLeasingCompany_Email_2": "brandi@re1313.com",
+        "trueOwner_Company": "Powers R & E Ptrs Llc",
+        "trueOwner_Name_1": "Malik Gulrez",
+        "propertyManagement_Company": "Cunningham Fire Protection District"
+    },
+    {
+        "address": "3030-3034 Downing St Denver, CO 80205",
+        "sf": "16,784",
+        "built": "1934",
+        "primaryLeasingCompany_Company": "Pinnacle Real Estate Advisors",
+        "primaryLeasingCompany_Name_1": "Amanda Dorotik",
+        "primaryLeasingCompany_Phone_1": "(720) 837-5541 (m)",
+        "primaryLeasingCompany_Email_1": "ADorotik@PInnacleREA.com",
+        "primaryLeasingCompany_Name_2": "Jamie Mitchell",
+        "primaryLeasingCompany_Phone_2": "(720) 496-9181 (m)",
+        "primaryLeasingCompany_Email_2": "JMitchell@pinnaclerea.com",
+        "trueOwner_Company": "GHC Housing Partners",
+        "trueOwner_Name_1": "Michael Clark",
+        "trueOwner_Email_1": "MClark@ghcapital.com"
+    },
+    {
+        "address": "3090 Downing St Denver, CO 80205",
+        "built": "1958",
+        "primaryLeasingCompany_Company": "Pinnacle Real Estate Advisors",
+        "primaryLeasingCompany_Name_1": "Amanda Dorotik",
+        "primaryLeasingCompany_Phone_1": "(720) 837-5541 (m)",
+        "primaryLeasingCompany_Email_1": "ADorotik@PInnacleREA.com",
+        "primaryLeasingCompany_Name_2": "Jamie Mitchell",
+        "primaryLeasingCompany_Phone_2": "(720) 496-9181 (m)",
+        "primaryLeasingCompany_Email_2": "JMitchell@pinnaclerea.com",
+        "trueOwner_Company": "GHC Housing Partners",
+        "trueOwner_Name_1": "Michael Clark",
+        "trueOwner_Email_1": "MClark@ghcapital.com"
+    },
+    {
+        "address": "3280 Downing St - Downing Square Apartments Denver, CO 80205",
+        "built": "1998",
+        "primaryLeasingCompany_Company": "iMPAX Real Estate Group, LLC",
+        "primaryLeasingCompany_Name_1": "Drew MacDonald",
+        "primaryLeasingCompany_Phone_1": "(303) 887-8853 (m)",
+        "primaryLeasingCompany_Email_1": "drew@impaxrealestate.com",
+        "primaryLeasingCompany_Name_2": "Amanda Hardin",
+        "primaryLeasingCompany_Phone_2": "(303) 929-8152 (m)",
+        "primaryLeasingCompany_Email_2": "amanda@impaxrealestate.com",
+        "trueOwner_Company": "Gibraltar Property Managment Company",
+        "propertyManagement_Company": "Gibraltar - Downing Square Apartments"
+    },
+    {
+        "address": "7600 E Eastman Ave - Tamarac Plaza III Denver, CO 80231",
+        "sf": "94,455",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Sergio Castaneda",
+        "primaryLeasingCompany_Phone_1": "(303) 960-6314 (m)",
+        "primaryLeasingCompany_Email_1": "sergio.castaneda@cbre.com",
+        "primaryLeasingCompany_Name_2": "Mitch Bradley",
+        "primaryLeasingCompany_Email_2": "mitch.bradley@cbre.com",
+        "trueOwner_Company": "Redstone Group",
+        "trueOwner_Name_1": "Jamie Fiander",
+        "trueOwner_Email_1": "jfiander@onni.com"
+    },
+    {
+        "address": "1111 W Evans Ave Denver, CO 80223",
+        "sf": "41,619",
+        "built": "1986",
+        "primaryLeasingCompany_Company": "Michael Bloom Realty Company",
+        "primaryLeasingCompany_Name_1": "Matt Dorsten",
+        "primaryLeasingCompany_Phone_1": "(321) 277-3675 (m)",
+        "primaryLeasingCompany_Email_1": "mdorsten@michaelbloomrealty.com",
+        "primaryLeasingCompany_Name_2": "Michael Bloom",
+        "primaryLeasingCompany_Phone_2": "(303) 725-8515 (m)",
+        "primaryLeasingCompany_Email_2": "mbloom@michaelbloomrealty.com",
+        "trueOwner_Company": "1111 W. Evans, LLC",
+        "trueOwner_Name_1": "Gary Rosenberg",
+        "propertyManagement_Company": "Mountain West Industrial Properties LLC"
+    },
+    {
+        "address": "1390 W Evans Ave Denver, CO 80223",
+        "sf": "119,232",
+        "built": "1972",
+        "primaryLeasingCompany_Company": "Michael Bloom Realty Company",
+        "primaryLeasingCompany_Name_1": "Michael Bloom",
+        "primaryLeasingCompany_Phone_1": "(303) 725-8515 (m)",
+        "primaryLeasingCompany_Email_1": "mbloom@michaelbloomrealty.com",
+        "primaryLeasingCompany_Name_2": "Matt Dorsten",
+        "primaryLeasingCompany_Phone_2": "(321) 277-3675 (m)",
+        "primaryLeasingCompany_Email_2": "mdorsten@michaelbloomrealty.com",
+        "trueOwner_Company": "Michael Bloom Realty Company",
+        "trueOwner_Name_1": "Michael Bloom",
+        "trueOwner_Phone_1": "(303) 725-8515 (m)",
+        "trueOwner_Email_1": "mbloom@michaelbloomrealty.com"
+    },
+    {
+        "address": "2856-2868 Fairfax St Denver, CO 80207",
+        "sf": "11,800",
+        "built": "2020",
+        "primaryLeasingCompany_Company": "HM Capital",
+        "primaryLeasingCompany_Name_1": "McCall Perry",
+        "primaryLeasingCompany_Email_1": "mccall@hmcapitalgroup.com",
+        "trueOwner_Company": "HM Capital"
+    },
+    {
+        "address": "60-80 S Federal Blvd Denver, CO 80219",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Tony Nguyen",
+        "primaryLeasingCompany_Name_1": "Tony Nguyen",
+        "primaryLeasingCompany_Email_1": "m.nguyen8881@gmail.com",
+        "trueOwner_Company": "Deidra Nguyen",
+        "trueOwner_Name_1": "Deidra Nguyen",
+        "trueOwner_Email_1": "dei108@yahoo.com",
+        "propertyManagement_Company": "Dee Nguyen",
+        "propertyManagement_Name_1": "Dee Nguyen",
+        "propertyManagement_Phone_1": "(720) 295-7411 (m)",
+        "propertyManagement_Email_1": "deenguyen108@gmail.com"
+    },
+    {
+        "address": "1000-1048 S Federal Blvd - Asia Center Denver, CO 80219",
+        "built": "1956",
+        "primaryLeasingCompany_Company": "Dunton Commercial LLC",
+        "primaryLeasingCompany_Name_1": "Louis Lee",
+        "primaryLeasingCompany_Phone_1": "(303) 503-2100 (m)",
+        "primaryLeasingCompany_Email_1": "llee@antonoff.com",
+        "trueOwner_Company": "Harry M Sterling",
+        "trueOwner_Name_1": "Harry Sterling"
+    },
+    {
+        "address": "2420-2424 S Federal Blvd Denver, CO 80219",
+        "sf": "20,042",
+        "built": "1963",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Steve Fletcher",
+        "primaryLeasingCompany_Phone_1": "(720) 320-0366 (m)",
+        "primaryLeasingCompany_Email_1": "sfletcher@ngkf.com",
+        "trueOwner_Company": "Nail First",
+        "trueOwner_Name_1": "Chau Nguyen"
+    },
+    {
+        "address": "3801 E Florida Ave - Belcaro Place Denver, CO 80210",
+        "sf": "153,985",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Todd Silverman",
+        "primaryLeasingCompany_Phone_1": "(303) 668-7267 (m)",
+        "primaryLeasingCompany_Email_1": "tsilverman@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_2": "Peter Knisely",
+        "primaryLeasingCompany_Phone_2": "(303) 618-9718 (m)",
+        "primaryLeasingCompany_Email_2": "pknisely@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_3": "Paul Cattin",
+        "primaryLeasingCompany_Phone_3": "(720) 881-7532 (m)",
+        "primaryLeasingCompany_Email_3": "pcattin@shamesmakovsky.com",
+        "trueOwner_Company": "Vincent G Rieger",
+        "trueOwner_Name_1": "Vincent Rieger",
+        "trueOwner_Email_1": "VRieger@CyberPort.Net",
+        "propertyManagement_Company": "Red Tail Acquisitions"
+    },
+    {
+        "address": "3532 Franklin St - Tramway Nonprofit Center Denver, CO 80205",
+        "sf": "43,489",
+        "built": "1940",
+        "primaryLeasingCompany_Company": "Urban Land Conservancy",
+        "primaryLeasingCompany_Name_1": "Autumn Buehler",
+        "primaryLeasingCompany_Phone_1": "(605) 939-5500 (m)",
+        "primaryLeasingCompany_Email_1": "abuehler@urbanlandc.org",
+        "trueOwner_Company": "Urban Land Conservancy",
+        "trueOwner_Name_1": "Autumn Buehler",
+        "trueOwner_Phone_1": "(605) 939-5500 (m)",
+        "trueOwner_Email_1": "abuehler@urbanlandc.org",
+        "propertyManagement_Company": "Urban Land Conservancy",
+        "propertyManagement_Name_1": "Autumn Buehler",
+        "propertyManagement_Phone_1": "(605) 939-5500 (m)",
+        "propertyManagement_Email_1": "abuehler@urbanlandc.org"
+    },
+    {
+        "address": "600 Grant St Denver, CO 80203",
+        "sf": "118,384",
+        "primaryLeasingCompany_Company": "Transwestern Real Estate Services",
+        "primaryLeasingCompany_Name_1": "Whitney Hake",
+        "primaryLeasingCompany_Phone_1": "(303) 601-6465 (m)",
+        "primaryLeasingCompany_Email_1": "Whitney.Hake@transwestern.com",
+        "primaryLeasingCompany_Name_2": "Billy Woodward",
+        "primaryLeasingCompany_Phone_2": "(303) 990-1625 (m)",
+        "primaryLeasingCompany_Email_2": "billy.woodward@transwestern.com",
+        "primaryLeasingCompany_Name_3": "Alison Utz",
+        "primaryLeasingCompany_Email_3": "Alison.Utz@transwestern.com",
+        "trueOwner_Company": "Colorado State Board of Land Commissioners",
+        "trueOwner_Name_1": "John Brekcha"
+    },
+    {
+        "address": "777 Grant St - 777 Grant Street Denver, CO 80203",
+        "sf": "73,037",
+        "built": "1972",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Ana Sandomire",
+        "primaryLeasingCompany_Phone_1": "(303) 587-8423 (m)",
+        "primaryLeasingCompany_Email_1": "asandomire@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_2": "Cory Dulberg",
+        "primaryLeasingCompany_Phone_2": "(303) 319-1262 (m)",
+        "primaryLeasingCompany_Email_2": "cdulberg@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_3": "Todd Snyder",
+        "primaryLeasingCompany_Phone_3": "(303) 704-6322 (m)",
+        "primaryLeasingCompany_Email_3": "tsnyder@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_4": "Kiley Crews",
+        "primaryLeasingCompany_Phone_4": "(480) 748-0444 (m)",
+        "primaryLeasingCompany_Email_4": "kcrews@shamesmakovsky.com",
+        "trueOwner_Company": "City & County of Denver",
+        "trueOwner_Name_1": "Debra Johnson",
+        "propertyManagement_Company": "Denver Housing Authority"
+    },
+    {
+        "address": "1900 Grant St Denver, CO 80203",
+        "sf": "158,000",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Kevin Foley",
+        "primaryLeasingCompany_Email_1": "kevin.p.foley@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Andy Willson",
+        "primaryLeasingCompany_Phone_2": "(303) 947-8100 (m)",
+        "primaryLeasingCompany_Email_2": "Andy.willson@am.jll.com",
+        "trueOwner_Company": "Regent Properties, Inc.",
+        "propertyManagement_Company": "SteelWave, Inc."
+    },
+    {
+        "address": "12405 Grant St Denver, CO 80241",
+        "sf": "13,500",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "Dean Callan & Company, Inc.",
+        "primaryLeasingCompany_Name_1": "Brit Banks",
+        "primaryLeasingCompany_Phone_1": "(303) 903-9775 (m)",
+        "primaryLeasingCompany_Email_1": "bbanks@deancallan.com",
+        "primaryLeasingCompany_Name_2": "Torrey Patterson",
+        "primaryLeasingCompany_Phone_2": "(303) 514-4559 (m)",
+        "primaryLeasingCompany_Email_2": "tpatterson@deancallan.com",
+        "trueOwner_Company": "Advance Systems Group"
+    },
+    {
+        "address": "18601-18605 Green Valley Ranch Blvd - Green Valley Ranch Denver, CO 80249",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Justin Kliewer",
+        "primaryLeasingCompany_Phone_1": "(303) 902-3938 (m)",
+        "primaryLeasingCompany_Email_1": "Justin.Kliewer@cbre.com",
+        "primaryLeasingCompany_Name_2": "Jim Lee",
+        "primaryLeasingCompany_Email_2": "jim.lee@cbre.com",
+        "primaryLeasingCompany_Name_3": "Jon Weisiger",
+        "primaryLeasingCompany_Email_3": "jon.weisiger@cbre.com",
+        "trueOwner_Company": "Highpoint Capital",
+        "trueOwner_Name_1": "Jeffrey Seltzer",
+        "trueOwner_Phone_1": "(310) 403-5100 (m)",
+        "trueOwner_Email_1": "jseltzer@hp-cap.com",
+        "propertyManagement_Company": "Miller Real Estate Investments, LLC",
+        "propertyManagement_Name_1": "Lou Brock"
+    },
+    {
+        "address": "7400 E Hampden Ave - Units D-H Denver, CO 80231",
+        "primaryLeasingCompany_Company": "AmCap Incorporated",
+        "primaryLeasingCompany_Name_1": "Ira Shwartz",
+        "primaryLeasingCompany_Email_1": "ishwartz@amcap.com",
+        "primaryLeasingCompany_Name_2": "James Dixon",
+        "primaryLeasingCompany_Phone_2": "(303) 475-7536 (m)",
+        "primaryLeasingCompany_Email_2": "jdixon@amcap.com",
+        "trueOwner_Company": "AmCap, Inc.",
+        "trueOwner_Name_1": "Jay Kaiser",
+        "trueOwner_Email_1": "jkaiser@amcap.com"
+    },
+    {
+        "address": "7535 E Hampden Ave - Tamarac Plaza II Denver, CO 80231",
+        "sf": "137,152",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Sergio Castaneda",
+        "primaryLeasingCompany_Phone_1": "(303) 960-6314 (m)",
+        "primaryLeasingCompany_Email_1": "sergio.castaneda@cbre.com",
+        "primaryLeasingCompany_Name_2": "Mitch Bradley",
+        "primaryLeasingCompany_Email_2": "mitch.bradley@cbre.com",
+        "trueOwner_Company": "Redstone Group",
+        "trueOwner_Name_1": "Jamie Fiander",
+        "trueOwner_Email_1": "jfiander@onni.com"
+    },
+    {
+        "address": "9725 E Hampden Ave - Bldg 1 Denver, CO 80231",
+        "sf": "45,220",
+        "built": "1974",
+        "primaryLeasingCompany_Company": "Alpha Interactive Group Inc",
+        "primaryLeasingCompany_Name_1": "Mike Poelstra",
+        "primaryLeasingCompany_Phone_1": "(720) 838-4281 (m)",
+        "primaryLeasingCompany_Email_1": "mike@ai3properties.com",
+        "primaryLeasingCompany_Name_2": "Peter Charczenko",
+        "primaryLeasingCompany_Phone_2": "(303) 669-6902 (m)",
+        "primaryLeasingCompany_Email_2": "leasing@ai3properties.com",
+        "trueOwner_Company": "Peter Charczenko",
+        "trueOwner_Name_1": "Peter Charczenko",
+        "trueOwner_Phone_1": "(720) 460-0331 (m)",
+        "trueOwner_Email_1": "petercharczenkko@ai-group.com",
+        "propertyManagement_Company": "Ben Getzel"
+    },
+    {
+        "address": "10005-10021 E Hampden Ave - Hampden Plaza Denver, CO 80231",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "John Propp Commercial Group",
+        "primaryLeasingCompany_Name_1": "John Propp",
+        "primaryLeasingCompany_Phone_1": "(303) 910-6753 (m)",
+        "primaryLeasingCompany_Email_1": "john@johnproppcommercial.com",
+        "trueOwner_Company": "John Propp Commercial Group",
+        "trueOwner_Name_1": "John Propp",
+        "trueOwner_Phone_1": "(303) 910-6753 (m)",
+        "trueOwner_Email_1": "john@johnproppcommercial.com",
+        "propertyManagement_Company": "John Propp Commercial Group",
+        "propertyManagement_Name_1": "Jean McKeon"
+    },
+    {
+        "address": "4704 Harlan St - Lakeside Office Park Denver, CO 80212",
+        "sf": "112,938",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Ryan Stout",
+        "primaryLeasingCompany_Phone_1": "(303) 886-3327 (m)",
+        "primaryLeasingCompany_Email_1": "ryan.stout@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Nate Bradley",
+        "primaryLeasingCompany_Phone_2": "(303) 726-2334 (m)",
+        "primaryLeasingCompany_Email_2": "nate.bradley@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Zach Williams",
+        "primaryLeasingCompany_Phone_3": "(303) 594-0089 (m)",
+        "primaryLeasingCompany_Email_3": "zach.williams@cushwake.com",
+        "trueOwner_Company": "RQL Management",
+        "propertyManagement_Company": "RQL Management"
+    },
+    {
+        "address": "1777 S Harrison St - Denver Centerpoint II Denver, CO 80210",
+        "sf": "228,142",
+        "built": "1980",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "John Beason",
+        "primaryLeasingCompany_Phone_1": "(720) 693-3781 (m)",
+        "primaryLeasingCompany_Email_1": "John.beason@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Andy Ross",
+        "primaryLeasingCompany_Phone_2": "(720) 308-4665 (m)",
+        "primaryLeasingCompany_Email_2": "Andy.Ross@am.jll.com",
+        "primaryLeasingCompany_Name_3": "Bo Pitto",
+        "primaryLeasingCompany_Phone_3": "(720) 570-6563 (m)",
+        "primaryLeasingCompany_Email_3": "bo.pitto@am.jll.com",
+        "trueOwner_Company": "TerraCap Management, LLC",
+        "propertyManagement_Company": "DPC Companies",
+        "propertyManagement_Name_1": "Carter Sealing",
+        "propertyManagement_Phone_1": "(303) 549-2449 (m)"
+    },
+    {
+        "address": "850 E Harvard Ave - Harvard Park West Denver, CO 80210",
+        "sf": "70,394",
+        "primaryLeasingCompany_Company": "Fleisher Smyth Brokaw LLC",
+        "primaryLeasingCompany_Name_1": "Michelle Brokaw",
+        "primaryLeasingCompany_Phone_1": "(720) 904-1182 (m)",
+        "primaryLeasingCompany_Email_1": "michelle.brokaw@fsbrei.com",
+        "primaryLeasingCompany_Name_2": "Mark Aalund",
+        "primaryLeasingCompany_Phone_2": "(720) 772-0855 (m)",
+        "primaryLeasingCompany_Email_2": "Mark.Aalund@fsbrei.com",
+        "trueOwner_Company": "Fleisher Smyth Brokaw LLC",
+        "propertyManagement_Company": "Fleisher Smyth Brokaw LLC"
+    },
+    {
+        "address": "950 E Harvard Ave - Harvard Park East Denver, CO 80210",
+        "sf": "80,543",
+        "built": "1979",
+        "primaryLeasingCompany_Company": "Fleisher Smyth Brokaw LLC",
+        "primaryLeasingCompany_Name_1": "Michelle Brokaw",
+        "primaryLeasingCompany_Phone_1": "(720) 904-1182 (m)",
+        "primaryLeasingCompany_Email_1": "michelle.brokaw@fsbrei.com",
+        "primaryLeasingCompany_Name_2": "Mark Aalund",
+        "primaryLeasingCompany_Phone_2": "(720) 772-0855 (m)",
+        "primaryLeasingCompany_Email_2": "Mark.Aalund@fsbrei.com",
+        "trueOwner_Company": "Fleisher Smyth Brokaw LLC",
+        "propertyManagement_Company": "Fleisher Smyth Brokaw LLC"
+    },
+    {
+        "address": "7505 E Harvard Ave Denver, CO 80231",
+        "sf": "12,021",
+        "built": "1999",
+        "trueOwner_Company": "Charles Hauber",
+        "trueOwner_Name_1": "Charles Hauber"
+    },
+    {
+        "address": "7975 E Harvard Ave Denver, CO 80231",
+        "sf": "22,400",
+        "built": "1980",
+        "primaryLeasingCompany_Company": "Fall River Investments",
+        "primaryLeasingCompany_Name_1": "Evonne McCormick",
+        "primaryLeasingCompany_Phone_1": "(303) 520-6105 (m)",
+        "primaryLeasingCompany_Email_1": "evonne@fallriverinv.com",
+        "trueOwner_Company": "DHJ Corp.",
+        "propertyManagement_Company": "Fall River Investments"
+    },
+    {
+        "address": "10065 E Harvard Ave - Two Denver Highlands Denver, CO 80231",
+        "sf": "230,057",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Mitch Bradley",
+        "primaryLeasingCompany_Email_1": "mitch.bradley@cbre.com",
+        "primaryLeasingCompany_Name_2": "Lindsay Gilbert",
+        "primaryLeasingCompany_Phone_2": "(720) 480-9734 (m)",
+        "primaryLeasingCompany_Email_2": "Lindsay.Gilbert@cbre.com",
+        "trueOwner_Company": "One William Street Capital, L.P.",
+        "trueOwner_Name_1": "Anna Finesilver",
+        "trueOwner_Email_1": "ir@onewilliamstreet.com",
+        "propertyManagement_Company": "CBRE"
+    },
+    {
+        "address": "4880 Havana St - Havana Liquid Gold - Building A Denver, CO 80239",
+        "sf": "72,405",
+        "built": "1995",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Blake Holcomb",
+        "primaryLeasingCompany_Phone_1": "(303) 718-1389 (m)",
+        "primaryLeasingCompany_Email_1": "Blake.Holcomb@cbre.com",
+        "primaryLeasingCompany_Name_2": "Brian Hutt",
+        "primaryLeasingCompany_Phone_2": "(303) 349-3460 (m)",
+        "primaryLeasingCompany_Email_2": "brian.hutt@cbre.com",
+        "trueOwner_Company": "Exdo Properties",
+        "trueOwner_Name_1": "Andrew Feinstein",
+        "trueOwner_Email_1": "afeinstein@exdomanagement.com",
+        "propertyManagement_Company": "Exdo Properties",
+        "propertyManagement_Name_1": "Robert Bullock",
+        "propertyManagement_Phone_1": "(720) 935-8404 (m)",
+        "propertyManagement_Email_1": "rbullock@exdomanagement.com"
+    },
+    {
+        "address": "5590 High St Denver, CO 80216",
+        "sf": "230,636",
+        "built": "1970",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Tim Shay",
+        "primaryLeasingCompany_Phone_1": "(720) 220-6689 (m)",
+        "primaryLeasingCompany_Email_1": "tim.shay@colliers.com",
+        "trueOwner_Company": "Colorado Petroleum Products Company Inc",
+        "trueOwner_Name_1": "Clark Thompson",
+        "trueOwner_Email_1": "clarkt@colopetro.com",
+        "propertyManagement_Company": "Stokes Canning Company",
+        "propertyManagement_Name_1": "Robert Page"
+    },
+    {
+        "address": "4675 Holly St Denver, CO 80216",
+        "sf": "74,650",
+        "built": "1966",
+        "primaryLeasingCompany_Company": "Gillis Thomas Company",
+        "primaryLeasingCompany_Name_1": "Pam Ziebarth",
+        "primaryLeasingCompany_Email_1": "pam@gillisthomas.com",
+        "primaryLeasingCompany_Name_2": "Pamela Nilemo",
+        "primaryLeasingCompany_Phone_2": "(303) 868-7161 (m)",
+        "primaryLeasingCompany_Email_2": "pamela@gillisthomas.com",
+        "trueOwner_Company": "Gillis Thomas Company",
+        "propertyManagement_Company": "Gillis Thomas Company",
+        "propertyManagement_Name_1": "Pam Ziebarth",
+        "propertyManagement_Email_1": "pam@gillisthomas.com"
+    },
+    {
+        "address": "1950 S Holly St - Holly Shops Denver, CO 80222",
+        "built": "1959",
+        "primaryLeasingCompany_Company": "RE/MAX Leaders",
+        "primaryLeasingCompany_Name_1": "Joe Awad",
+        "primaryLeasingCompany_Phone_1": "(303) 587-8442 (m)",
+        "primaryLeasingCompany_Email_1": "jawad@remax.net",
+        "trueOwner_Company": "Weinstein Lee H Ira",
+        "propertyManagement_Company": "Gateway Management Co.",
+        "propertyManagement_Name_1": "Lydia Stofka"
+    },
+    {
+        "address": "7405-7545 E Iliff Ave Denver, CO 80231",
+        "built": "1986",
+        "primaryLeasingCompany_Company": "Cross Street Real Estate Co.",
+        "primaryLeasingCompany_Name_1": "Kari Robertson",
+        "primaryLeasingCompany_Phone_1": "(303) 263-3630 (m)",
+        "primaryLeasingCompany_Email_1": "karir@cstretail.com",
+        "primaryLeasingCompany_Name_2": "Scott Nannemann",
+        "primaryLeasingCompany_Phone_2": "(303) 718-2279 (m)",
+        "primaryLeasingCompany_Email_2": "Scottn@cstretail.com",
+        "trueOwner_Company": "CIRE Partners",
+        "trueOwner_Name_1": "Joshua Volen",
+        "trueOwner_Phone_1": "(916) 225-0693 (m)",
+        "trueOwner_Email_1": "jvolen@cirepartners.com",
+        "propertyManagement_Company": "CIRE Partners"
+    },
+    {
+        "address": "8400 E Iliff Ave Denver, CO 80231",
+        "primaryLeasingCompany_Company": "Fairbairn Commercial, Inc.",
+        "primaryLeasingCompany_Name_1": "John Fairbairn",
+        "primaryLeasingCompany_Phone_1": "(720) 435-0853 (m)",
+        "primaryLeasingCompany_Email_1": "john@denverofficespace.com",
+        "trueOwner_Company": "Fairbairn Commercial, Inc.",
+        "trueOwner_Name_1": "John Fairbairn",
+        "trueOwner_Phone_1": "(720) 435-0853 (m)",
+        "trueOwner_Email_1": "john@denverofficespace.com"
+    },
+    {
+        "address": "4890 Ironton St Denver, CO 80239",
+        "sf": "29,095",
+        "built": "1977",
+        "primaryLeasingCompany_Company": "Michael Bloom Realty Company",
+        "primaryLeasingCompany_Name_1": "Michael Bloom",
+        "primaryLeasingCompany_Phone_1": "(303) 725-8515 (m)",
+        "primaryLeasingCompany_Email_1": "mbloom@michaelbloomrealty.com",
+        "primaryLeasingCompany_Name_2": "Matt Dorsten",
+        "primaryLeasingCompany_Phone_2": "(321) 277-3675 (m)",
+        "primaryLeasingCompany_Email_2": "mdorsten@michaelbloomrealty.com",
+        "trueOwner_Company": "Michael Bloom Realty Company",
+        "trueOwner_Name_1": "Michael Bloom",
+        "trueOwner_Phone_1": "(303) 725-8515 (m)",
+        "trueOwner_Email_1": "mbloom@michaelbloomrealty.com",
+        "propertyManagement_Company": "Michael Bloom Realty Company"
+    },
+    {
+        "address": "3120 Irving St Denver, CO 80211",
+        "primaryLeasingCompany_Company": "Renewal Church",
+        "primaryLeasingCompany_Name_1": "AJ Mastic",
+        "primaryLeasingCompany_Phone_1": "(303) 729-3692 (m)",
+        "primaryLeasingCompany_Email_1": "aj.mastic@renewaldenver.org",
+        "trueOwner_Company": "st john's lutheran church"
+    },
+    {
+        "address": "3899 Jackson St Denver, CO 80205",
+        "primaryLeasingCompany_Company": "Exdo Properties",
+        "primaryLeasingCompany_Name_1": "Robert Bullock",
+        "primaryLeasingCompany_Phone_1": "(720) 935-8404 (m)",
+        "primaryLeasingCompany_Email_1": "rbullock@exdomanagement.com",
+        "trueOwner_Company": "Exdo Properties"
+    },
+    {
+        "address": "300 S Jackson St - Jackson Place Denver, CO 80209",
+        "sf": "73,143",
+        "primaryLeasingCompany_Company": "KEW Realty Corporation",
+        "primaryLeasingCompany_Name_1": "Jeremy Spira",
+        "primaryLeasingCompany_Phone_1": "(303) 960-2709 (m)",
+        "primaryLeasingCompany_Email_1": "jspira@kewrealty.com",
+        "primaryLeasingCompany_Name_2": "Carmen Miller",
+        "primaryLeasingCompany_Phone_2": "(303) 570-7884 (m)",
+        "primaryLeasingCompany_Email_2": "cmiller@kewrealty.com",
+        "trueOwner_Company": "KEW Realty Corporation",
+        "trueOwner_Name_1": "David Spira",
+        "trueOwner_Email_1": "dspira@kewrealty.com",
+        "propertyManagement_Company": "KEW Realty Corporation"
+    },
+    {
+        "address": "1002-1020 S Jason St Denver, CO 80223",
+        "sf": "26,247",
+        "built": "1954",
+        "primaryLeasingCompany_Company": "O.P. Inc. Commercial Real Estate",
+        "primaryLeasingCompany_Name_1": "Kevin Sherrod",
+        "primaryLeasingCompany_Phone_1": "(303) 210-4714 (m)",
+        "primaryLeasingCompany_Email_1": "kevinsherrod@aol.com",
+        "trueOwner_Company": "Rocky Mountain Investment Partners",
+        "trueOwner_Name_1": "Todd Poppert",
+        "trueOwner_Email_1": "tpoppert@rockymtninvest.com"
+    },
+    {
+        "address": "209 Kalamath St - Bolt Factory Lofts Denver, CO 80223",
+        "sf": "31,876",
+        "primaryLeasingCompany_Company": "Pontifex Properties, LLC",
+        "primaryLeasingCompany_Name_1": "Cameron Pope",
+        "primaryLeasingCompany_Phone_1": "(303) 478-6430 (m)",
+        "primaryLeasingCompany_Email_1": "cameron.pope@me.com"
+    },
+    {
+        "address": "3950 Kearney St Denver, CO 80207",
+        "sf": "118,048",
+        "built": "1960",
+        "primaryLeasingCompany_Company": "Michael Bloom Realty Company",
+        "primaryLeasingCompany_Name_1": "Michael Bloom",
+        "primaryLeasingCompany_Phone_1": "(303) 725-8515 (m)",
+        "primaryLeasingCompany_Email_1": "mbloom@michaelbloomrealty.com",
+        "primaryLeasingCompany_Name_2": "Matt Dorsten",
+        "primaryLeasingCompany_Phone_2": "(321) 277-3675 (m)",
+        "primaryLeasingCompany_Email_2": "mdorsten@michaelbloomrealty.com",
+        "trueOwner_Company": "Furniture Row Shopping Center"
+    },
+    {
+        "address": "2819-2823 Larimer St Denver, CO 80205",
+        "primaryLeasingCompany_Company": "Unique Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "Timothy Finholm",
+        "primaryLeasingCompany_Phone_1": "(303) 916-7837 (m)",
+        "primaryLeasingCompany_Email_1": "tfinholm@uniqueprop.com",
+        "primaryLeasingCompany_Name_2": "Sam Leger",
+        "primaryLeasingCompany_Phone_2": "(303) 512-1159 (m)",
+        "primaryLeasingCompany_Email_2": "sleger@uniqueprop.com",
+        "trueOwner_Company": "Sam Leger"
+    },
+    {
+        "address": "6900 Layton Ave Denver, CO 80237",
+        "sf": "384,712",
+        "built": "2020",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Ryan Stout",
+        "primaryLeasingCompany_Phone_1": "(303) 886-3327 (m)",
+        "primaryLeasingCompany_Email_1": "ryan.stout@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Nate Bradley",
+        "primaryLeasingCompany_Phone_2": "(303) 726-2334 (m)",
+        "primaryLeasingCompany_Email_2": "nate.bradley@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Tanner Johnson",
+        "primaryLeasingCompany_Phone_3": "(303) 875-9675 (m)",
+        "primaryLeasingCompany_Email_3": "tanner.johnson@cushwake.com",
+        "primaryLeasingCompany_Name_4": "Zach Williams",
+        "primaryLeasingCompany_Phone_4": "(303) 594-0089 (m)",
+        "primaryLeasingCompany_Email_4": "zach.williams@cushwake.com",
+        "primaryLeasingCompany_Name_5": "Tyler Bray",
+        "primaryLeasingCompany_Phone_5": "(303) 808-9172 (m)",
+        "primaryLeasingCompany_Email_5": "Tyler.Bray@cushwake.com",
+        "trueOwner_Company": "Columbine Realty Inc",
+        "trueOwner_Name_1": "Louis Bansbach III"
+    },
+    {
+        "address": "5250 Leetsdale Dr - Forest Park I Denver, CO 80246",
+        "sf": "68,274",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "John Marold",
+        "primaryLeasingCompany_Email_1": "john.marold@cbre.com",
+        "primaryLeasingCompany_Name_2": "Lindsay Gilbert",
+        "primaryLeasingCompany_Phone_2": "(720) 480-9734 (m)",
+        "primaryLeasingCompany_Email_2": "Lindsay.Gilbert@cbre.com",
+        "trueOwner_Company": "Empire Park Realty Investments",
+        "trueOwner_Name_1": "Tom Novotny",
+        "trueOwner_Email_1": "tom@empirepark.net",
+        "propertyManagement_Company": "Empire Park Realty Investments",
+        "propertyManagement_Name_1": "Tom Novotny",
+        "propertyManagement_Email_1": "tom@empirepark.net"
+    },
+    {
+        "address": "4777 Leyden St - Leyden I Denver, CO 80216",
+        "sf": "233,784",
+        "built": "1983",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "Doug Viseur",
+        "primaryLeasingCompany_Phone_1": "(303) 257-1840 (m)",
+        "primaryLeasingCompany_Email_1": "Doug.Viseur@cbre.com",
+        "trueOwner_Company": "Link Industrial Properties",
+        "propertyManagement_Company": "CSM Corporation",
+        "propertyManagement_Name_1": "Bruce Carland",
+        "propertyManagement_Phone_1": "(612) 308-9578 (m)",
+        "propertyManagement_Email_1": "Bruce.Carland@cbre.com"
+    },
+    {
+        "address": "1120 Lincoln St - The Chancery Denver, CO 80203",
+        "sf": "217,247",
+        "built": "1984",
+        "primaryLeasingCompany_Company": "Fuller Real Estate",
+        "primaryLeasingCompany_Name_1": "Jeff LaForte",
+        "primaryLeasingCompany_Phone_1": "(303) 829-2622 (m)",
+        "primaryLeasingCompany_Email_1": "jlaforte@fullerre.com",
+        "primaryLeasingCompany_Name_2": "Robert Pipkin",
+        "primaryLeasingCompany_Phone_2": "(303) 884-1787 (m)",
+        "primaryLeasingCompany_Email_2": "bpipkin@fullerre.com",
+        "trueOwner_Company": "Zaser & Longston, Inc."
+    },
+    {
+        "address": "2001 Lincoln St - One Lincoln Park Denver, CO 80202",
+        "built": "2006",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Kittie Hook",
+        "primaryLeasingCompany_Phone_1": "(303) 378-3611 (m)",
+        "primaryLeasingCompany_Email_1": "khook@ngkf.com"
+    },
+    {
+        "address": "2755 S Locust St - Professional Plaza Denver, CO 80222",
+        "sf": "38,852",
+        "built": "1972",
+        "primaryLeasingCompany_Company": "Unique Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "Scott Fischer",
+        "primaryLeasingCompany_Phone_1": "(303) 882-8622 (m)",
+        "primaryLeasingCompany_Email_1": "sfischer@uniqueprop.com",
+        "trueOwner_Company": "Ironton Investments 3, LLC",
+        "trueOwner_Name_1": "Lon Welsh",
+        "propertyManagement_Company": "Ironton Investments 5"
+    },
+    {
+        "address": "7901 E Lowry Blvd - The Quad at Lowry, Building 4 Denver, CO 80230",
+        "sf": "135,499",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "John Gustafson",
+        "primaryLeasingCompany_Phone_1": "(303) 917-8971 (m)",
+        "primaryLeasingCompany_Email_1": "jgustafson@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Scott Garel",
+        "primaryLeasingCompany_Phone_2": "(303) 589-6688 (m)",
+        "primaryLeasingCompany_Email_2": "sgarel@ngkf.com",
+        "trueOwner_Company": "HCA Management Company, LLC"
+    },
+    {
+        "address": "3301-3325 Mariposa St Denver, CO 80211",
+        "sf": "12,277",
+        "built": "1973",
+        "primaryLeasingCompany_Company": "Elevation Development Group",
+        "primaryLeasingCompany_Name_1": "Graham Ely",
+        "primaryLeasingCompany_Phone_1": "(720) 273-4924 (m)",
+        "primaryLeasingCompany_Email_1": "graham@elevation.net",
+        "trueOwner_Company": "Elevation Development Group"
+    },
+    {
+        "address": "1445 Market St - Chamber Building Denver, CO 80202",
+        "sf": "74,623",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Kiley Crews",
+        "primaryLeasingCompany_Phone_1": "(480) 748-0444 (m)",
+        "primaryLeasingCompany_Email_1": "kcrews@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_2": "Ana Sandomire",
+        "primaryLeasingCompany_Phone_2": "(303) 587-8423 (m)",
+        "primaryLeasingCompany_Email_2": "asandomire@shamesmakovsky.com",
+        "trueOwner_Company": "Denver Metro Chamber of Commerce",
+        "propertyManagement_Company": "Denver Metro Chamber of Commerce"
+    },
+    {
+        "address": "1865-1935 W Mississippi Ave Denver, CO 80223",
+        "built": "1966",
+        "primaryLeasingCompany_Company": "Compton Dando, Inc.",
+        "primaryLeasingCompany_Name_1": "David Lutes",
+        "primaryLeasingCompany_Phone_1": "(720) 244-6594 (m)",
+        "primaryLeasingCompany_Email_1": "davidl@comptondando.com",
+        "trueOwner_Company": "StanCorp Financial Group, Inc.",
+        "trueOwner_Name_1": "Robert Erickson",
+        "trueOwner_Email_1": "rerickson@standard.com"
+    },
+    {
+        "address": "4444 Morrison Rd Denver, CO 80219",
+        "sf": "22,000",
+        "built": "1980",
+        "primaryLeasingCompany_Company": "Case Commercial Real Estate, Inc.",
+        "primaryLeasingCompany_Name_1": "Rodney Gustafson",
+        "primaryLeasingCompany_Phone_1": "(303) 877-7681 (m)",
+        "primaryLeasingCompany_Email_1": "RGustafson@CaseCommercial.com",
+        "trueOwner_Company": "Hause Equipment Inc",
+        "propertyManagement_Company": "Hause Equipment Inc",
+        "propertyManagement_Name_1": "Phillip Hause"
+    },
+    {
+        "address": "3234 Navajo St - Lumina Denver, CO 80211",
+        "built": "2015",
+        "trueOwner_Company": "Edith Anesi",
+        "trueOwner_Name_1": "Edith Anesi",
+        "trueOwner_Phone_1": "(720) 379-3379 (m)",
+        "propertyManagement_Company": "BLDG - Lumina"
+    },
+    {
+        "address": "925 S Niagara St - Monaco Tower Denver, CO 80224",
+        "sf": "63,170",
+        "primaryLeasingCompany_Company": "Benjamin Borgers",
+        "primaryLeasingCompany_Name_1": "Benjamin Borgers",
+        "primaryLeasingCompany_Phone_1": "(720) 840-4359 (m)",
+        "primaryLeasingCompany_Email_1": "ben@bfbcpa.us",
+        "trueOwner_Company": "Benjamin Borgers",
+        "trueOwner_Name_1": "Benjamin Borgers",
+        "trueOwner_Phone_1": "(720) 840-4359 (m)",
+        "trueOwner_Email_1": "ben@bfbcpa.us"
+    },
+    {
+        "address": "970 S Oneida St - Plaza Esteban Denver, CO 80224",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "CM Carla Montez Real Estate Company Llc",
+        "primaryLeasingCompany_Name_1": "Carla Montez",
+        "primaryLeasingCompany_Email_1": "cmontez7@comcast.net",
+        "trueOwner_Company": "MGL Capital Investments",
+        "trueOwner_Name_1": "Gabriel Sarikov",
+        "trueOwner_Phone_1": "(720) 212-8804 (m)",
+        "trueOwner_Email_1": "lexcell777@gmail.com",
+        "propertyManagement_Company": "MGL Capital Investments",
+        "propertyManagement_Name_1": "Gabriel Sarikov",
+        "propertyManagement_Phone_1": "(720) 212-8804 (m)",
+        "propertyManagement_Email_1": "lexcell777@gmail.com"
+    },
+    {
+        "address": "2020 S Oneida St - 2020 South Oneida Denver, CO 80224",
+        "sf": "16,370",
+        "built": "1974",
+        "primaryLeasingCompany_Company": "Sheldon Gold Realty Inc.",
+        "primaryLeasingCompany_Name_1": "George Moseley",
+        "primaryLeasingCompany_Phone_1": "(303) 204-3581 (m)",
+        "primaryLeasingCompany_Email_1": "gmoseley@sg-realty.com",
+        "trueOwner_Company": "SRI Properties",
+        "propertyManagement_Company": "SRI Properties",
+        "propertyManagement_Name_1": "Anthony Rubenstein",
+        "propertyManagement_Email_1": "sriprop@msn.com"
+    },
+    {
+        "address": "2121 S Oneida St - Oneida Tower Denver, CO 80224",
+        "sf": "65,117",
+        "primaryLeasingCompany_Company": "Alpha Interactive Group Inc",
+        "primaryLeasingCompany_Name_1": "Peter Charczenko",
+        "primaryLeasingCompany_Phone_1": "(303) 669-6902 (m)",
+        "primaryLeasingCompany_Email_1": "leasing@ai3properties.com",
+        "trueOwner_Company": "Alpha Interactive Group Inc",
+        "trueOwner_Name_1": "Peter Charczenko",
+        "trueOwner_Phone_1": "(303) 669-6902 (m)",
+        "trueOwner_Email_1": "leasing@ai3properties.com",
+        "propertyManagement_Company": "Transwestern Real Estate Services"
+    },
+    {
+        "address": "701 Osage St Denver, CO 80204",
+        "sf": "330,820",
+        "built": "1966",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "T.J. Smith",
+        "primaryLeasingCompany_Phone_1": "(303) 888-1644 (m)",
+        "primaryLeasingCompany_Email_1": "tj.smith@colliers.com",
+        "primaryLeasingCompany_Name_2": "David Hazlett",
+        "primaryLeasingCompany_Email_2": "david.hazlett@colliers.com",
+        "primaryLeasingCompany_Name_3": "Nick Rice",
+        "primaryLeasingCompany_Phone_3": "(303) 829-8222 (m)",
+        "primaryLeasingCompany_Email_3": "nick.rice@colliers.com",
+        "trueOwner_Company": "Forum Real Estate Group"
+    },
+    {
+        "address": "1035 Osage St - DHA Central Office Denver, CO 80204",
+        "sf": "65,805",
+        "built": "2019",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Dorit Fischer",
+        "primaryLeasingCompany_Phone_1": "(303) 667-6873 (m)",
+        "primaryLeasingCompany_Email_1": "dfischer@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_2": "Peter Knisely",
+        "primaryLeasingCompany_Phone_2": "(303) 618-9718 (m)",
+        "primaryLeasingCompany_Email_2": "pknisely@shamesmakovsky.com",
+        "primaryLeasingCompany_Name_3": "Hayden Hirschfeld",
+        "primaryLeasingCompany_Phone_3": "(303) 619-2457 (m)",
+        "primaryLeasingCompany_Email_3": "hhirschfeld@shamesmakovsky.com",
+        "trueOwner_Company": "Denver Housing Authority",
+        "trueOwner_Name_1": "Laura Correll",
+        "trueOwner_Email_1": "lcorre@dhanet.com"
+    },
+    {
+        "address": "4730 Paris St - 4730 Paris Street Denver, CO 80239",
+        "sf": "33,715",
+        "built": "1986",
+        "primaryLeasingCompany_Company": "Avison Young",
+        "primaryLeasingCompany_Name_1": "Dawn McCombs",
+        "primaryLeasingCompany_Phone_1": "(303) 994-4295 (m)",
+        "primaryLeasingCompany_Email_1": "dawn.mccombs@avisonyoung.com",
+        "primaryLeasingCompany_Name_2": "Kevin Hann",
+        "primaryLeasingCompany_Phone_2": "(301) 252-6766 (m)",
+        "primaryLeasingCompany_Email_2": "kevin.hann@avisonyoung.com",
+        "trueOwner_Company": "Sanders Family, LLC",
+        "trueOwner_Name_1": "Scott Sanders"
+    },
+    {
+        "address": "1260 S Parker Rd - Highline Centre Denver, CO 80231",
+        "sf": "19,799",
+        "built": "1989",
+        "primaryLeasingCompany_Company": "Kamen Realty",
+        "primaryLeasingCompany_Name_1": "Sharon Kamen",
+        "primaryLeasingCompany_Phone_1": "(303) 809-6878 (m)",
+        "primaryLeasingCompany_Email_1": "skamen@kamenrealty.com",
+        "trueOwner_Company": "Reddy Properties",
+        "trueOwner_Name_1": "Mali Reddy",
+        "trueOwner_Email_1": "drreddy@askimac.com",
+        "propertyManagement_Company": "Reddy Properties Management Inc",
+        "propertyManagement_Name_1": "Laura Mounce"
+    },
+    {
+        "address": "1642 S Parker Rd - Parker Plaza 3 Denver, CO 80231",
+        "sf": "31,590",
+        "primaryLeasingCompany_Company": "North American Investment Company",
+        "primaryLeasingCompany_Name_1": "Richard Chen",
+        "primaryLeasingCompany_Email_1": "richnaic@msn.com",
+        "trueOwner_Company": "North American Investment Company",
+        "trueOwner_Name_1": "Richard Chen",
+        "trueOwner_Email_1": "richnaic@msn.com",
+        "propertyManagement_Company": "North American Investment Company",
+        "propertyManagement_Name_1": "Richard Chen",
+        "propertyManagement_Email_1": "richnaic@msn.com"
+    },
+    {
+        "address": "4045 Pecos St - Forty45 Pecos Denver, CO 80211",
+        "sf": "44,181",
+        "built": "1965",
+        "primaryLeasingCompany_Company": "HM Capital",
+        "primaryLeasingCompany_Name_1": "McCall Perry",
+        "primaryLeasingCompany_Email_1": "mccall@hmcapitalgroup.com",
+        "trueOwner_Company": "Top Rock Liquidity Fund LLC",
+        "trueOwner_Name_1": "Ralph Nagel",
+        "trueOwner_Phone_1": "(303) 358-4271 (m)",
+        "trueOwner_Email_1": "ralphnagel@qwestoffice.net"
+    },
+    {
+        "address": "1950 N Pennsylvania St - Uptown Square Apartments Denver, CO 80203",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Michael Lindemann",
+        "primaryLeasingCompany_Email_1": "mlindemann@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Carolyn Martinez",
+        "primaryLeasingCompany_Email_2": "carolyn.martinez@ngkf.com",
+        "trueOwner_Company": "Starwood Capital Group",
+        "trueOwner_Name_1": "James Kane",
+        "trueOwner_Email_1": "jkane@starwood.com",
+        "propertyManagement_Company": "Highmark - Uptown Square Apartments"
+    },
+    {
+        "address": "1165 S Pennsylvania St - The Penn Denver, CO 80210",
+        "sf": "15,310",
+        "primaryLeasingCompany_Company": "Trinen Realty Partners",
+        "primaryLeasingCompany_Name_1": "William Trinen",
+        "primaryLeasingCompany_Phone_1": "(303) 601-7732 (m)",
+        "primaryLeasingCompany_Email_1": "wtrinen@trinenpartners.com",
+        "trueOwner_Company": "1165 S Pennsylvania LLC",
+        "trueOwner_Name_1": "Eddie Pacheco"
+    },
+    {
+        "address": "1701 Platte St - One Platte Denver, CO 80202",
+        "sf": "250,402",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Jamie Gard",
+        "primaryLeasingCompany_Email_1": "jgard@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Jeff Castleton",
+        "primaryLeasingCompany_Phone_2": "(303) 525-9394 (m)",
+        "primaryLeasingCompany_Email_2": "jcastleton@ngkf.com",
+        "trueOwner_Company": "The Nichols Partnership, Inc.",
+        "trueOwner_Name_1": "Randy Nichols",
+        "trueOwner_Email_1": "rnichols@nicholspartnership.com"
+    },
+    {
+        "address": "3540 S Poplar St - South Poplar Building Denver, CO 80237",
+        "sf": "22,562",
+        "primaryLeasingCompany_Company": "Colorado Commercial Companies",
+        "primaryLeasingCompany_Name_1": "Natasha Felten",
+        "primaryLeasingCompany_Phone_1": "(303) 931-6482 (m)",
+        "primaryLeasingCompany_Email_1": "nfelten@colocomm.com",
+        "trueOwner_Company": "Colorado Dermatology Specialist",
+        "trueOwner_Name_1": "Meg Lemon",
+        "propertyManagement_Company": "LCP Development",
+        "propertyManagement_Name_1": "Hayley Nelson",
+        "propertyManagement_Phone_1": "(720) 749-2229 (m)",
+        "propertyManagement_Email_1": "hnelson@lcpdevelopment.net"
+    },
+    {
+        "address": "Quebec St & Lowry Blvd @ East Lowry Blvd - Boulevard 1 One Denver, CO 80230",
+        "sf": "139,065",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "William Lucas",
+        "primaryLeasingCompany_Phone_1": "(303) 396-4609 (m)",
+        "primaryLeasingCompany_Email_1": "bill.lucas@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Stuart Thomas",
+        "primaryLeasingCompany_Phone_2": "(970) 818-6660 (m)",
+        "primaryLeasingCompany_Email_2": "Stuart.thomas@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Ken Brown",
+        "primaryLeasingCompany_Phone_3": "(720) 527-6507 (m)",
+        "primaryLeasingCompany_Email_3": "Ken.brown@cushwake.com",
+        "trueOwner_Company": "Kelmore Development Corporation",
+        "trueOwner_Name_1": "Bob Koontz",
+        "trueOwner_Email_1": "bob@kelmoredevelopment.com"
+    },
+    {
+        "address": "590 Quivas St - International Design Center Denver, CO 80204",
+        "sf": "107,634",
+        "primaryLeasingCompany_Company": "Unique Properties, Inc.",
+        "primaryLeasingCompany_Name_1": "Sam Leger",
+        "primaryLeasingCompany_Phone_1": "(303) 512-1159 (m)",
+        "primaryLeasingCompany_Email_1": "sleger@uniqueprop.com",
+        "primaryLeasingCompany_Name_2": "Timothy Finholm",
+        "primaryLeasingCompany_Phone_2": "(303) 916-7837 (m)",
+        "primaryLeasingCompany_Email_2": "tfinholm@uniqueprop.com",
+        "trueOwner_Company": "Tri-West Companies",
+        "trueOwner_Name_1": "Al Castello"
+    },
+    {
+        "address": "3575 Ringsby Ct - Flight Denver, CO 80216",
+        "sf": "140,437",
+        "built": "2018",
+        "primaryLeasingCompany_Company": "Zeppelin Development",
+        "primaryLeasingCompany_Name_1": "Jamey Bridges",
+        "primaryLeasingCompany_Phone_1": "(727) 422-0505 (m)",
+        "primaryLeasingCompany_Email_1": "jamey@zeppelinplaces.com",
+        "primaryLeasingCompany_Name_2": "Adam Larkey",
+        "primaryLeasingCompany_Phone_2": "(720) 440-1019 (m)",
+        "primaryLeasingCompany_Email_2": "adam@zeppelinplaces.com",
+        "trueOwner_Company": "Zeppelin Development",
+        "trueOwner_Name_1": "Justin Croft",
+        "trueOwner_Phone_1": "(720) 296-3610 (m)",
+        "trueOwner_Email_1": "justin@zeppelinplaces.com"
+    },
+    {
+        "address": "757-777 Santa Fe Dr Denver, CO 80204",
+        "built": "1960",
+        "primaryLeasingCompany_Company": "The Sherman Agency, Inc.",
+        "primaryLeasingCompany_Name_1": "Hal Naiman",
+        "primaryLeasingCompany_Phone_1": "(303) 257-8450 (m)",
+        "primaryLeasingCompany_Email_1": "hal@theshermanagencyinc.com",
+        "primaryLeasingCompany_Name_2": "Josh Snyder",
+        "primaryLeasingCompany_Phone_2": "(720) 841-3846 (m)",
+        "primaryLeasingCompany_Email_2": "josh@theshermanagencyinc.com",
+        "trueOwner_Company": "The Sherman Agency, Inc.",
+        "trueOwner_Name_1": "Hal Naiman",
+        "trueOwner_Phone_1": "(303) 257-8450 (m)",
+        "trueOwner_Email_1": "hal@theshermanagencyinc.com",
+        "propertyManagement_Company": "The Sherman Agency, Inc.",
+        "propertyManagement_Name_1": "Hal Naiman",
+        "propertyManagement_Phone_1": "(303) 257-8450 (m)",
+        "propertyManagement_Email_1": "hal@theshermanagencyinc.com"
+    },
+    {
+        "address": "910 Santa Fe Dr - 910 Arts Building Denver, CO 80204",
+        "built": "1929",
+        "primaryLeasingCompany_Company": "Spector & Associates",
+        "primaryLeasingCompany_Name_1": "Cheryl Spector",
+        "primaryLeasingCompany_Phone_1": "(303) 204-9955 (m)",
+        "primaryLeasingCompany_Email_1": "spector@910Arts.com",
+        "trueOwner_Company": "Abbas N Khajeaian",
+        "trueOwner_Name_1": "Abbas Khajeaian",
+        "trueOwner_Phone_1": "(303) 399-2380 (m)",
+        "trueOwner_Email_1": "akhajeaian@aol.com"
+    },
+    {
+        "address": "1023-1033 Santa Fe Dr - Amick Denver, CO 80204",
+        "sf": "44,000",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Tyler Ryon",
+        "primaryLeasingCompany_Phone_1": "(720) 383-2667 (m)",
+        "primaryLeasingCompany_Email_1": "Tyler.Ryon@colliers.com",
+        "primaryLeasingCompany_Name_2": "Stephen Serenyi",
+        "primaryLeasingCompany_Email_2": "steve.serenyi@colliers.com",
+        "trueOwner_Company": "Hyder Construction",
+        "trueOwner_Name_1": "Thomas McLagan",
+        "trueOwner_Email_1": "tmclagan@hyderinc.com"
+    },
+    {
+        "address": "2555 S Santa Fe Dr Denver, CO 80223",
+        "sf": "89,350",
+        "primaryLeasingCompany_Company": "The Sherman Agency, Inc.",
+        "primaryLeasingCompany_Name_1": "Hal Naiman",
+        "primaryLeasingCompany_Phone_1": "(303) 257-8450 (m)",
+        "primaryLeasingCompany_Email_1": "hal@theshermanagencyinc.com",
+        "primaryLeasingCompany_Name_2": "Josh Snyder",
+        "primaryLeasingCompany_Phone_2": "(720) 841-3846 (m)",
+        "primaryLeasingCompany_Email_2": "josh@theshermanagencyinc.com",
+        "trueOwner_Company": "The Sherman Agency, Inc.",
+        "trueOwner_Name_1": "Hal Naiman",
+        "trueOwner_Phone_1": "(303) 257-8450 (m)",
+        "trueOwner_Email_1": "hal@theshermanagencyinc.com",
+        "propertyManagement_Company": "The Sherman Agency, Inc.",
+        "propertyManagement_Name_1": "Hal Naiman",
+        "propertyManagement_Phone_1": "(303) 257-8450 (m)",
+        "propertyManagement_Email_1": "hal@theshermanagencyinc.com"
+    },
+    {
+        "address": "5300-5400 Sheridan Blvd - Berkeley Village Shopping Center Denver, CO 80002",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "Realty Solutions",
+        "primaryLeasingCompany_Name_1": "Margarita Tsalyuk",
+        "primaryLeasingCompany_Phone_1": "(720) 318-1999 (m)",
+        "primaryLeasingCompany_Email_1": "rita.tsalyuk@gmail.com",
+        "trueOwner_Company": "Berkeley Village Center LLC",
+        "propertyManagement_Company": "Realty Solutions",
+        "propertyManagement_Name_1": "Margarita Tsalyuk",
+        "propertyManagement_Phone_1": "(720) 318-1999 (m)",
+        "propertyManagement_Email_1": "rita.tsalyuk@gmail.com"
+    },
+    {
+        "address": "1220 S Sheridan Blvd - Sheridan Shoppette Denver, CO 80232",
+        "built": "1974",
+        "primaryLeasingCompany_Company": "Perington Miller & Co.",
+        "primaryLeasingCompany_Name_1": "Phillip Perington",
+        "primaryLeasingCompany_Email_1": "perington@msn.com",
+        "trueOwner_Company": "The Sawaya Law Firm",
+        "trueOwner_Name_1": "Michael Sawaya",
+        "trueOwner_Email_1": "msawaya@sawayalaw.com"
+    },
+    {
+        "address": "3857-3893 N Steele St - Phase II Denver, CO 80205",
+        "sf": "290,689",
+        "built": "1940",
+        "primaryLeasingCompany_Company": "Transwestern Real Estate Services",
+        "primaryLeasingCompany_Name_1": "Whitney Hake",
+        "primaryLeasingCompany_Phone_1": "(303) 601-6465 (m)",
+        "primaryLeasingCompany_Email_1": "Whitney.Hake@transwestern.com",
+        "primaryLeasingCompany_Name_2": "Billy Woodward",
+        "primaryLeasingCompany_Phone_2": "(303) 990-1625 (m)",
+        "primaryLeasingCompany_Email_2": "billy.woodward@transwestern.com",
+        "primaryLeasingCompany_Name_3": "Alison Utz",
+        "primaryLeasingCompany_Email_3": "Alison.Utz@transwestern.com",
+        "trueOwner_Company": "ScanlanKemperBard Companies",
+        "propertyManagement_Company": "Scanlan Kemper Bard Companies, LLC"
+    },
+    {
+        "address": "4380 S Syracuse St - Westgold Center Denver, CO 80237",
+        "sf": "97,001",
+        "built": "1980",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Bo Pitto",
+        "primaryLeasingCompany_Phone_1": "(720) 570-6563 (m)",
+        "primaryLeasingCompany_Email_1": "bo.pitto@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Andy Ross",
+        "primaryLeasingCompany_Phone_2": "(720) 308-4665 (m)",
+        "primaryLeasingCompany_Email_2": "Andy.Ross@am.jll.com",
+        "primaryLeasingCompany_Name_3": "Andrea Staucet",
+        "primaryLeasingCompany_Phone_3": "(949) 463-8460 (m)",
+        "primaryLeasingCompany_Email_3": "Andrea.Staucet@am.jll.com",
+        "trueOwner_Company": "BH Properties LLC",
+        "trueOwner_Name_1": "Steve Gozini",
+        "trueOwner_Email_1": "steve.gozini@bhproperties.com"
+    },
+    {
+        "address": "4600 S Syracuse St Denver, CO 80237",
+        "sf": "304,051",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "John Marold",
+        "primaryLeasingCompany_Email_1": "john.marold@cbre.com",
+        "primaryLeasingCompany_Name_2": "Mitch Bradley",
+        "primaryLeasingCompany_Email_2": "mitch.bradley@cbre.com",
+        "trueOwner_Company": "MetLife, Inc.",
+        "trueOwner_Name_1": "John Cantirino",
+        "trueOwner_Phone_1": "(212) 578-2211 (m)",
+        "trueOwner_Email_1": "jcantirino@metlife.com",
+        "propertyManagement_Company": "Cushman & Wakefield Inc"
+    },
+    {
+        "address": "5050 S Syracuse St - 50 FIFTY DTC Denver, CO 80237",
+        "sf": "192,351",
+        "built": "2018",
+        "primaryLeasingCompany_Company": "RISE Commercial Property Services",
+        "primaryLeasingCompany_Name_1": "Bill Woodward",
+        "primaryLeasingCompany_Email_1": "bwoodward@risecps.com",
+        "primaryLeasingCompany_Name_2": "Randy Swearingen",
+        "primaryLeasingCompany_Phone_2": "(303) 521-7354 (m)",
+        "primaryLeasingCompany_Email_2": "rswearingen@risecps.com",
+        "primaryLeasingCompany_Name_3": "Linda Kaboth",
+        "primaryLeasingCompany_Phone_3": "(303) 588-8395 (m)",
+        "primaryLeasingCompany_Email_3": "lkaboth@RISEcps.com",
+        "trueOwner_Company": "Galena Foundation",
+        "trueOwner_Name_1": "David Wilmarth",
+        "trueOwner_Phone_1": "(303) 570-2161 (m)"
+    },
+    {
+        "address": "6825 E Tennessee Ave - Two Monaco Park Denver, CO 80224",
+        "sf": "65,000",
+        "primaryLeasingCompany_Company": "Boxer Property",
+        "primaryLeasingCompany_Name_1": "Kellie Bunyi",
+        "primaryLeasingCompany_Email_1": "listingsites39@boxerproperty.com",
+        "trueOwner_Company": "Boxer Property",
+        "trueOwner_Name_1": "Alex Kakhnovets",
+        "trueOwner_Phone_1": "(713) 269-1450 (m)",
+        "trueOwner_Email_1": "Alex.Kakhnovets@BoxerProperty.com"
+    },
+    {
+        "address": "7979 E Tufts Ave - Stanford Place II Denver, CO 80237",
+        "sf": "366,184",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Jamie Gard",
+        "primaryLeasingCompany_Email_1": "jgard@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Tom Crosby",
+        "primaryLeasingCompany_Phone_2": "(208) 721-8886 (m)",
+        "primaryLeasingCompany_Email_2": "tom.crosby@ngkf.com",
+        "trueOwner_Company": "Lowe Enterprises Investment Management",
+        "trueOwner_Name_1": "Rob Lowe",
+        "trueOwner_Email_1": "rLowe@loweenterprises.com",
+        "propertyManagement_Company": "Hospitality at Work, A Lowe Company"
+    },
+    {
+        "address": "4643 S Ulster St - Regency Plaza Denver, CO 80237",
+        "sf": "335,899",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Robert Whittelsey",
+        "primaryLeasingCompany_Phone_1": "(303) 588-5501 (m)",
+        "primaryLeasingCompany_Email_1": "robert.whittelsey@colliers.com",
+        "primaryLeasingCompany_Name_2": "Abby Pattillo",
+        "primaryLeasingCompany_Email_2": "abby.pattillo@colliers.com",
+        "trueOwner_Company": "Granite Properties, Inc.",
+        "propertyManagement_Company": "Transwestern Real Estate Services",
+        "propertyManagement_Name_1": "Rene Wineland",
+        "propertyManagement_Email_1": "rene.wineland@transwestern.com"
+    },
+    {
+        "address": "210 University Blvd - U.S. Bank Denver, CO 80206",
+        "sf": "186,366",
+        "built": "1985",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Peter Staab",
+        "primaryLeasingCompany_Phone_1": "(303) 638-4020 (m)",
+        "primaryLeasingCompany_Email_1": "pstaab@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Nathan Johnson",
+        "primaryLeasingCompany_Phone_2": "(303) 960-8800 (m)",
+        "primaryLeasingCompany_Email_2": "njohnson@ngkf.com",
+        "trueOwner_Company": "KBS Realty Advisors",
+        "propertyManagement_Company": "Transwestern"
+    },
+    {
+        "address": "1338 S Valentia St - 1338 South Valentia Street Denver, CO 80247",
+        "sf": "44,589",
+        "built": "1984",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "T.J. Smith",
+        "primaryLeasingCompany_Phone_1": "(303) 888-1644 (m)",
+        "primaryLeasingCompany_Email_1": "tj.smith@colliers.com",
+        "primaryLeasingCompany_Name_2": "Matthew Keyerleber",
+        "primaryLeasingCompany_Phone_2": "(720) 284-7100 (m)",
+        "primaryLeasingCompany_Email_2": "Matt.Keyerleber@colliers.com",
+        "trueOwner_Company": "Jay Farbstein",
+        "trueOwner_Name_1": "Jay Farbstein",
+        "trueOwner_Email_1": "jfarbstein@msn.com"
+    },
+    {
+        "address": "2736 Welton St Denver, CO 80205",
+        "built": "1988",
+        "primaryLeasingCompany_Company": "VanWest Partners",
+        "trueOwner_Company": "The Flyfisher Group"
+    },
+    {
+        "address": "2847-2863 Welton St Denver, CO 80205",
+        "primaryLeasingCompany_Company": "VanWest Partners",
+        "primaryLeasingCompany_Name_1": "Forrest Bassett",
+        "primaryLeasingCompany_Phone_1": "(720) 425-7360 (m)",
+        "primaryLeasingCompany_Email_1": "forrest@vanwestpartners.com",
+        "primaryLeasingCompany_Name_2": "Jay Johnson",
+        "primaryLeasingCompany_Phone_2": "(303) 886-2913 (m)",
+        "primaryLeasingCompany_Email_2": "jay@vanwestpartners.com",
+        "trueOwner_Company": "2863 Welton Real Estate Llc",
+        "trueOwner_Name_1": "Joan Troy"
+    },
+    {
+        "address": "3939 Williams St - Denver Rock Drill Offices Denver, CO 80205",
+        "sf": "310,000",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Douglas Wulf",
+        "primaryLeasingCompany_Email_1": "Doug.wulf@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Todd Wheeler",
+        "primaryLeasingCompany_Email_2": "todd.wheeler@cushwake.com",
+        "trueOwner_Company": "Saunders Construction, Inc.",
+        "trueOwner_Name_1": "Trae Rigby",
+        "trueOwner_Phone_1": "(970) 310-6136 (m)",
+        "trueOwner_Email_1": "t.rigby@saundersci.com"
+    },
+    {
+        "address": "5500 E Yale Ave - Contract Engineering Denver, CO 80222",
+        "sf": "18,983",
+        "built": "1975",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "John Gustafson",
+        "primaryLeasingCompany_Phone_1": "(303) 917-8971 (m)",
+        "primaryLeasingCompany_Email_1": "jgustafson@ngkf.com",
+        "primaryLeasingCompany_Name_2": "Bruce Mawhinney",
+        "primaryLeasingCompany_Phone_2": "(303) 517-6382 (m)",
+        "primaryLeasingCompany_Email_2": "bmawhinney@ngkf.com",
+        "trueOwner_Company": "Contract Engineering Services, Inc.",
+        "trueOwner_Name_1": "Jon Strom"
+    },
+    {
+        "address": "280 S Yarrow St Denver, CO 80226",
+        "primaryLeasingCompany_Company": "Kin Commercial Realty",
+        "primaryLeasingCompany_Name_1": "Kathryn Hummer",
+        "primaryLeasingCompany_Email_1": "katie@kincommercial.com"
+    },
+    {
+        "address": "1509 York St - Capitol Hill State Bank Bldg Denver, CO 80206",
+        "sf": "36,842",
+        "built": "1925",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Stockton Baker",
+        "primaryLeasingCompany_Phone_1": "(303) 947-3170 (m)",
+        "primaryLeasingCompany_Email_1": "Stockton.Baker@cushwake.com",
+        "trueOwner_Company": "Kentro Real Estate Group",
+        "trueOwner_Name_1": "George Balafas",
+        "trueOwner_Phone_1": "(917) 304-3910 (m)",
+        "trueOwner_Email_1": "gb@kentrogroup.com"
+    },
+    {
+        "address": "3840 York St - York Street Properties Denver, CO 80205",
+        "sf": "21,977",
+        "primaryLeasingCompany_Company": "Forte Commercial Real Estate, LLC",
+        "primaryLeasingCompany_Name_1": "Patrice Berry",
+        "primaryLeasingCompany_Phone_1": "(303) 919-1069 (m)",
+        "primaryLeasingCompany_Email_1": "Patrice.berry@ForteCRE.com",
+        "primaryLeasingCompany_Name_2": "Dustin Whistler",
+        "primaryLeasingCompany_Phone_2": "(303) 520-7963 (m)",
+        "primaryLeasingCompany_Email_2": "dustin.whistler@ForteCRE.com",
+        "trueOwner_Company": "Urban Ventures Properties Inc"
+    },
+    {
+        "address": "3600 S Yosemite St - Yosemite Office Plaza Denver, CO 80237",
+        "sf": "137,417",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "John Marold",
+        "primaryLeasingCompany_Email_1": "john.marold@cbre.com",
+        "primaryLeasingCompany_Name_2": "Sergio Castaneda",
+        "primaryLeasingCompany_Phone_2": "(303) 960-6314 (m)",
+        "primaryLeasingCompany_Email_2": "sergio.castaneda@cbre.com",
+        "trueOwner_Company": "SF Partners",
+        "trueOwner_Name_1": "Daniel Stuzin",
+        "trueOwner_Email_1": "stuz11@bellsouth.net",
+        "propertyManagement_Company": "Real Property Management Colorado LLC",
+        "propertyManagement_Name_1": "Kristi Schubert",
+        "propertyManagement_Email_1": "k.schubert@303rent.com"
+    },
+    {
+        "address": "1075 S Yukon St - Belmar West Denver, CO 80226",
+        "sf": "59,872",
+        "built": "1972",
+        "primaryLeasingCompany_Company": "Genesee Commercial Group, LLC.",
+        "primaryLeasingCompany_Name_1": "T.Blake Rogers",
+        "primaryLeasingCompany_Phone_1": "(720) 530-5788 (m)",
+        "primaryLeasingCompany_Email_1": "tbrogers@gcgcre.com",
+        "primaryLeasingCompany_Name_2": "Tim Rogers",
+        "primaryLeasingCompany_Phone_2": "(303) 641-4080 (m)",
+        "primaryLeasingCompany_Email_2": "tprogers@gcgcre.com",
+        "trueOwner_Company": "Pacific Pillows, LLC",
+        "trueOwner_Name_1": "Craig Clark",
+        "trueOwner_Phone_1": "(720) 840-7634 (m)",
+        "trueOwner_Email_1": "craig@pillows.com"
+    },
+    {
+        "address": "970 Yuma St - FORGE970 Denver, CO 80204",
+        "sf": "21,603",
+        "built": "2017",
+        "primaryLeasingCompany_Company": "Atlas Real Estate Group",
+        "primaryLeasingCompany_Name_1": "Jason Shepherd",
+        "primaryLeasingCompany_Email_1": "shepherd@realatlas.com",
+        "primaryLeasingCompany_Name_2": "Nick Hodapp",
+        "primaryLeasingCompany_Phone_2": "(303) 956-7437 (m)",
+        "primaryLeasingCompany_Email_2": "Nick.hodapp@realatlas.com",
+        "trueOwner_Company": "Atlas Real Estate Group",
+        "trueOwner_Name_1": "Jason Shepherd",
+        "trueOwner_Email_1": "shepherd@realatlas.com",
+        "propertyManagement_Company": "Q factor Solutions, LLC"
+    },
+    {
+        "address": "8380 Zuni St - North Zuni Medical Center Denver, CO 80221",
+        "sf": "15,106",
+        "built": "1977",
+        "primaryLeasingCompany_Company": "Vaneet Gupta & Samiksha Bindra",
+        "primaryLeasingCompany_Name_1": "Vaneet Gupta",
+        "primaryLeasingCompany_Phone_1": "(720) 253-7708 (m)",
+        "primaryLeasingCompany_Email_1": "vaneetgupta26@gmail.com",
+        "trueOwner_Company": "Vaneet Gupta & Samiksha Bindra",
+        "trueOwner_Name_1": "Vaneet Gupta",
+        "trueOwner_Phone_1": "(720) 253-7708 (m)",
+        "trueOwner_Email_1": "vaneetgupta26@gmail.com"
+    },
+    {
+        "address": "1338 1st St - Meow Wolf Denver, CO 80204",
+        "primaryLeasingCompany_Company": "Revesco Properties",
+        "primaryLeasingCompany_Name_1": "Charles Pae",
+        "primaryLeasingCompany_Phone_1": "(303) 746-4604 (m)",
+        "primaryLeasingCompany_Email_1": "cpae@revescoproperties.com",
+        "trueOwner_Company": "Revesco Properties"
+    },
+    {
+        "address": "1338 1st St Denver, CO 80204",
+        "trueOwner_Company": "Revesco Properties"
+    },
+    {
+        "address": "1338 E 1st Ave Denver, CO 80204",
+        "sf": "27,474",
+        "built": "1932",
+        "trueOwner_Company": "Daniel & Clara Foster"
+    },
+    {
+        "address": "3000 E 1st Ave - Cherry Creek Shopping Center Denver, CO 80206",
+        "primaryLeasingCompany_Company": "Taubman Centers, Inc.",
+        "primaryLeasingCompany_Name_1": "Leah Bold",
+        "primaryLeasingCompany_Phone_1": "(804) 349-8147 (m)",
+        "primaryLeasingCompany_Email_1": "lbold@taubman.com",
+        "trueOwner_Company": "Buell Foundation",
+        "propertyManagement_Company": "Taubman Centers, Inc."
+    },
+    {
+        "address": "3550 E 1st Ave - Young Americans Center For Financial Educatio Denver, CO 80206",
+        "built": "2001"
+    },
+    {
+        "address": "3650 E 1st Ave Denver, CO 80206",
+        "sf": "17,189",
+        "built": "2006",
+        "primaryLeasingCompany_Company": "Kentwood Commercial",
+        "primaryLeasingCompany_Name_1": "Karen Landers Zeile",
+        "primaryLeasingCompany_Phone_1": "(303) 947-3665 (m)",
+        "primaryLeasingCompany_Email_1": "Karen@KentwoodCommercial.com",
+        "trueOwner_Company": "Great Western Bank"
+    },
+    {
+        "address": "7482 E 1st Ave - Bldg 408 at Lowry Denver, CO 80230",
+        "sf": "89,920",
+        "built": "1983",
+        "trueOwner_Company": "Air Museum of the Rockies"
+    },
+    {
+        "address": "8199 E 1st Ave - Eating Recovery Center Denver, CO 80230",
+        "built": "2019",
+        "primaryLeasingCompany_Company": "Westside Investment Partners, Inc.",
+        "primaryLeasingCompany_Name_1": "Otis Moore",
+        "primaryLeasingCompany_Phone_1": "(303) 587-7245 (m)",
+        "primaryLeasingCompany_Email_1": "omoore@westsideinv.com"
+    },
+    {
+        "address": "918 W 1st Ave Denver, CO 80223",
+        "sf": "15,000",
+        "primaryLeasingCompany_Company": "The Sherman Agency, Inc.",
+        "primaryLeasingCompany_Name_1": "Hal Naiman",
+        "primaryLeasingCompany_Phone_1": "(303) 257-8450 (m)",
+        "primaryLeasingCompany_Email_1": "hal@theshermanagencyinc.com",
+        "trueOwner_Company": "Howard L Snyder",
+        "trueOwner_Name_1": "Howard Snyder",
+        "trueOwner_Phone_1": "(303) 741-6058 (m)",
+        "trueOwner_Email_1": "howard.snyder@hotmail.com"
+    },
+    {
+        "address": "2500 E 2nd Ave - Clayton Lane West Garage Denver, CO 80206",
+        "built": "2002",
+        "trueOwner_Company": "Brookfield Residential Oliver McMillan Holdings",
+        "trueOwner_Name_1": "Dene Oliver",
+        "trueOwner_Email_1": "doliver@olivermcmillan.com"
+    },
+    {
+        "address": "2300 W 2nd Ave Denver, CO 80223",
+        "sf": "70,000",
+        "built": "1969",
+        "primaryLeasingCompany_Company": "Michael Bloom Realty Company",
+        "primaryLeasingCompany_Name_1": "Michael Bloom",
+        "primaryLeasingCompany_Phone_1": "(303) 725-8515 (m)",
+        "primaryLeasingCompany_Email_1": "mbloom@michaelbloomrealty.com",
+        "trueOwner_Company": "Michael Bloom Realty Company",
+        "trueOwner_Name_1": "Michael Bloom",
+        "trueOwner_Phone_1": "(303) 725-8515 (m)",
+        "trueOwner_Email_1": "mbloom@michaelbloomrealty.com"
+    },
+    {
+        "address": "2590 W 2nd Ave Denver, CO 80219",
+        "sf": "40,570",
+        "built": "1968",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Aaron Valdez",
+        "primaryLeasingCompany_Phone_1": "(303) 819-7333 (m)",
+        "primaryLeasingCompany_Email_1": "aaron.valdez@cushwake.com",
+        "trueOwner_Company": "Thomas H Dadourian",
+        "trueOwner_Name_1": "Thomas Dadourian",
+        "trueOwner_Email_1": "dadourianwest@gmail.com"
+    },
+    {
+        "address": "11550 W 2nd Pl - St. Anthony/OrthColorado Parking Garage Denver, CO 80228",
+        "built": "2011"
+    },
+    {
+        "address": "4000-4099 E 3rd Ave - Crestmoor Shopping Center Denver, CO 80220",
+        "built": "1952",
+        "trueOwner_Company": "Eastmoor Investment Co."
+    },
+    {
+        "address": "1945 E 3rd Ave Denver, CO 80206",
+        "sf": "50,000",
+        "built": "1942",
+        "primaryLeasingCompany_Company": "Denver Wood Products",
+        "trueOwner_Company": "Denver Wood Products",
+        "propertyManagement_Company": "Denver Wood Products"
+    },
+    {
+        "address": "3000 E 3rd Ave Denver, CO 80206",
+        "built": "2018",
+        "primaryLeasingCompany_Company": "Legend Partners",
+        "primaryLeasingCompany_Name_1": "Sam Zaitz",
+        "primaryLeasingCompany_Phone_1": "(303) 931-1201 (m)",
+        "primaryLeasingCompany_Email_1": "Sam.Zaitz@am.jll.com",
+        "primaryLeasingCompany_Name_2": "Julie McBrearty",
+        "primaryLeasingCompany_Email_2": "jmcbrearty@legendllp.com",
+        "trueOwner_Company": "BMC Investments Co, LLC",
+        "trueOwner_Name_1": "Matthew Joblon",
+        "trueOwner_Email_1": "Matt@bmcinv.com"
+    },
+    {
+        "address": "1123 W 3rd Ave Denver, CO 80223",
+        "sf": "811,691",
+        "built": "1960",
+        "trueOwner_Company": "Xcel Energy, Inc.",
+        "propertyManagement_Company": "Xcel Energy, Inc."
+    },
+    {
+        "address": "2000 W 3rd Ave - Wastewater Plant Denver, CO 80223",
+        "built": "1993",
+        "trueOwner_Company": "Vectra Bank Colorado"
+    },
+    {
+        "address": "3739 E 4th Ave Denver, CO 80206",
+        "built": "1955",
+        "trueOwner_Company": "Thomas A. Petrie",
+        "trueOwner_Name_1": "Thomas Petrie"
+    },
+    {
+        "address": "1098 W 4TH Ave - Baker Crossing Denver, CO 80223",
+        "sf": "24,995",
+        "primaryLeasingCompany_Company": "Ecospace",
+        "trueOwner_Company": "Ranes Ventures LLC",
+        "trueOwner_Name_1": "Adam Ranes",
+        "trueOwner_Email_1": "aranes@yahoo.com"
+    },
+    {
+        "address": "2395-2525 W 4th Ave - Warehouse Central Denver, CO 80223",
+        "sf": "325,858",
+        "built": "1964",
+        "primaryLeasingCompany_Company": "CBRE",
+        "primaryLeasingCompany_Name_1": "James Bolt",
+        "primaryLeasingCompany_Phone_1": "(303) 960-6310 (m)",
+        "primaryLeasingCompany_Email_1": "james.bolt@cbre.com",
+        "trueOwner_Company": "Stockbridge Capital Group LLC",
+        "trueOwner_Name_1": "Dan Weaver",
+        "trueOwner_Email_1": "weaver@stockbridge.com",
+        "propertyManagement_Company": "CBRE",
+        "propertyManagement_Name_1": "James Bolt",
+        "propertyManagement_Phone_1": "(303) 960-6310 (m)",
+        "propertyManagement_Email_1": "james.bolt@cbre.com"
+    },
+    {
+        "address": "9649 E 5th Ave - Avia Lowry Denver, CO 80230",
+        "built": "2012",
+        "trueOwner_Company": "Greystar",
+        "propertyManagement_Company": "Greystar - Avia Lowry"
+    },
+    {
+        "address": "38 W 5th Ave - Colorado Cut & Sew Denver, CO 80204",
+        "sf": "38,492",
+        "built": "1936"
+    },
+    {
+        "address": "1450 W 5th St - Demolished Denver, CO 80204",
+        "sf": "54,326",
+        "built": "1968"
+    },
+    {
+        "address": "2916-2940 E 6th Ave Denver, CO 80206",
+        "built": "1921",
+        "primaryLeasingCompany_Company": "Marcum Commercial Advisors",
+        "primaryLeasingCompany_Name_1": "Tanner Digby",
+        "primaryLeasingCompany_Phone_1": "(720) 402-7578 (m)",
+        "primaryLeasingCompany_Email_1": "Tanner@MarcumCommercial.com",
+        "trueOwner_Company": "Hatch Ray Olsen Conant LLC",
+        "trueOwner_Name_1": "Amanda Halstead"
+    },
+    {
+        "address": "7300 E 6th Ave - Cerebral Palsy Of Co Center Denver, CO 80230",
+        "built": "1988",
+        "trueOwner_Company": "Ability Connection Colorado, Inc"
+    },
+    {
+        "address": "801 W 6th Ave - La Tela Denver, CO 80204",
+        "trueOwner_Company": "Urban Land Conservancy"
+    },
+    {
+        "address": "2627 W 6th Ave Denver, CO 80204",
+        "sf": "90,870",
+        "built": "1965",
+        "trueOwner_Company": "Guiry's Paint & Decorating",
+        "trueOwner_Name_1": "Sean Guiry",
+        "propertyManagement_Company": "Rexel Ryall Electric Supplies"
+    },
+    {
+        "address": "2727 W 6th Ave Denver, CO 80204",
+        "built": "1960",
+        "primaryLeasingCompany_Company": "Brian & Barbara Baker",
+        "primaryLeasingCompany_Name_1": "Barbara Baker",
+        "trueOwner_Company": "Brian & Barbara Baker"
+    },
+    {
+        "address": "11595 W 6th Ave - Larry H. Miller Ford Lakewood Denver, CO 80215",
+        "built": "2006",
+        "trueOwner_Company": "Larry H Miller Group"
+    },
+    {
+        "address": "390 E 7th Ave - Trader Joe's Denver, CO 80203",
+        "built": "2014",
+        "trueOwner_Company": "Seventhlog, Inc",
+        "trueOwner_Name_1": "Edward Kim"
+    },
+    {
+        "address": "390 E 7th Ave Denver, CO 80203",
+        "sf": "20,217",
+        "built": "1973"
+    },
+    {
+        "address": "1114 W 7th Ave - Bldg A Denver, CO 80204",
+        "sf": "20,115",
+        "built": "1979",
+        "primaryLeasingCompany_Company": "Pinnacle Real Estate Advisors",
+        "primaryLeasingCompany_Name_1": "Eric Shaw",
+        "primaryLeasingCompany_Phone_1": "(720) 319-3252 (m)",
+        "primaryLeasingCompany_Email_1": "eshaw@pinnaclerea.com",
+        "trueOwner_Company": "Associated General Contractors",
+        "trueOwner_Name_1": "Richard O'Brecht",
+        "propertyManagement_Company": "Associated General Contractors",
+        "propertyManagement_Name_1": "Dick O'Brecht"
+    },
+    {
+        "address": "2901 W 7th Ave Denver, CO 80204",
+        "sf": "15,373",
+        "built": "1952",
+        "trueOwner_Company": "Lee Weinstein & Ed Kazazian",
+        "trueOwner_Name_1": "Lee Weinstein"
+    },
+    {
+        "address": "900-1090 8th St - Rio Grande Railroad Denver, CO 80204",
+        "sf": "134,944",
+        "built": "1940",
+        "trueOwner_Company": "Rio Grande Co."
+    },
+    {
+        "address": "1029 E 8th Ave - Sundowner Denver, CO 80218",
+        "built": "1961",
+        "trueOwner_Company": "Daniel Cevallos"
+    },
+    {
+        "address": "5701 E 8th Ave - Avenue 8 At Mayfair Denver, CO 80220",
+        "primaryLeasingCompany_Company": "Old Vine-Kingwood Assoc, LLLP",
+        "trueOwner_Company": "Old Vine-Kingwood Assoc, LLLP",
+        "propertyManagement_Company": "Boutique Apartments - Avenue 8 At Mayfair"
+    },
+    {
+        "address": "9th Ave - 9th & Colorado Retail Phase I Denver, CO 80206",
+        "built": "2017",
+        "primaryLeasingCompany_Company": "Continuum Partners LLC",
+        "primaryLeasingCompany_Name_1": "Melissa Machell",
+        "primaryLeasingCompany_Email_1": "melissa.machell@continuumllc.com",
+        "trueOwner_Company": "Continuum Partners LLC",
+        "trueOwner_Name_1": "Melissa Machell",
+        "trueOwner_Email_1": "melissa.machell@continuumllc.com"
+    },
+    {
+        "address": "9th Ave @ Colorado Blvd - 9th & Colorado Office Denver, CO 80220",
+        "sf": "64,680",
+        "built": "2020",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Todd Wheeler",
+        "primaryLeasingCompany_Email_1": "todd.wheeler@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Daniel Beer",
+        "primaryLeasingCompany_Phone_2": "(303) 618-0939 (m)",
+        "primaryLeasingCompany_Email_2": "dan.beer@cushwake.com",
+        "trueOwner_Company": "Continuum Partners LLC"
+    },
+    {
+        "address": "1155 E 9th Ave - Capitol Hill King Soopers Denver, CO 80218",
+        "trueOwner_Company": "AmCap, Inc.",
+        "trueOwner_Name_1": "Jay Kaiser",
+        "trueOwner_Email_1": "jkaiser@amcap.com"
+    },
+    {
+        "address": "1515 E 9th Ave Denver, CO 80218",
+        "built": "1923"
+    },
+    {
+        "address": "4111 E 9th Ave Denver, CO 80220",
+        "built": "1975"
+    },
+    {
+        "address": "4200 E 9th Ave - Former University of Colorado Hospital Denver, CO 80220",
+        "built": "1975",
+        "trueOwner_Company": "CIM Group, LP",
+        "trueOwner_Name_1": "Ramon Diez-Canedo",
+        "trueOwner_Phone_1": "(917) 266-2045 (m)",
+        "trueOwner_Email_1": "RDiezCanedo@CIMGroup.com"
+    },
+    {
+        "address": "4300 E 9th Ave - Broadstone on 9th Denver, CO 80220",
+        "built": "2015",
+        "trueOwner_Company": "Alliance Residential Company",
+        "trueOwner_Name_1": "Bradley Cribbins",
+        "trueOwner_Phone_1": "(877) 858-3855 (m)",
+        "trueOwner_Email_1": "bcribbins@allresco.com",
+        "propertyManagement_Company": "Alliance - Broadstone on 9th"
+    },
+    {
+        "address": "4801 E 9th Ave - Park Mayfair Denver, CO 80220",
+        "built": "1963"
+    },
+    {
+        "address": "43 W 9th Ave - Spitzer Electric Denver, CO 80204",
+        "sf": "19,000",
+        "built": "1938",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "trueOwner_Company": "Spitzer Electrical",
+        "trueOwner_Name_1": "Tom Spitzer",
+        "propertyManagement_Company": "Spitzer Electrical",
+        "propertyManagement_Name_1": "Tom Spitzer"
+    },
+    {
+        "address": "2001-2025 W 9th Ave - Boys and Girls Club Denver, CO 80204",
+        "sf": "40,000",
+        "built": "1982",
+        "primaryLeasingCompany_Company": "Boys and Girls Club of Metro Denver",
+        "trueOwner_Company": "Boys and Girls Club of Metro Denver"
+    },
+    {
+        "address": "4600 W 9th Ave - Casa Dorada Apartments Denver, CO 80204",
+        "built": "2005",
+        "trueOwner_Company": "Echelon Property Group",
+        "trueOwner_Name_1": "Maritza Hearn",
+        "trueOwner_Email_1": "mhearn@echelonpg.com",
+        "propertyManagement_Company": "Echelon - Casa Dorada",
+        "propertyManagement_Name_1": "Jenny Vigil",
+        "propertyManagement_Email_1": "ngrdorada@echelonpg.com"
+    },
+    {
+        "address": "2929 W 10th Ave Denver, CO 80204",
+        "built": "2000"
+    },
+    {
+        "address": "2190 E 11Th Ave - Amaranth Denver, CO 80206",
+        "built": "2015",
+        "trueOwner_Company": "MGL Partners",
+        "propertyManagement_Company": "Cardinal - Amaranth"
+    },
+    {
+        "address": "8001 E 11th Ave - Lowry North Apartment Homes Denver, CO 80220",
+        "trueOwner_Company": "Patricia Ann McDonnell",
+        "propertyManagement_Company": "Holland - Lowry North Apartments"
+    },
+    {
+        "address": "8275 E 11th Ave Denver, CO 80220",
+        "built": "1989",
+        "trueOwner_Company": "United States Postal Service"
+    },
+    {
+        "address": "300 W 11th Ave - The Prado Denver, CO 80204",
+        "built": "2002",
+        "primaryLeasingCompany_Company": "Dan Zabel Realty",
+        "primaryLeasingCompany_Name_1": "Daniel Zabel",
+        "primaryLeasingCompany_Email_1": "danzabel@comcast.net",
+        "propertyManagement_Company": "Acute - The Prado"
+    },
+    {
+        "address": "12 E 12th Ave Denver, CO 80203",
+        "built": "1974",
+        "trueOwner_Company": "Howard Lorton Antiques",
+        "trueOwner_Name_1": "Will Cook",
+        "trueOwner_Email_1": "Will@howardlorton.com"
+    },
+    {
+        "address": "1025 E 12th Ave Denver, CO 80218",
+        "sf": "45,305",
+        "trueOwner_Company": "Qwest Communications International Inc."
+    },
+    {
+        "address": "2600-2620 E 12th Ave Denver, CO 80206",
+        "built": "1928",
+        "trueOwner_Company": "Pappas Alex G & Rena A"
+    },
+    {
+        "address": "4455 E 12th Ave Denver, CO 80220",
+        "sf": "76,600",
+        "primaryLeasingCompany_Company": "Mental Health Center of Denver",
+        "primaryLeasingCompany_Name_1": "Carl Clark",
+        "trueOwner_Company": "Mental Health Center of Denver",
+        "trueOwner_Name_1": "Carl Clark",
+        "propertyManagement_Company": "Mental Health Center of Denver"
+    },
+    {
+        "address": "8000 E 12th Ave - Advenir At Lowry Denver, CO 80220",
+        "trueOwner_Company": "Advenir, Inc.",
+        "trueOwner_Name_1": "Stephen Vecchitto",
+        "trueOwner_Phone_1": "(860) 983-4600 (m)",
+        "trueOwner_Email_1": "stephen@advenirliving.com",
+        "propertyManagement_Company": "Advenir - Lowry"
+    },
+    {
+        "address": "1971 W 12th Ave Denver, CO 80204",
+        "sf": "10,000",
+        "built": "1968",
+        "trueOwner_Company": "CTL|THOMPSON, Inc"
+    },
+    {
+        "address": "1425 W 13th Ave Denver, CO 80204",
+        "sf": "20,000",
+        "built": "1925",
+        "primaryLeasingCompany_Company": "Ravens Nest",
+        "primaryLeasingCompany_Name_1": "Suzanne Todd",
+        "trueOwner_Company": "Ravens Nest",
+        "trueOwner_Name_1": "Suzanne Todd",
+        "propertyManagement_Company": "Ravens Nest",
+        "propertyManagement_Name_1": "Suzanne Todd"
+    },
+    {
+        "address": "1635 W 13th Ave - All Copy Products Denver, CO 80204",
+        "sf": "81,000",
+        "built": "2019",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Brian Hutt",
+        "primaryLeasingCompany_Phone_1": "(303) 349-3460 (m)",
+        "primaryLeasingCompany_Email_1": "brian.hutt@cbre.com",
+        "trueOwner_Company": "All Copy Products",
+        "trueOwner_Name_1": "Brad Knepper",
+        "trueOwner_Email_1": "bknepper@allcopyproducts.com"
+    },
+    {
+        "address": "1740 W 13th Ave Denver, CO 80204",
+        "sf": "53,084",
+        "built": "1950"
+    },
+    {
+        "address": "2608-2638 W 13th Ave Denver, CO 80204"
+    },
+    {
+        "address": "3537 W 13th Ave - Westridge Apartment Homes Denver, CO 80204",
+        "built": "1952",
+        "trueOwner_Company": "Denver Housing Authority",
+        "propertyManagement_Company": "DHA - Westridge Homes & Mulroy Apartments"
+    },
+    {
+        "address": "5476-5490 W 13th Ave - Bldg #1 Denver, CO 80214",
+        "sf": "19,855",
+        "built": "1965",
+        "trueOwner_Company": "Hoffschneider Rocky & Krystal",
+        "trueOwner_Name_1": "Rocky Hoffschneider"
+    },
+    {
+        "address": "440 14th St - Hyatt House Denver Denver, CO 80202",
+        "built": "2014",
+        "primaryLeasingCompany_Company": "White Lodging Services Corporation",
+        "trueOwner_Company": "White Lodging Services Corporation"
+    },
+    {
+        "address": "700 14th St - Colorado Convention Center Denver, CO 80202"
+    },
+    {
+        "address": "1040 14th St - Buell Theatre Denver, CO 80202",
+        "built": "1963"
+    },
+    {
+        "address": "1051 14th St - Auraria Student Lofts Denver, CO 80202",
+        "trueOwner_Company": "Nelson Partners",
+        "propertyManagement_Company": "Nelson Partners - Auraria Student Lofts"
+    },
+    {
+        "address": "1111 14th St - Denver Private Residences Denver, CO 80202",
+        "built": "2010"
+    },
+    {
+        "address": "230 E 14th Ave Denver, CO 80203",
+        "built": "1939",
+        "primaryLeasingCompany_Company": "First Baptist Church Of Denver",
+        "trueOwner_Company": "First Baptist Church Of Denver"
+    },
+    {
+        "address": "3300 E 14th Ave - Abbey on Adams Condominiums Denver, CO 80206",
+        "built": "1910"
+    },
+    {
+        "address": "4050 E 14th Ave - Gove Middle Community School Denver, CO 80220",
+        "built": "1975"
+    },
+    {
+        "address": "400 15th St Denver, CO 80202",
+        "built": "1982"
+    },
+    {
+        "address": "650 15th St - Hyatt Regency Denver Denver, CO 80202",
+        "built": "2004",
+        "trueOwner_Company": "JMI Realty",
+        "trueOwner_Name_1": "John Kratzer",
+        "trueOwner_Email_1": "jkratzer@jmirealty.com"
+    },
+    {
+        "address": "1820-1840 15th St Denver, CO 80202",
+        "built": "2004"
+    },
+    {
+        "address": "2166 15th St Denver, CO 80202",
+        "sf": "29,011",
+        "built": "1940",
+        "primaryLeasingCompany_Company": "CBS Exhibits",
+        "trueOwner_Company": "Madison Marquette",
+        "trueOwner_Name_1": "Rick Kirk",
+        "trueOwner_Email_1": "Rick.Kirk@MadisonMarquette.com",
+        "propertyManagement_Company": "CBS Exhibits"
+    },
+    {
+        "address": "2366 15th St - Riverpoint II Denver, CO 80202",
+        "sf": "160,000",
+        "trueOwner_Company": "Crescent Real Estate LLC"
+    },
+    {
+        "address": "200-202 16th St Denver, CO 80202",
+        "primaryLeasingCompany_Company": "McDonald's Corporation",
+        "primaryLeasingCompany_Name_1": "Mary Meyer",
+        "primaryLeasingCompany_Phone_1": "(630) 926-6537 (m)",
+        "primaryLeasingCompany_Email_1": "mary.meyer@us.mcd.com",
+        "trueOwner_Company": "www.mcdonalds.com"
+    },
+    {
+        "address": "500 16th St - Denver Pavilions Denver, CO 80202",
+        "built": "1998",
+        "primaryLeasingCompany_Company": "Gart Properties",
+        "primaryLeasingCompany_Name_1": "Michael Laatsch",
+        "primaryLeasingCompany_Email_1": "mlaatsch@gartproperties.com",
+        "trueOwner_Company": "MetLife",
+        "propertyManagement_Company": "Gart Properties",
+        "propertyManagement_Name_1": "Stephen Chavez",
+        "propertyManagement_Email_1": "schavez@gartproperties.com"
+    },
+    {
+        "address": "951 16th St Denver, CO 80202",
+        "built": "1999",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Matthew Writt",
+        "primaryLeasingCompany_Phone_1": "(414) 617-0336 (m)",
+        "primaryLeasingCompany_Email_1": "Matt.Writt@cushwake.com",
+        "trueOwner_Company": "Myra J Foster",
+        "propertyManagement_Company": "Callahan Capital",
+        "propertyManagement_Name_1": "Todd Hartman",
+        "propertyManagement_Email_1": "todd.hartman@callahancp.com"
+    },
+    {
+        "address": "1835 16th St - Hotel Born Denver, CO 80202",
+        "built": "2017",
+        "primaryLeasingCompany_Company": "Continuum Partners LLC",
+        "trueOwner_Company": "Continuum Partners LLC"
+    },
+    {
+        "address": "2001 16th St - 16 Chestnut Building Denver, CO 80202",
+        "sf": "428,219",
+        "built": "2018",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Todd Wheeler",
+        "primaryLeasingCompany_Email_1": "todd.wheeler@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Tanner Johnson",
+        "primaryLeasingCompany_Phone_2": "(303) 875-9675 (m)",
+        "primaryLeasingCompany_Email_2": "tanner.johnson@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Tyler Bray",
+        "primaryLeasingCompany_Phone_3": "(303) 808-9172 (m)",
+        "primaryLeasingCompany_Email_3": "Tyler.Bray@cushwake.com",
+        "trueOwner_Company": "Invesco Advisers, Inc."
+    },
+    {
+        "address": "25 E 16th Ave - Renaissance at Civic Center Denver, CO 80202",
+        "built": "1906",
+        "trueOwner_Company": "Colorado Coalition for the Homeless",
+        "propertyManagement_Company": "Renaissance - Civic Center"
+    },
+    {
+        "address": "2900 E 16th Ave - Venue on 16th Denver, CO 80206",
+        "built": "2016",
+        "trueOwner_Company": "Apartment Association of Metro Denver, Inc.",
+        "trueOwner_Name_1": "Michael Zoellner",
+        "trueOwner_Email_1": "michaelzoellner@aol.com",
+        "propertyManagement_Company": "Greystar - Venue on 16th"
+    },
+    {
+        "address": "4001 W 16th Ave Denver, CO 80204",
+        "built": "1973",
+        "trueOwner_Company": "EnviroFinance Group, LLC",
+        "trueOwner_Name_1": "Edward Elanjian"
+    },
+    {
+        "address": "1201 17th St - Tabor Center - Retail Denver, CO 80202",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Matthew Writt",
+        "primaryLeasingCompany_Phone_1": "(414) 617-0336 (m)",
+        "primaryLeasingCompany_Email_1": "Matt.Writt@cushwake.com",
+        "trueOwner_Company": "Beacon Capital Partners",
+        "propertyManagement_Company": "CBRE"
+    },
+    {
+        "address": "1514 17th St - Barth Hotel Denver, CO 80202",
+        "built": "1927",
+        "propertyManagement_Company": "Senior Housing Options Inc",
+        "propertyManagement_Name_1": "Michelle McGins"
+    },
+    {
+        "address": "300 E 17th Ave - 300 East 17th Denver, CO 80203",
+        "built": "1986",
+        "primaryLeasingCompany_Company": "Crosbie Real Estate Group",
+        "primaryLeasingCompany_Name_1": "Rich Otterstetter",
+        "primaryLeasingCompany_Phone_1": "(303) 883-1003 (m)",
+        "primaryLeasingCompany_Email_1": "richo@creginc.com",
+        "trueOwner_Company": "MAXX Properties",
+        "propertyManagement_Company": "MAXX - 300 East Seventeenth"
+    },
+    {
+        "address": "501 E 17th Ave Denver, CO 80203",
+        "sf": "10,215",
+        "built": "1931",
+        "trueOwner_Company": "Denver Housing Authority"
+    },
+    {
+        "address": "810 E 17th Ave - Bank of Denver Denver, CO 80218",
+        "built": "2005",
+        "trueOwner_Company": "Bank of Denver"
+    },
+    {
+        "address": "901 E 17th Ave - Demolished Denver, CO 80218",
+        "built": "1899"
+    },
+    {
+        "address": "1100-1122 E 17th Ave Denver, CO 80218",
+        "built": "1890",
+        "trueOwner_Company": "Mountain Finance & Realty Co",
+        "trueOwner_Name_1": "Kenneth Simon"
+    },
+    {
+        "address": "4200 W 17th Ave - Lakehouse on 17th Denver, CO 80204",
+        "built": "2020",
+        "primaryLeasingCompany_Company": "David, Hicks & Lampert Brokerage Inc.",
+        "primaryLeasingCompany_Name_1": "Ken Himel",
+        "primaryLeasingCompany_Phone_1": "(720) 203-7840 (m)",
+        "primaryLeasingCompany_Email_1": "ken.himel@dhlb.com",
+        "propertyManagement_Company": "Kentwood City Properties - Lakehouse"
+    },
+    {
+        "address": "5152 E 17th Ave Pky Denver, CO 80220",
+        "built": "1949"
+    },
+    {
+        "address": "519 18th St - Block 176 Denver, CO 80202",
+        "trueOwner_Company": "Amacon"
+    },
+    {
+        "address": "1615 18th St - Parking Garage Denver, CO 80202",
+        "built": "1982",
+        "trueOwner_Company": "Gold Crown Management",
+        "trueOwner_Name_1": "Michael Baker",
+        "trueOwner_Email_1": "mbaker@goldcrownmgmt.com"
+    },
+    {
+        "address": "2500 18th St - Hotel Perenne Denver, CO 80211",
+        "trueOwner_Company": "Vir R Salazar Jr"
+    },
+    {
+        "address": "745 E 18th Ave Denver, CO 80203",
+        "built": "1963"
+    },
+    {
+        "address": "1160 E 18th Ave Denver, CO 80218",
+        "sf": "16,057",
+        "built": "1977"
+    },
+    {
+        "address": "1919 E 18th Ave - Midtown Surgical Center Denver, CO 80206",
+        "built": "1995",
+        "trueOwner_Company": "Midtown Surgical Center"
+    },
+    {
+        "address": "2190 E 18th Ave Denver, CO 80206",
+        "trueOwner_Company": "Forbes Partnership",
+        "trueOwner_Name_1": "Mike Mathieson",
+        "trueOwner_Email_1": "mike.forbespartners@gmail.com"
+    },
+    {
+        "address": "901 19th St - Alfred A. Arraj U.S. Courthouse Denver, CO 80294",
+        "built": "2002",
+        "trueOwner_Company": "BancWest Corporation"
+    },
+    {
+        "address": "1055 19th St Denver, CO 80202",
+        "sf": "700,000"
+    },
+    {
+        "address": "1975 19th St - Alara Union Station Denver, CO 80202",
+        "built": "2015",
+        "trueOwner_Company": "American Realty Advisors",
+        "trueOwner_Name_1": "Stanley Iezman",
+        "trueOwner_Phone_1": "(310) 393-9899 (m)",
+        "trueOwner_Email_1": "siezman@aracapital.com",
+        "propertyManagement_Company": "Greystar - Alara Union Station"
+    },
+    {
+        "address": "2544 19th St Denver, CO 80211"
+    },
+    {
+        "address": "1150 E 19th Ave - Saint Joseph Heritage Hospital Denver, CO 80218",
+        "built": "2014",
+        "primaryLeasingCompany_Company": "Legend Partners",
+        "primaryLeasingCompany_Name_1": "Kelly Greene",
+        "primaryLeasingCompany_Email_1": "kgreene@legendllp.com",
+        "trueOwner_Company": "Sisters of Charity of Leavenworth Health System"
+    },
+    {
+        "address": "6777 W 19th Pl - Concordia Denver, CO 80214",
+        "built": "1985",
+        "trueOwner_Company": "MAXX Properties",
+        "propertyManagement_Company": "MAXX - Concordia"
+    },
+    {
+        "address": "2901 W 19th St Denver, CO 80204",
+        "sf": "13,131",
+        "trueOwner_Company": "Entravision Communications Corporation"
+    },
+    {
+        "address": "19th & Grant - 19th and Grant Hotel Denver, CO 80203",
+        "trueOwner_Company": "GFI Development Company"
+    },
+    {
+        "address": "757 20th Ave - Park Avenue Square Denver, CO 80205",
+        "primaryLeasingCompany_Company": "SullivanHayes Brokerage",
+        "primaryLeasingCompany_Name_1": "Chris Cook",
+        "primaryLeasingCompany_Email_1": "ccook@sullivanhayes.com",
+        "trueOwner_Company": "Silver Oak Assocs Ltd",
+        "trueOwner_Name_1": "Frank Piani",
+        "trueOwner_Phone_1": "(714) 673-8633 (m)"
+    },
+    {
+        "address": "1011 20th St - 20th Street Gymnasium Denver, CO 80202",
+        "built": "1911",
+        "trueOwner_Company": "Denver City & County - Division of Real Estate"
+    },
+    {
+        "address": "225 E 20th Ave Denver, CO 80205",
+        "sf": "10,000"
+    },
+    {
+        "address": "2865 W 20th Ave Denver, CO 80211"
+    },
+    {
+        "address": "2901 W 20th St - Parking Lot Near Stadium Denver, CO 80211"
+    },
+    {
+        "address": "8800 E 21st Ave - Hanger 61 Denver, CO 80238",
+        "sf": "13,000",
+        "primaryLeasingCompany_Company": "Leuthold Commercial Properties",
+        "primaryLeasingCompany_Name_1": "David Leuthold",
+        "primaryLeasingCompany_Phone_1": "(303) 520-7729 (m)",
+        "primaryLeasingCompany_Email_1": "david@leutholdcommercial.com",
+        "trueOwner_Company": "Forest City Stapleton",
+        "trueOwner_Name_1": "John Lehigh",
+        "trueOwner_Email_1": "johnlehigh@forestcity.net"
+    },
+    {
+        "address": "3523-3529 W 21st Ave Denver, CO 80211",
+        "built": "1953",
+        "trueOwner_Company": "3523-3529 West 21st Avenue Llc",
+        "trueOwner_Name_1": "Kyle Kreischer",
+        "trueOwner_Phone_1": "(951) 233-1106 (m)",
+        "trueOwner_Email_1": "kylekreischer@yahoo.com"
+    },
+    {
+        "address": "607-617 22nd St - The Melbourne Denver, CO 80205",
+        "primaryLeasingCompany_Company": "SVN l Denver Commercial",
+        "primaryLeasingCompany_Name_1": "Jeff Heine",
+        "primaryLeasingCompany_Email_1": "jeff.heine@svn.com",
+        "trueOwner_Company": "Thomas Heine"
+    },
+    {
+        "address": "7780 23rd Ave - Parkside Apartments Denver, CO 80238",
+        "built": "2004",
+        "trueOwner_Company": "Mercy Housing, Inc.",
+        "trueOwner_Name_1": "Kate Peterson",
+        "trueOwner_Email_1": "kpeterson@mercyhousing.org",
+        "propertyManagement_Company": "Mercy Housing - Parkside Apartments"
+    },
+    {
+        "address": "4300-4399 E 23rd Ave - College View Denver, CO 80207",
+        "built": "1948",
+        "trueOwner_Company": "Heather M Smithhillman",
+        "trueOwner_Name_1": "Shirley Smith"
+    },
+    {
+        "address": "1402 E 23rd Ave - Coleman Manor Denver, CO 80205",
+        "built": "1968",
+        "trueOwner_Company": "Campbell Chapel AME Church",
+        "propertyManagement_Company": "Kappa Management- Coleman Manor"
+    },
+    {
+        "address": "8269 E 23rd Ave Denver, CO 80238",
+        "sf": "75,200",
+        "built": "1989",
+        "trueOwner_Company": "Star Mesa Properties",
+        "trueOwner_Name_1": "Kellie Slater",
+        "trueOwner_Email_1": "kellie@starmesaproperties.com"
+    },
+    {
+        "address": "2919-2927 W 23rd Ave - Rise Projects Denver, CO 80211",
+        "built": "2019",
+        "trueOwner_Company": "Adam Platt & Custodio Vargas",
+        "trueOwner_Name_1": "Custodio Vargas"
+    },
+    {
+        "address": "1451 24th St - Ballpark Lofts Apartments Denver, CO 80205",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "Newmark Knight Frank",
+        "primaryLeasingCompany_Name_1": "Michael Lindemann",
+        "primaryLeasingCompany_Email_1": "mlindemann@ngkf.com",
+        "trueOwner_Company": "Starwood Capital Group",
+        "trueOwner_Name_1": "James Kane",
+        "trueOwner_Email_1": "jkane@starwood.com",
+        "propertyManagement_Company": "Highmark - Ballpark Lofts Apartments"
+    },
+    {
+        "address": "2925 W 25th Ave Denver, CO 80211",
+        "trueOwner_Company": "Carl S Ashkin",
+        "trueOwner_Name_1": "Carl Ashkin",
+        "trueOwner_Phone_1": "(516) 627-0451 (m)",
+        "trueOwner_Email_1": "carl.ashkin@yahoo.com"
+    },
+    {
+        "address": "5395 W 25th Ave Denver, CO 80214",
+        "sf": "10,038",
+        "built": "2000",
+        "primaryLeasingCompany_Company": "CVC Data",
+        "primaryLeasingCompany_Name_1": "Rodman Schley",
+        "primaryLeasingCompany_Phone_1": "(303) 246-4448 (m)",
+        "primaryLeasingCompany_Email_1": "rodman@bbgres.com",
+        "trueOwner_Company": "Red Chair Realty Advisors, LLC",
+        "trueOwner_Name_1": "Rick Flanagan",
+        "trueOwner_Phone_1": "(303) 748-0317 (m)",
+        "trueOwner_Email_1": "rick@iredchair.com"
+    },
+    {
+        "address": "6900 W 25th Ave - Squire Apartments Denver, CO 80214",
+        "built": "1974",
+        "trueOwner_Company": "Charles Bowman",
+        "trueOwner_Name_1": "Charles Bowman",
+        "trueOwner_Email_1": "cfb1935@bellsouth.net",
+        "propertyManagement_Company": "CBZ - Squire Apartments"
+    },
+    {
+        "address": "1185 26th St - AVA RiNo Denver, CO 80205",
+        "trueOwner_Company": "AvalonBay Communities, Inc."
+    },
+    {
+        "address": "8002 E 26th Ave - Aline Shoppes Condos Denver, CO 80238",
+        "trueOwner_Company": "D.H. Friedman Properties LLC",
+        "trueOwner_Name_1": "David Friedman",
+        "trueOwner_Email_1": "info@dhfproperties.com"
+    },
+    {
+        "address": "2527 W 26th Ave Denver, CO 80211",
+        "primaryLeasingCompany_Company": "Tessler Developments",
+        "primaryLeasingCompany_Name_1": "Janet Talbot",
+        "primaryLeasingCompany_Phone_1": "(970) 331-1704 (m)",
+        "trueOwner_Company": "Tessler Developments"
+    },
+    {
+        "address": "3777 W 26th Ave - Dayspring Villa Denver, CO 80211",
+        "built": "1995",
+        "propertyManagement_Company": "Franciscan - Dayspring Villa"
+    },
+    {
+        "address": "2211 W 27th Ave - Contemporary Learning Academy Denver, CO 80211",
+        "built": "1979",
+        "trueOwner_Company": "Richman Property Services",
+        "propertyManagement_Company": "Richman Property Services"
+    },
+    {
+        "address": "2727 W 27th Ave Denver, CO 80211",
+        "sf": "35,278",
+        "built": "1921",
+        "primaryLeasingCompany_Company": "NAI Shames Makovsky",
+        "primaryLeasingCompany_Name_1": "Ana Sandomire",
+        "primaryLeasingCompany_Phone_1": "(303) 587-8423 (m)",
+        "primaryLeasingCompany_Email_1": "asandomire@shamesmakovsky.com",
+        "trueOwner_Company": "Riverpoint I LLC"
+    },
+    {
+        "address": "4450-4460 W 27th Ave Denver, CO 80212",
+        "built": "1943",
+        "trueOwner_Company": "Kristen C Warren",
+        "trueOwner_Name_1": "Kristin Warren",
+        "trueOwner_Phone_1": "(720) 855-6202 (m)"
+    },
+    {
+        "address": "2400 E 28th Ave - Vista 28 Denver, CO 80205",
+        "built": "2018",
+        "trueOwner_Company": "McAtee Levy Development, LLC",
+        "propertyManagement_Company": "Cornerstone - Vista 28"
+    },
+    {
+        "address": "2298 W 28th Ave - Infinity LoHi Denver, CO 80211",
+        "built": "2017",
+        "trueOwner_Company": "BlackRock",
+        "propertyManagement_Company": "Greystar - Infinity LoHi"
+    },
+    {
+        "address": "1875 29th St Denver, CO 80216",
+        "built": "2016",
+        "primaryLeasingCompany_Company": "Industry Denver",
+        "trueOwner_Company": "Industry Denver"
+    },
+    {
+        "address": "7350 E 29th Ave - 29th Avenue Town Center Denver, CO 80238",
+        "sf": "46,917",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Joseph Heath",
+        "primaryLeasingCompany_Email_1": "Joe.heath@am.jll.com",
+        "trueOwner_Company": "Brookfield Properties Multifamily LLC"
+    },
+    {
+        "address": "8135 E 29th Ave - Stapleton Control Tower Denver, CO 80238",
+        "sf": "15,416",
+        "built": "1962",
+        "primaryLeasingCompany_Company": "JLL",
+        "primaryLeasingCompany_Name_1": "Don Misner",
+        "primaryLeasingCompany_Email_1": "Don.misner@am.jll.com"
+    },
+    {
+        "address": "7311 E 29th Dr - Walgreens Denver, CO 80238",
+        "built": "2004",
+        "trueOwner_Company": "McMenomy Associates",
+        "trueOwner_Name_1": "Anne McMenomy",
+        "trueOwner_Email_1": "anne.mcmenomy@yahoo.com"
+    },
+    {
+        "address": "10400 E 29th Dr - Greenbelt Apartment Homes at Eastbridge Denver, CO 80238",
+        "built": "2012",
+        "trueOwner_Company": "Merchants Mortgage & Trust Corporation",
+        "trueOwner_Name_1": "Dennis Houck",
+        "propertyManagement_Company": "Alliance - Greenbelt Apartment Homes at Eastbridge"
+    },
+    {
+        "address": "2205 W 29th Ave - Spearly Care Center Denver, CO 80211",
+        "built": "1962",
+        "trueOwner_Company": "Juniper Communities",
+        "trueOwner_Name_1": "Chuck Hastings",
+        "trueOwner_Email_1": "Chuck.Hasting@Junipercommunities.com"
+    },
+    {
+        "address": "2417 W 29th Ave Denver, CO 80211",
+        "built": "1909"
+    },
+    {
+        "address": "2920 W 29th Ave - The Walcott Apartments Denver, CO 80211",
+        "trueOwner_Company": "Waypoint Real Estate Investments",
+        "propertyManagement_Company": "Boutique - The Walcott Apartments",
+        "propertyManagement_Name_1": "not",
+        "propertyManagement_Email_1": "no@boutiqueapartments.com"
+    },
+    {
+        "address": "3595 W 29th Ave Denver, CO 80211",
+        "built": "1956",
+        "trueOwner_Company": "Ruger Investment Group, LLC",
+        "trueOwner_Name_1": "Michelle Lynch"
+    },
+    {
+        "address": "7495 W 29th Ave Denver, CO 80033",
+        "built": "1969"
+    },
+    {
+        "address": "2050 W 30th Ave Denver, CO 80211",
+        "primaryLeasingCompany_Company": "Generator Real Estate Development",
+        "primaryLeasingCompany_Name_1": "Paul Tamburello",
+        "primaryLeasingCompany_Phone_1": "(303) 210-6404 (m)",
+        "primaryLeasingCompany_Email_1": "Paul@thinkgenerator.com",
+        "trueOwner_Company": "Generator Real Estate Development",
+        "trueOwner_Name_1": "Paul Tamburello",
+        "trueOwner_Phone_1": "(303) 210-6404 (m)",
+        "trueOwner_Email_1": "Paul@thinkgenerator.com"
+    },
+    {
+        "address": "2205 W 30th Ave Denver, CO 80211",
+        "built": "1890"
+    },
+    {
+        "address": "1130 31st St - The Epworth Building Denver, CO 80205",
+        "built": "1915",
+        "primaryLeasingCompany_Company": "Leuthold Commercial Properties",
+        "primaryLeasingCompany_Name_1": "David Leuthold",
+        "primaryLeasingCompany_Phone_1": "(303) 520-7729 (m)",
+        "primaryLeasingCompany_Email_1": "david@leutholdcommercial.com",
+        "trueOwner_Company": "Larry A Nelson",
+        "trueOwner_Name_1": "Larry Nelson"
+    },
+    {
+        "address": "1940 31st St Denver, CO 80216",
+        "sf": "330,692",
+        "built": "1989",
+        "trueOwner_Company": "Regional Transportation District"
+    },
+    {
+        "address": "2570 31st St Denver, CO 80216",
+        "sf": "33,280",
+        "built": "1968",
+        "trueOwner_Company": "Richard Watson",
+        "trueOwner_Name_1": "Richard Watson"
+    },
+    {
+        "address": "1655 E 31st Ave Denver, CO 80205",
+        "built": "1976",
+        "trueOwner_Company": "Northeast Denver Housing Center",
+        "propertyManagement_Company": "Ross Management - Whittier Affordable Housing"
+    },
+    {
+        "address": "3540 E 31st Ave - Former YMCA Denver, CO 80205",
+        "built": "1956",
+        "trueOwner_Company": "Patrick Guinness Development",
+        "trueOwner_Name_1": "Patrick Guinness"
+    },
+    {
+        "address": "2835 W 32nd Ave - The Gardens at St Elizabeth Denver, CO 80211",
+        "built": "1965",
+        "trueOwner_Company": "Catholic Health Initiatives"
+    },
+    {
+        "address": "2920 W 32nd Ave - Park West Apartments Denver, CO 80211",
+        "built": "1963",
+        "propertyManagement_Company": "Cornerstone - Park West"
+    },
+    {
+        "address": "2929 W 32nd Ave Denver, CO 80211",
+        "built": "1975"
+    },
+    {
+        "address": "3300 W 32nd Ave - 32nd & Irving Denver, CO 80211",
+        "sf": "12,952",
+        "built": "2012",
+        "primaryLeasingCompany_Company": "Enger Enterprises",
+        "primaryLeasingCompany_Name_1": "Jim Gilbert",
+        "primaryLeasingCompany_Phone_1": "(303) 947-5515 (m)",
+        "primaryLeasingCompany_Email_1": "engerenterprises@comcast.net",
+        "trueOwner_Company": "Enger Enterprises",
+        "trueOwner_Name_1": "Gloria Enger",
+        "trueOwner_Phone_1": "(303) 277-0590 (m)",
+        "trueOwner_Email_1": "engerenterprises@comcast.net"
+    },
+    {
+        "address": "3601-3621 W 32nd Ave - The Landmark Building Denver, CO 80211",
+        "built": "1907",
+        "primaryLeasingCompany_Company": "Colliers International",
+        "primaryLeasingCompany_Name_1": "Lisa Vela",
+        "primaryLeasingCompany_Phone_1": "(720) 470-9838 (m)",
+        "primaryLeasingCompany_Email_1": "lisa.vela@colliers.com",
+        "trueOwner_Company": "Landmark Building Llc"
+    },
+    {
+        "address": "1031 33rd St Denver, CO 80205",
+        "sf": "25,300",
+        "trueOwner_Company": "Denver Housing Authority",
+        "trueOwner_Name_1": "Nichole Ford"
+    },
+    {
+        "address": "1031 33rd St Denver, CO 80205",
+        "sf": "24,970",
+        "built": "1882",
+        "trueOwner_Company": "Denver Housing Authority",
+        "trueOwner_Name_1": "Nichole Ford"
+    },
+    {
+        "address": "1930-1938 W 33rd Ave Denver, CO 80211",
+        "sf": "13,241",
+        "built": "1941",
+        "primaryLeasingCompany_Company": "IRG Construction",
+        "primaryLeasingCompany_Name_1": "Patty Brown",
+        "trueOwner_Company": "IRG Construction",
+        "trueOwner_Name_1": "Patty Brown"
+    },
+    {
+        "address": "5150 E 34th Ave - Liggins Tower Denver, CO 80207",
+        "built": "1971",
+        "trueOwner_Company": "Northeast Denver Housing Center, Inc",
+        "propertyManagement_Company": "Ross - Liggins Tower",
+        "propertyManagement_Name_1": "Linda Smith"
+    },
+    {
+        "address": "1812 35th St - Great Divide Brewery & Tap Room Denver, CO 80216",
+        "sf": "68,822",
+        "built": "2015",
+        "trueOwner_Company": "Great Divide Brewing Company"
+    },
+    {
+        "address": "4141 E 35th Ave - Former Park Hill Golf Course Denver, CO 80207",
+        "built": "1975",
+        "trueOwner_Company": "Westside Investment Partners, Inc."
+    },
+    {
+        "address": "4820-4900 E 35th Ave Denver, CO 80207",
+        "built": "1958"
+    },
+    {
+        "address": "7805 E 35th Ave - Quebec Square - Sam's Club Denver, CO 80238",
+        "built": "2002",
+        "trueOwner_Company": "Walmart, Inc."
+    },
+    {
+        "address": "1620 E 36th Ave - Motor Coach Division Bldg Denver, CO 80205",
+        "sf": "95,923",
+        "primaryLeasingCompany_Company": "Urban Land Conservancy",
+        "primaryLeasingCompany_Name_1": "Aaron Miripol",
+        "trueOwner_Company": "Gary Community Investments"
+    },
+    {
+        "address": "7305 E 36th Ave - Quebec Square Denver, CO 80238",
+        "built": "2002",
+        "primaryLeasingCompany_Company": "David, Hicks & Lampert Brokerage Inc.",
+        "primaryLeasingCompany_Name_1": "Jacob Hawkins",
+        "primaryLeasingCompany_Phone_1": "(303) 668-3181 (m)",
+        "primaryLeasingCompany_Email_1": "jacob.hawkins@dhlb.com",
+        "trueOwner_Company": "ALTO Real Estate Funds",
+        "propertyManagement_Company": "InvenTrust Properties",
+        "propertyManagement_Name_1": "Madonna McAdam"
+    },
+    {
+        "address": "1408 E 36th St Denver, CO 80205",
+        "built": "1890"
+    },
+    {
+        "address": "13575 E 37th Ave Denver, CO 80239",
+        "sf": "142,760",
+        "built": "2020",
+        "primaryLeasingCompany_Company": "Cushman & Wakefield",
+        "primaryLeasingCompany_Name_1": "Matthew Trone",
+        "primaryLeasingCompany_Phone_1": "(303) 619-9487 (m)",
+        "primaryLeasingCompany_Email_1": "matthew.trone@cushwake.com",
+        "primaryLeasingCompany_Name_2": "Steve Hager",
+        "primaryLeasingCompany_Phone_2": "(303) 668-3528 (m)",
+        "primaryLeasingCompany_Email_2": "steve.hager@cushwake.com",
+        "primaryLeasingCompany_Name_3": "Drew McManus",
+        "primaryLeasingCompany_Phone_3": "(303) 810-8633 (m)",
+        "primaryLeasingCompany_Email_3": "drew.mcmanus@cushwake.com",
+        "primaryLeasingCompany_Name_4": "Joey Trinkle",
+        "primaryLeasingCompany_Phone_4": "(303) 312-4249 (m)",
+        "primaryLeasingCompany_Email_4": "joseph.trinkle@cushwake.com",
+        "trueOwner_Company": "AEW Capital Management",
+        "trueOwner_Name_1": "Mike Byrne",
+        "trueOwner_Email_1": "michael.byrne@aew.com"
+    },
+    {
+        "address": "3025 W 37th Ave - Future Denver Park Church Denver, CO 80211",
+        "built": "1931",
+        "trueOwner_Company": "Park Church of Denver",
+        "trueOwner_Name_1": "Dan Bruner"
+    },
+    {
+        "address": "4717 W 37th Ave - Highland Gardens Denver, CO 80212",
+        "built": "2002",
+        "trueOwner_Company": "Rose - Cottage Hill Senior and Trocadero Apartment",
+        "propertyManagement_Company": "Rose - Highland Gardens"
+    },
+    {
+        "address": "4700 38th Ave - Highlands Garden Village Denver, CO 80212",
+        "built": "2006",
+        "trueOwner_Company": "Jonathan Rose Companies",
+        "propertyManagement_Company": "Jonathan Rose Companies"
+    },
+    {
+        "address": "5145 38th Ave Denver, CO 80207",
+        "sf": "12,500",
+        "built": "1957",
+        "trueOwner_Company": "Spectrum General Contractors",
+        "trueOwner_Name_1": "Christopher Cella",
+        "trueOwner_Phone_1": "(303) 981-6924 (m)",
+        "trueOwner_Email_1": "chrisc@spectrumgc.com"
+    },
+    {
+        "address": "5525 E 38th Ave Denver, CO 80207",
+        "sf": "82,792",
+        "built": "1949"
+    },
+    {
+        "address": "7155 E 38th Ave - Planned Parenthood Headquarters Denver, CO 80207",
+        "sf": "44,698",
+        "built": "1961",
+        "trueOwner_Company": "Heizer Paul LLP"
+    },
+    {
+        "address": "1339-1351 W 38th Ave - Prospect Plaza Denver, CO 80211",
+        "built": "1987",
+        "trueOwner_Company": "El Dorodo Denver Industries"
+    },
+    {
+        "address": "1830 W 38th Ave - Leprino Foods Denver, CO 80211",
+        "sf": "66,000",
+        "built": "2003",
+        "primaryLeasingCompany_Company": "Leprino Foods Company",
+        "primaryLeasingCompany_Name_1": "Mike Falbo",
+        "trueOwner_Company": "Leprino Foods Company",
+        "trueOwner_Name_1": "Mike Falbo",
+        "propertyManagement_Company": "Leprino Foods Company"
+    },
+    {
+        "address": "3400 W 38th Ave Denver, CO 80211",
+        "sf": "20,826",
+        "built": "1958",
+        "trueOwner_Company": "Denver City & County - Division of Real Estate"
+    },
+    {
+        "address": "3455 W 38th Ave - Zuma Apartments Denver, CO 80211",
+        "built": "2008",
+        "trueOwner_Company": "Mathew Comfort",
+        "propertyManagement_Company": "Cornerstone - Zuma"
+    },
+    {
+        "address": "3550 W 38th Ave - Emery West Highland Denver, CO 80211",
+        "built": "2017",
+        "trueOwner_Company": "MetLife, Inc.",
+        "propertyManagement_Company": "Greystar - Emery West Highland"
+    },
+    {
+        "address": "3923-3927 W 38th Ave Denver, CO 80212",
+        "built": "1953",
+        "trueOwner_Company": "Lampert Hitch",
+        "trueOwner_Name_1": "John Lampert",
+        "propertyManagement_Company": "Lampert Hitch",
+        "propertyManagement_Name_1": "John Lampert"
+    },
+    {
+        "address": "4115 W 38th Ave - The Argyle Denver, CO 80212",
+        "built": "1875"
+    },
+    {
+        "address": "4500 W 38th Ave - Highlands Garden Village Denver, CO 80212",
+        "built": "2006",
+        "primaryLeasingCompany_Company": "Rose Companies Management",
+        "primaryLeasingCompany_Name_1": "Rachelle Rose",
+        "trueOwner_Company": "Jonathan Rose Companies"
+    }
+]
