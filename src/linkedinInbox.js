@@ -37,6 +37,7 @@ for (let inbox of inboxes) {
     let contact = inbox.querySelector("h3.msg-conversation-listitem__participant-names").innerText;
     let date = inbox.querySelector("time.msg-conversation-card__time-stamp").innerText;
     let message = inbox.querySelector("p.msg-conversation-card__message-snippet").innerText;
+    let responder = message.split(" ").slice(0, 2).join(" "); // incase first name === two names
 
     // If date === time, change to today's date
     if (date.includes(":")) {
