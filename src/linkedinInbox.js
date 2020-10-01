@@ -46,7 +46,6 @@ for (let inbox of inboxes) {
     // Act if responder isn't you && not an ad
     if (!responder.includes("You") && responder.includes(":")) {
         eachInbox.contact = contact;
-        eachInbox.responder = responder;
         eachInbox.message = message;
         eachInbox.date = date;
         allInboxes.push(eachInbox);
