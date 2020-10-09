@@ -1,8 +1,28 @@
 const inboxWindow = document.querySelector("ul.msg-conversations-container__conversations-list");
 
-let scroll = async (inboxWindow) => {
+const client = document.querySelector(".global-nav__primary-link > img").alt;
+
+const scroll = async (inboxWindow) => {
     inboxWindow.scrollBy({
-        top: 9999,
+        top: inboxWindow.scrollHeight,
+        behavior: "smooth",
+    });
+
+    await new Promise((resolve) => {
+        setTimeout(resolve, 3000);
+    });
+
+    inboxWindow.scrollBy({
+        top: -inboxWindow.scrollHeight / 2,
+        behavior: "smooth",
+    });
+
+    await new Promise((resolve) => {
+        setTimeout(resolve, 3000);
+    });
+
+    inboxWindow.scrollBy({
+        top: inboxWindow.scrollHeight * 0.75,
         behavior: "smooth",
     });
 
@@ -13,22 +33,38 @@ let scroll = async (inboxWindow) => {
 
 let previousHeight = 0;
 let currentHeight = inboxWindow.scrollHeight;
-let total = 0;
+let thisYear = true;
 
-while (previousHeight < currentHeight) {
+while (previousHeight < currentHeight && thisYear) {
     previousHeight = inboxWindow.scrollHeight;
     await scroll(inboxWindow);
 
-    currentHeight = inboxWindow.scrollHeight;
+    const inboxes = document.querySelectorAll(
+        ".msg-conversations-container__conversations-list > li.msg-conversation-listitem > div"
+    );
+
+    let allDates = [];
+
+    for (let inbox of inboxes) {
+        let date = inbox.querySelector("time.msg-conversation-card__time-stamp").innerText;
+
+        allDates.push(date);
+    }
+
+    let dates = allDates.join(" ").split(" ");
+
+    if (dates.includes("2019") || dates.includes("2018")) {
+        thisYear = false;
+    } else {
+        currentHeight = inboxWindow.scrollHeight;
+    }
 }
 
 console.log("Done");
 
 const inboxes = document.querySelectorAll(
-    ".msg-conversations-container__conversations-list > li.msg-conversation-listitem"
+    ".msg-conversations-container__conversations-list > li.msg-conversation-listitem > div"
 );
-
-const client = document.querySelector(".global-nav__primary-link > img").alt;
 
 let allInboxes = [];
 
