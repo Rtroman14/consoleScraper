@@ -31,11 +31,31 @@ const scroll = async (inboxWindow) => {
     });
 };
 
+const d = new Date();
+const month = d.getMonth();
+
+const monthArray = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+];
+
+const lastMonth = monthArray[month - 1];
+
 let previousHeight = 0;
 let currentHeight = inboxWindow.scrollHeight;
-let thisYear = true;
+let isLastMonth = true;
 
-while (previousHeight < currentHeight && thisYear) {
+while (previousHeight < currentHeight && isLastMonth) {
     previousHeight = inboxWindow.scrollHeight;
     await scroll(inboxWindow);
 
@@ -43,21 +63,25 @@ while (previousHeight < currentHeight && thisYear) {
         ".msg-conversations-container__conversations-list > li.msg-conversation-listitem > div"
     );
 
-    let allDates = [];
+    // let allDates = [];
 
     for (let inbox of inboxes) {
         let date = inbox.querySelector("time.msg-conversation-card__time-stamp").innerText;
 
-        allDates.push(date);
+        if (date.includes(lastMonth)) {
+            isLastMonth = false;
+        }
+
+        // allDates.push(date);
     }
 
-    let dates = allDates.join(" ").split(" ");
+    // let dates = allDates.join(" ").split(" ");
 
-    if (dates.includes("2019") || dates.includes("2018")) {
-        thisYear = false;
-    } else {
-        currentHeight = inboxWindow.scrollHeight;
-    }
+    // if (dates.includes(lastMonth) || dates.includes(lastMonth)) {
+    //     isLastMonth = false;
+    // } else {
+    currentHeight = inboxWindow.scrollHeight;
+    // }
 }
 
 console.log("Done");
@@ -89,4 +113,6 @@ for (let inbox of inboxes) {
     }
 }
 
-exportFile(allInboxes, `${client}'s Inbox`);
+// exportFile(allInboxes, `${client}'s Inbox`);
+
+// console.log("Sep 14".includes(lastMonth));
