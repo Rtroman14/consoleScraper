@@ -113,6 +113,4 @@ for (let inbox of inboxes) {
     }
 }
 
-// exportFile(allInboxes, `${client}'s Inbox`);
-
-// console.log("Sep 14".includes(lastMonth));
+exportFile(allInboxes, `${client}'s Inbox`);
