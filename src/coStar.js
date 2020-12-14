@@ -87,7 +87,7 @@ while (run) {
     allData.push(coStar);
 
     if (pages % 5 === 0) {
-        exportFile(allData, `coStart_Pages 0-${pages}.json`);
+        exportFile(allData, `coStar_Pages 0-${pages}.json`);
     }
 
     await delay(3000);
