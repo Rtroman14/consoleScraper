@@ -73,8 +73,8 @@ while (run) {
     } else {
         if (!state.isContactsTab) {
             navLength[contactIndex(navLength)].querySelector("a").click();
-            await delay(3000);
             state.isContactsTab = true;
+            await delay(3000);
         }
 
         let coStar = {};
