@@ -14,7 +14,11 @@ const getContactInfo = (contacts, coStar, section) => {
             let contactInfo = contactSpan.innerText;
             if (index === 0) {
                 coStar[`${section}_Name_${i + 1}`] = contactInfo;
-            } else if (contactInfo.includes("(m)")) {
+            } else if (
+                contactInfo.includes("(m)") ||
+                // check if phone number
+                /^[+]*[(]{0,1}[0-9]{1,3}[)]{0,1}[-\s\./0-9]*$/g.test(contactInfo)
+            ) {
                 coStar[`${section}_Phone_${i + 1}`] = contactInfo;
             } else if (contactInfo.includes("@")) {
                 coStar[`${section}_Email_${i + 1}`] = contactInfo;
