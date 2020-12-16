@@ -6,9 +6,9 @@ const getText = async (doc, selector) => {
     return await doc.querySelector(selector).innerText;
 };
 
-const contactIndex = () => {
-    for (let i = 0; i < lis.length; i++) {
-        if (lis[i].innerText === "Contacts") {
+const contactIndex = (navLength) => {
+    for (let i = 0; i < navLength.length; i++) {
+        if (navLength[i].innerText === "Contacts") {
             return i;
         }
     }
@@ -72,7 +72,7 @@ while (run) {
         nextPage.click();
     } else {
         if (!state.isContactsTab) {
-            navLength[contactIndex()].querySelector("a").click();
+            navLength[contactIndex(navLength)].querySelector("a").click();
             await delay(3000);
             state.isContactsTab = true;
         }
