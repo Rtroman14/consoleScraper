@@ -6,6 +6,14 @@ const getText = async (doc, selector) => {
     return await doc.querySelector(selector).innerText;
 };
 
+const contactIndex = () => {
+    for (let i = 0; i < lis.length; i++) {
+        if (lis[i].innerText === "Contacts") {
+            return i;
+        }
+    }
+};
+
 const getContactInfo = (contacts, coStar, section) => {
     for (let [i, contact] of contacts.entries()) {
         let contactSpans = contact.querySelectorAll("figcaption > address > *");
@@ -56,7 +64,7 @@ while (run) {
 
     let navLength = document.querySelectorAll("#tabs > ul > li");
 
-    if (navLength < 5) {
+    if (navLength.length < 5) {
         state.isContactsTab = false;
         let nextPage = document.querySelector(
             "#NewSearchNavigationLayout_NavigationButtons > a ~ a"
@@ -64,7 +72,7 @@ while (run) {
         nextPage.click();
     } else {
         if (!state.isContactsTab) {
-            navLength[7].querySelector("a").click();
+            navLength[contactIndex()].querySelector("a").click();
             await delay(3000);
             state.isContactsTab = true;
         }
@@ -102,6 +110,10 @@ while (run) {
                 await getSections(coStar, "trueOwner", contactSection);
             } else if (sectionHeader === "Property Management") {
                 await getSections(coStar, "propertyManagement", contactSection);
+            } else if (sectionHeader === "Recorded Owner") {
+                await getSections(coStar, "recordedOwner", contactSection);
+            } else if (sectionHeader === "Previous True Owner") {
+                await getSections(coStar, "previousTrueOwner", contactSection);
             }
         }
 
