@@ -24,6 +24,7 @@ const getContactInfo = (contacts, coStar, section) => {
                 coStar[`${section}_Name_${i + 1}`] = contactInfo;
             } else if (
                 contactInfo.includes("(m)") ||
+                contactInfo.includes("(p)") ||
                 // check if phone number
                 /^[+]*[(]{0,1}[0-9]{1,3}[)]{0,1}[-\s\./0-9]*$/g.test(contactInfo)
             ) {
