@@ -85,6 +85,8 @@ while (run) {
         let addressStreet = await getText(document, "#header > div > div");
         let addressCity = await getText(document, "#header > div > div > div > div > div");
 
+        coStar.image = document.querySelector(".detail-images img").src || "";
+
         coStar.address = `${addressStreet} ${addressCity}`;
 
         let buildingInfo = document.querySelectorAll("#header > div > div > div:last-child > div");
