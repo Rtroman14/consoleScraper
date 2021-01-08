@@ -96,7 +96,8 @@ while (run) {
 
             if (infoTitle === "Built") {
                 coStar.built = await getText(info, "div");
-            } else if (infoTitle === "SF RBA") {
+            }
+            if (infoTitle === "SF RBA") {
                 coStar.sf = await getText(info, "div");
             }
         }
