@@ -53,6 +53,38 @@ const getSections = async (coStar, sectionTitle, contactSection) => {
     }
 };
 
+const getBuildingInfo = (selector) => {
+    if (selector === "yearBuilt_line1") {
+        if (document.querySelector("[automation-id=yearBuilt_line1]")) {
+            return document
+                .querySelector("[automation-id=yearBuilt_line1]")
+                .innerText.split(" ")[2];
+        }
+    }
+
+    if (document.querySelector(`[automation-id=${selector}]`)) {
+        return document.querySelector(`[automation-id=${selector}]`).innerText;
+    }
+
+    if (selector === "built_line1") {
+        if (document.querySelector("[automation-id=yearBuilt_line1]")) {
+            return document
+                .querySelector("[automation-id=yearBuilt_line1]")
+                .innerText.split(" ")[0];
+        }
+    }
+
+    return "";
+};
+
+const getWebsite = (selector) => {
+    if (document.querySelector(selector)) {
+        return document.querySelector(selector).href;
+    }
+
+    return "";
+};
+
 const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 let pages = 0;
@@ -89,18 +121,11 @@ while (run) {
 
         coStar.address = `${addressStreet} ${addressCity}`;
 
-        let buildingInfo = document.querySelectorAll("#header > div > div > div:last-child > div");
+        coStar.sf = getBuildingInfo("buildingSize_line1");
+        coStar.built = getBuildingInfo("built_line1");
+        coStar.renovation = getBuildingInfo("yearBuilt_line1");
 
-        for (let info of buildingInfo) {
-            let infoTitle = await getText(info, "div ~ div");
-
-            if (infoTitle === "Built") {
-                coStar.built = await getText(info, "div");
-            }
-            if (infoTitle === "SF RBA") {
-                coStar.sf = await getText(info, "div");
-            }
-        }
+        coStar.website = getWebsite("#header > div ~ div a");
 
         // get section rows
         let contactSections = document.querySelectorAll(".contact-section");
