@@ -42,6 +42,8 @@ const getSections = async (coStar, sectionTitle, contactSection) => {
         ".contact-section address > a"
     );
 
+    coStar[`${sectionTitle}_Website`] = getWebsite(".contact-section address > a ~ a");
+
     // get all PLC contacts
     let sectionContacts = contactSection.querySelectorAll(
         "div:nth-child(2) > div:last-child > div"
