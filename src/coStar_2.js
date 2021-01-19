@@ -87,6 +87,14 @@ const getWebsite = (selector) => {
     return "";
 };
 
+const getImage = (selector) => {
+    if (document.querySelector(selector)) {
+        return document.querySelector(selector).src;
+    }
+
+    return "";
+};
+
 const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 let pages = 0;
@@ -119,7 +127,7 @@ while (run) {
         let addressStreet = await getText(document, "#header > div > div");
         let addressCity = await getText(document, "#header > div > div > div > div > div");
 
-        coStar.image = document.querySelector(".detail-images img").src || "";
+        coStar.image = await getImage(".detail-images img");
 
         coStar.address = `${addressStreet} ${addressCity}`;
 
