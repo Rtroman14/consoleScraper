@@ -3,7 +3,11 @@ let allData = [];
 let run = true;
 
 const getText = async (doc, selector) => {
-    return await doc.querySelector(selector).innerText;
+    if (doc.querySelector(selector)) {
+        return doc.querySelector(selector).innerText;
+    }
+
+    return "";
 };
 
 const contactIndex = (navLength) => {
