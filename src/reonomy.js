@@ -43,10 +43,18 @@ while (run) {
         await delay(4000);
 
         property.address = getText(document, "p[data-testid='header-property-address']");
-        property.street = property.address.split(", ")[0];
-        property.city = property.address.split(", ")[1]; // DOUBLE CHECK
-        property.state = property.address.split(", ")[2].split(" ")[0];
-        property.zip = property.address.split(" ").pop();
+
+        if (property.address.split(",").length === 3) {
+            property.street = property.address.split(", ")[0];
+            property.city = property.address.split(", ")[1]; // DOUBLE CHECK
+            property.state = property.address.split(", ")[2].split(" ")[0];
+            property.zip = property.address.split(" ").pop();
+        } else {
+            property.street = "";
+            property.city = property.address.split(", ")[0];
+            property.state = property.address.split(" ")[1];
+            property.zip = property.address.split(" ").pop();
+        }
 
         // Building & Lot > Building section
         let buildingSection = document.querySelector(
