@@ -30,15 +30,17 @@ const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 let page = 0;
 
+localStorage.removeItem("properties");
+
 while (run) {
-    await delay(4000);
+    await delay(3000);
 
     let property = {};
 
     try {
         // Building & Lot Tab
         document.querySelector("#property-details-tab-building").click();
-        await delay(2000);
+        await delay(4000);
 
         property.address = getText(document, "p[data-testid='header-property-address']");
         property.street = property.address.split(", ")[0];
@@ -65,7 +67,7 @@ while (run) {
 
         // Owner tab
         document.querySelector("#property-details-tab-ownership").click();
-        await delay(2000);
+        await delay(4000);
 
         let reportedOwnerSection = document.querySelector("#reported-owner-info");
         property.reportedOwnerName = getText(
@@ -106,20 +108,23 @@ while (run) {
         }
 
         properties.push(property);
+        localStorage.setItem("properties", JSON.stringify(properties));
 
-        if (page % 5 === 0) {
+        const [currentProperty, , totalProperties] = document
+            .querySelector("#search-box-results")
+            .innerText.split("\n");
+
+        if (currentProperty === totalProperties) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
+            run = false;
         }
-
-        document.querySelector("#search-results-step-up").click();
-        page++;
     } catch (error) {
-        console.log(error.message);
-        if (page % 5 === 0) {
-            exportFile(properties, `reonomy pages 0-${page}.json`);
-        }
+        console.log("CP IS A PUSS ---", error);
 
-        document.querySelector("#search-results-step-up").click();
-        page++;
+        exportFile(properties, `reonomy pages 0-${page}.json`);
+        run = false;
     }
+
+    document.querySelector("#search-results-step-up").click();
+    page++;
 }
