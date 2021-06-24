@@ -130,15 +130,16 @@ while (run) {
 
         let addressStreet = await getText(document, "#header > div > div");
         let addressCity = await getText(document, "#header > div > div > div > div > div");
+        coStar.address = `${addressStreet} ${addressCity}`;
+        coStar.street = addressStreet;
+        coStar.city = addressCity.slice(0, addressCity.indexOf(","));
+        coStar.state = addressCity.split(" ").slice(-2)[0];
+        coStar.zip = addressCity.split(" ").pop();
 
         coStar.image = await getImage(".detail-images img");
-
-        coStar.address = `${addressStreet} ${addressCity}`;
-
         coStar.sf = getBuildingInfo("buildingSize_line1");
         coStar.built = getBuildingInfo("built_line1");
         coStar.renovation = getBuildingInfo("yearBuilt_line1");
-
         coStar.website = getWebsite("#header > div ~ div a");
 
         // get section rows
