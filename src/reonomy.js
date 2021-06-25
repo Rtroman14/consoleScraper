@@ -78,11 +78,11 @@ while (run) {
         await delay(4000);
 
         let reportedOwnerSection = document.querySelector("#reported-owner-info");
-        property.reportedOwnerName = getText(
+        property.companyName = getText(
             reportedOwnerSection,
             "#reported-owner-info > div:nth-child(2)"
         );
-        property.reportedOwnerAddress = getText(
+        property.companyAddress = getText(
             reportedOwnerSection,
             "#reported-owner-info > div:last-child"
         );
