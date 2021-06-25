@@ -109,70 +109,83 @@ while (run) {
         isContactsTab: false,
     };
 
-    let navLength = document.querySelectorAll("#tabs > ul > li");
+    try {
+        let navLength = document.querySelectorAll("#tabs > ul > li");
 
-    if (navLength.length < 5) {
-        state.isContactsTab = false;
-        let nextPage = document.querySelector(
-            "#NewSearchNavigationLayout_NavigationButtons > a ~ a"
-        );
-        nextPage.click();
-    } else {
-        if (!state.isContactsTab) {
-            navLength[contactIndex(navLength)].querySelector("a").click();
-            state.isContactsTab = true;
-            await delay(3000);
-        }
-
-        let coStar = {};
-
-        pages++;
-
-        let addressStreet = await getText(document, "#header > div > div");
-        let addressCity = await getText(document, "#header > div > div > div > div > div");
-        coStar.address = `${addressStreet} ${addressCity}`;
-        coStar.street = addressStreet;
-        coStar.city = addressCity.slice(0, addressCity.indexOf(","));
-        coStar.state = addressCity.split(" ").slice(-2)[0];
-        coStar.zip = addressCity.split(" ").pop();
-
-        coStar.image = await getImage(".detail-images img");
-        coStar.sf = getBuildingInfo("buildingSize_line1");
-        coStar.built = getBuildingInfo("built_line1");
-        coStar.renovation = getBuildingInfo("yearBuilt_line1");
-        coStar.website = getWebsite("#header > div ~ div a");
-
-        // get section rows
-        let contactSections = document.querySelectorAll(".contact-section");
-
-        for (let contactSection of contactSections) {
-            let sectionHeader = await getText(contactSection, ".contact-section > div");
-
-            if (sectionHeader === "Primary Leasing Company") {
-                await getSections(coStar, "primaryLeasingCompany", contactSection);
-            } else if (sectionHeader === "True Owner") {
-                await getSections(coStar, "trueOwner", contactSection);
-            } else if (sectionHeader === "Property Management") {
-                await getSections(coStar, "propertyManagement", contactSection);
-            } else if (sectionHeader === "Recorded Owner") {
-                await getSections(coStar, "recordedOwner", contactSection);
-            } else if (sectionHeader === "Previous True Owner") {
-                await getSections(coStar, "previousTrueOwner", contactSection);
+        if (navLength.length < 5) {
+            state.isContactsTab = false;
+            let nextPage = document.querySelector(
+                "#NewSearchNavigationLayout_NavigationButtons > a ~ a"
+            );
+            nextPage.click();
+        } else {
+            if (!state.isContactsTab) {
+                navLength[contactIndex(navLength)].querySelector("a").click();
+                state.isContactsTab = true;
+                await delay(3000);
             }
+
+            let coStar = {};
+
+            pages++;
+
+            let addressStreet = await getText(document, "#header > div > div");
+            let addressCity = await getText(document, "#header > div > div > div > div > div");
+            coStar.address = `${addressStreet} ${addressCity}`;
+            coStar.street = addressStreet;
+            coStar.city = addressCity.slice(0, addressCity.indexOf(","));
+            coStar.state = addressCity.split(" ").slice(-2)[0];
+            coStar.zip = addressCity.split(" ").pop();
+
+            coStar.image = await getImage(".detail-images img");
+            coStar.sf = getBuildingInfo("buildingSize_line1");
+            coStar.built = getBuildingInfo("built_line1");
+            coStar.renovation = getBuildingInfo("yearBuilt_line1");
+            coStar.website = getWebsite("#header > div ~ div a");
+
+            // get section rows
+            let contactSections = document.querySelectorAll(".contact-section");
+
+            for (let contactSection of contactSections) {
+                let sectionHeader = await getText(contactSection, ".contact-section > div");
+
+                if (sectionHeader === "Primary Leasing Company") {
+                    await getSections(coStar, "primaryLeasingCompany", contactSection);
+                } else if (sectionHeader === "True Owner") {
+                    await getSections(coStar, "trueOwner", contactSection);
+                } else if (sectionHeader === "Property Management") {
+                    await getSections(coStar, "propertyManagement", contactSection);
+                } else if (sectionHeader === "Recorded Owner") {
+                    await getSections(coStar, "recordedOwner", contactSection);
+                } else if (sectionHeader === "Previous True Owner") {
+                    await getSections(coStar, "previousTrueOwner", contactSection);
+                }
+            }
+
+            let nextPage = document.querySelector(
+                "#NewSearchNavigationLayout_NavigationButtons > a ~ a"
+            );
+
+            allData.push(coStar);
+            localStorage.setItem("coStar", JSON.stringify(allData));
+
+            let [currentProperty, , totalProperties] = document
+                .querySelector("#toolbar-button-bar ~ div > span")
+                .innerText.split(" ");
+
+            if (currentProperty === totalProperties) {
+                exportFile(allData, `coStart Pages 0-${pages}.json`);
+                run = false;
+            }
+
+            await delay(3000);
+            nextPage.click();
         }
+    } catch (error) {
+        console.log("CP IS A PUSS ---", error);
 
-        let nextPage = document.querySelector(
-            "#NewSearchNavigationLayout_NavigationButtons > a ~ a"
-        );
-
-        allData.push(coStar);
-
-        if (pages % 5 === 0) {
-            exportFile(allData, `coStart_Pages 0-${pages}.json`);
-        }
-
-        await delay(3000);
-        nextPage.click();
+        exportFile(allData, `coStart Pages 0-${page}.json`);
+        run = false;
     }
 
     // run = false;

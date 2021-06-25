@@ -40,7 +40,7 @@ while (run) {
     try {
         // Building & Lot Tab
         document.querySelector("#property-details-tab-building").click();
-        await delay(4000);
+        await delay(5000);
 
         property.address = getText(document, "p[data-testid='header-property-address']");
 
@@ -75,7 +75,7 @@ while (run) {
 
         // Owner tab
         document.querySelector("#property-details-tab-ownership").click();
-        await delay(4000);
+        await delay(5000);
 
         let reportedOwnerSection = document.querySelector("#reported-owner-info");
         property.companyName = getText(
@@ -122,6 +122,10 @@ while (run) {
             .querySelector("#search-box-results")
             .innerText.split("\n");
 
+        // next page
+        document.querySelector("#search-results-step-up").click();
+        page++;
+
         if (currentProperty === totalProperties) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
             run = false;
@@ -132,7 +136,4 @@ while (run) {
         exportFile(properties, `reonomy pages 0-${page}.json`);
         run = false;
     }
-
-    document.querySelector("#search-results-step-up").click();
-    page++;
 }
