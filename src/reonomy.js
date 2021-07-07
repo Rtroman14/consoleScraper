@@ -130,6 +130,10 @@ while (run) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
             run = false;
         }
+
+        if (!run) {
+            exportFile(properties, `reonomy pages 0-${page}.json`);
+        }
     } catch (error) {
         console.log("CP IS A PUSS ---", error);
 
