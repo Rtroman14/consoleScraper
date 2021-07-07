@@ -178,6 +178,10 @@ while (run) {
                 run = false;
             }
 
+            if (!run) {
+                exportFile(allData, `coStart Pages 0-${pages}.json`);
+            }
+
             await delay(3000);
             nextPage.click();
         }
