@@ -182,6 +182,10 @@ while (run) {
                 exportFile(allData, `coStart Pages 0-${pages}.json`);
             }
 
+            if (pages % 100 === 0) {
+                exportFile(allData, `coStart Pages 0-${pages}.json`);
+            }
+
             await delay(3000);
             nextPage.click();
         }
