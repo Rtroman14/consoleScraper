@@ -138,8 +138,6 @@ while (run) {
         // next page
         document.querySelector("#search-results-step-up").click();
         page++;
-
-        console.log(properties);
     } catch (error) {
         console.log("CP IS A PUSS ---", error);
 
