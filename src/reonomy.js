@@ -122,22 +122,24 @@ while (run) {
             .querySelector("#search-box-results")
             .innerText.split("\n");
 
-        // next page
-        document.querySelector("#search-results-step-up").click();
-        page++;
-
         if (currentProperty === totalProperties) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
             run = false;
+        }
+
+        if (page !== 0 && page % 100 === 0) {
+            exportFile(properties, `reonomy pages 0-${page}.json`);
         }
 
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
         }
 
-        if (pages % 100 === 0) {
-            exportFile(properties, `reonomy pages 0-${page}.json`);
-        }
+        // next page
+        document.querySelector("#search-results-step-up").click();
+        page++;
+
+        console.log(properties);
     } catch (error) {
         console.log("CP IS A PUSS ---", error);
 
