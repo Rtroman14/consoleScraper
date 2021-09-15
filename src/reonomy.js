@@ -40,82 +40,105 @@ while (run) {
     try {
         // Building & Lot Tab
         document.querySelector("#property-details-tab-building").click();
-        await delay(5000);
+        await delay(4000);
 
-        property.address = getText(document, "p[data-testid='header-property-address']");
+        property.Address = getText(document, "p[data-testid='header-property-address']");
 
-        if (property.address.split(",").length === 3) {
-            property.street = property.address.split(", ")[0];
-            property.city = property.address.split(", ")[1]; // DOUBLE CHECK
-            property.state = property.address.split(", ")[2].split(" ")[0];
-            property.zip = property.address.split(" ").pop();
+        if (property.Address.split(",").length === 3) {
+            property.Street = property.Address.split(", ")[0];
+            property.City = property.Address.split(", ")[1]; // DOUBLE CHECK
+            property.State = property.Address.split(", ")[2].split(" ")[0];
+            property.Zip = property.Address.split(" ").pop();
         } else {
-            property.street = "";
-            property.city = property.address.split(", ")[0];
-            property.state = property.address.split(" ")[1];
-            property.zip = property.address.split(" ").pop();
+            property.Street = "";
+            property.City = property.Address.split(", ")[0];
+            property.State = property.Address.split(" ")[1];
+            property.Zip = property.Address.split(" ").pop();
         }
 
-        // Building & Lot > Building section
+        // Building & Lot > Building
         let buildingSection = document.querySelector(
             "#property-details-section-building .MuiGrid-container .MuiGrid-item"
         );
-        // Building & Lot > Lot section
+        // Building & Lot > Lot
         let lotSection = document.querySelector(
             "#property-details-section-building .MuiGrid-container .MuiGrid-item:nth-child(2)"
         );
 
-        property.yearBuild = getText(buildingSection, "dl:nth-child(1) dd");
-        property.yearRenovated = getText(buildingSection, "dl:nth-child(2) dd");
-        property.buildingArea = buildingSection
+        property["Year Built"] = getText(buildingSection, "dl:nth-child(1) dd");
+        property["Year Renovated"] = getText(buildingSection, "dl:nth-child(2) dd");
+        property["Square Feet"] = buildingSection
             .querySelector("dl:last-child dd")
             .innerText.split(" ")[0];
 
-        property.type = getText(lotSection, "dl:nth-child(1) dd");
+        property["Building Type"] = getText(lotSection, "dl:nth-child(1) dd");
 
         // Owner tab
         document.querySelector("#property-details-tab-ownership").click();
-        await delay(5000);
+        await delay(4000);
 
         let reportedOwnerSection = document.querySelector("#reported-owner-info");
-        property.companyName = getText(
+        property["Company Name"] = getText(
             reportedOwnerSection,
             "#reported-owner-info > div:nth-child(2)"
         );
-        property.companyAddress = getText(
+        property["Company Address"] = getText(
             reportedOwnerSection,
             "#reported-owner-info > div:last-child"
         );
 
+        // if "More" contacts, click
+        let morePeopleBtn = document.querySelector("[data-testid='plus-more-people-button-id']");
+
+        if (morePeopleBtn) {
+            morePeopleBtn.click();
+        }
+
+        await delay(2000);
+
         let peopleSections = document.querySelectorAll("[data-testid='people-container-id']");
 
         for (let [index, person] of peopleSections.entries()) {
-            let mobileNum = 0;
+            let contact = {};
 
-            property[`person-${index}_name`] = getText(person, "[data-testid='people-name-id']");
+            const fullName = getText(person, "[data-testid='people-name-id']");
+
+            contact["Full Name"] = fullName;
+            contact["First Name"] = fullName.split(" ")[0] || "";
+            contact["Last Name"] = fullName.split(" ").slice(1).join(" ") || "";
+            contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
 
             let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");
 
-            property[`person-${index}_email`] = getText(
-                person,
-                "[data-testid='people-contact-email-id']"
-            );
-
             for (let info of contactInfo) {
                 let svg = info.querySelector("svg").innerHTML;
+
+                contact["Phone Number"] = "";
+                contact["Phone Type"] = "";
+
                 if (svg.length === 993) {
                     // mobile
-                    property[`person-${index}_mobile-${mobileNum}`] = getText(
+                    contact["Phone Number"] = getText(
                         info,
                         "[data-testid='people-contact-phone-id']"
                     );
+                    contact["Phone Type"] = "Mobile";
 
-                    mobileNum++;
+                    properties.push({ ...property, ...contact });
+                }
+                if (svg.length === 1363) {
+                    // landline
+                    contact["Phone Number"] = getText(
+                        info,
+                        "[data-testid='people-contact-phone-id']"
+                    );
+                    contact["Phone Type"] = "Landline";
+
+                    properties.push({ ...property, ...contact });
                 }
             }
         }
 
-        properties.push(property);
         localStorage.setItem("properties", JSON.stringify(properties));
 
         const [currentProperty, , totalProperties] = document
