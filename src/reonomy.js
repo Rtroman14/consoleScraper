@@ -107,6 +107,7 @@ while (run) {
             contact["First Name"] = fullName.split(" ")[0] || "";
             contact["Last Name"] = fullName.split(" ").slice(1).join(" ") || "";
             contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
+            contact.Source = "Reonomy";
 
             let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");
 

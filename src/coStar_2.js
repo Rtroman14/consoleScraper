@@ -142,6 +142,7 @@ while (run) {
             coStar.built = getBuildingInfo("built_line1");
             coStar.renovation = getBuildingInfo("yearBuilt_line1");
             coStar.website = getWebsite("#header > div ~ div a");
+            coStar.Source = "CoStar";
 
             // get section rows
             let contactSections = document.querySelectorAll(".contact-section");
