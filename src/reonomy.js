@@ -123,6 +123,7 @@ while (run) {
                         "[data-testid='people-contact-phone-id']"
                     );
                     contact["Phone Type"] = "Mobile";
+                    contact.Outreach = "Text";
 
                     properties.push({ ...property, ...contact });
                 }
@@ -133,6 +134,7 @@ while (run) {
                         "[data-testid='people-contact-phone-id']"
                     );
                     contact["Phone Type"] = "Landline";
+                    contact.Outreach = "Email";
 
                     properties.push({ ...property, ...contact });
                 }
