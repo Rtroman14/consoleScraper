@@ -32,6 +32,8 @@ let page = 0;
 
 localStorage.removeItem("properties");
 
+let state;
+
 while (run) {
     await delay(3000);
 
@@ -45,16 +47,22 @@ while (run) {
         property.Address = getText(document, "p[data-testid='header-property-address']");
 
         if (property.Address.split(",").length === 3) {
+            let currentState = property.Address.split(", ")[2].split(" ")[0];
+            state = currentState.length > 2 ? state : currentState;
+
             property.Street = property.Address.split(", ")[0];
             property.City = property.Address.split(", ")[1]; // DOUBLE CHECK
-            property.State = property.Address.split(", ")[2].split(" ")[0];
             property.Zip = property.Address.split(" ").pop();
         } else {
+            let currentState = property.Address.split(" ")[1];
+            state = currentState.length > 2 ? state : currentState;
+
             property.Street = "";
             property.City = property.Address.split(", ")[0];
-            property.State = property.Address.split(" ")[1];
             property.Zip = property.Address.split(" ").pop();
         }
+
+        property.State = state;
 
         // Building & Lot > Building
         let buildingSection = document.querySelector(
@@ -67,9 +75,9 @@ while (run) {
 
         property["Year Built"] = getText(buildingSection, "dl:nth-child(1) dd");
         property["Year Renovated"] = getText(buildingSection, "dl:nth-child(2) dd");
-        property["Square Feet"] = buildingSection
-            .querySelector("dl:last-child dd")
-            .innerText.split(" ")[0];
+
+        let squareFeet = buildingSection.querySelector("dl:last-child dd").innerText.split(" ")[0];
+        property["Square Feet"] = squareFeet === "--" ? "" : squareFeet;
 
         property["Building Type"] = getText(lotSection, "dl:nth-child(1) dd");
 
