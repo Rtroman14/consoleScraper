@@ -116,7 +116,7 @@ try {
             contact["Phone Number"] = "";
             contact["Phone Type"] = "";
 
-            if (svg.length === 993) {
+            if (svg.length === 880) {
                 // mobile
                 contact["Phone Number"] = getText(info, "[data-testid='people-contact-phone-id']");
                 contact["Phone Type"] = "Mobile";
