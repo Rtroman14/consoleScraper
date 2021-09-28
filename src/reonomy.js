@@ -46,15 +46,17 @@ while (run) {
 
         property.Address = getText(document, "p[data-testid='header-property-address']");
 
+        let currentState;
+
         if (property.Address.split(",").length === 3) {
-            let currentState = property.Address.split(", ")[2].split(" ")[0];
+            currentState = property.Address.split(", ")[2].split(" ")[0];
             state = currentState.length > 2 ? state : currentState;
 
             property.Street = property.Address.split(", ")[0];
             property.City = property.Address.split(", ")[1]; // DOUBLE CHECK
             property.Zip = property.Address.split(" ").pop();
         } else {
-            let currentState = property.Address.split(" ")[1];
+            currentState = property.Address.split(" ")[1];
             state = currentState.length > 2 ? state : currentState;
 
             property.Street = "";
@@ -80,6 +82,8 @@ while (run) {
         property["Square Feet"] = squareFeet === "--" ? "" : squareFeet;
 
         property["Building Type"] = getText(lotSection, "dl:nth-child(1) dd");
+
+        property["Url"] = window.location.href;
 
         // Owner tab
         document.querySelector("#property-details-tab-ownership").click();
@@ -118,6 +122,8 @@ while (run) {
             contact.Source = "Reonomy";
 
             let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");
+
+            contact["Contact Address"] = contactInfo[contactInfo.length - 1].innerText;
 
             for (let info of contactInfo) {
                 let svg = info.querySelector("svg").innerHTML;
