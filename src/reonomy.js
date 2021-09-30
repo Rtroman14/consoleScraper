@@ -123,7 +123,9 @@ while (run) {
 
             let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");
 
-            contact["Contact Address"] = contactInfo[contactInfo.length - 1].innerText;
+            if (contactInfo.length) {
+                contact["Contact Address"] = contactInfo[contactInfo.length - 1].innerText;
+            }
 
             for (let info of contactInfo) {
                 let svg = info.querySelector("svg").innerHTML;
