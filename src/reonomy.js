@@ -75,8 +75,11 @@ while (run) {
             "#property-details-section-building .MuiGrid-container .MuiGrid-item:nth-child(2)"
         );
 
-        property["Year Built"] = getText(buildingSection, "dl:nth-child(1) dd");
-        property["Year Renovated"] = getText(buildingSection, "dl:nth-child(2) dd");
+        const yearBuilt = getText(buildingSection, "dl:nth-child(1) dd");
+        const yearRenovated = getText(buildingSection, "dl:nth-child(2) dd");
+
+        property["Year Built"] = yearBuilt === "--" ? "" : yearBuilt;
+        property["Year Renovated"] = yearRenovated === "--" ? "" : yearBuilt;
 
         let squareFeet = buildingSection.querySelector("dl:last-child dd").innerText.split(" ")[0];
         property["Square Feet"] = squareFeet === "--" ? "" : squareFeet;
