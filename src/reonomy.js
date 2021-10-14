@@ -55,6 +55,8 @@ while (run) {
             property.Street = property.Address.split(", ")[0];
             property.City = property.Address.split(", ")[1]; // DOUBLE CHECK
             property.Zip = property.Address.split(" ").pop();
+        } else if (property.Address.length === 2) {
+            property.State = property.Address;
         } else {
             currentState = property.Address.split(" ")[1];
             state = currentState.length > 2 ? state : currentState;
