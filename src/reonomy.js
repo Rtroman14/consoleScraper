@@ -119,11 +119,19 @@ while (run) {
             let contact = {};
 
             const fullName = getText(person, "[data-testid='people-name-id']");
+            let title = getText(person, "[data-testid='people-name-id'] ~ div");
+
+            if (title.includes("Signed mortgage")) {
+                title = "Signed mortgage";
+            } else {
+                title = title.slice(title.lastIndexOf("(")).match(/\(([^)]+)\)/)[1];
+            }
 
             contact["Full Name"] = fullName;
             contact["First Name"] = fullName.split(" ")[0] || "";
             contact["Last Name"] = fullName.split(" ").slice(1).join(" ") || "";
             contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
+            contact.Title = title;
             contact.Source = "Reonomy";
 
             let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");

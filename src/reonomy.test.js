@@ -53,6 +53,8 @@ try {
         property.Street = property.Address.split(", ")[0];
         property.City = property.Address.split(", ")[1]; // DOUBLE CHECK
         property.Zip = property.Address.split(" ").pop();
+    } else if (property.Address.length === 2) {
+        property.State = property.Address;
     } else {
         currentState = property.Address.split(" ")[1];
         state = currentState.length > 2 ? state : currentState;
@@ -61,6 +63,8 @@ try {
         property.City = property.Address.split(", ")[0];
         property.Zip = property.Address.split(" ").pop();
     }
+
+    property.State = state;
 
     // Building & Lot > Building
     let buildingSection = document.querySelector(
@@ -71,11 +75,14 @@ try {
         "#property-details-section-building .MuiGrid-container .MuiGrid-item:nth-child(2)"
     );
 
-    property["Year Built"] = getText(buildingSection, "dl:nth-child(1) dd");
-    property["Year Renovated"] = getText(buildingSection, "dl:nth-child(2) dd");
-    property["Square Feet"] = buildingSection
-        .querySelector("dl:last-child dd")
-        .innerText.split(" ")[0];
+    const yearBuilt = getText(buildingSection, "dl:nth-child(1) dd");
+    const yearRenovated = getText(buildingSection, "dl:nth-child(2) dd");
+
+    property["Year Built"] = yearBuilt === "--" ? "" : yearBuilt;
+    property["Year Renovated"] = yearRenovated === "--" ? "" : yearBuilt;
+
+    let squareFeet = buildingSection.querySelector("dl:last-child dd").innerText.split(" ")[0];
+    property["Square Feet"] = squareFeet === "--" ? "" : squareFeet;
 
     property["Building Type"] = getText(lotSection, "dl:nth-child(1) dd");
 
@@ -110,11 +117,20 @@ try {
         let contact = {};
 
         const fullName = getText(person, "[data-testid='people-name-id']");
+        let title = getText(person, "[data-testid='people-name-id'] ~ div");
+
+        if (title.includes("Signed mortgage")) {
+            title = "Signed mortgage";
+        } else {
+            title = title.slice(title.lastIndexOf("(")).match(/\(([^)]+)\)/)[1];
+        }
 
         contact["Full Name"] = fullName;
         contact["First Name"] = fullName.split(" ")[0] || "";
         contact["Last Name"] = fullName.split(" ").slice(1).join(" ") || "";
         contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
+        contact.Title = title;
+        contact.Source = "Reonomy";
 
         let contactInfo = person.querySelectorAll("[data-testid='people-contact-id'] > div");
 
@@ -132,6 +148,7 @@ try {
                 // mobile
                 contact["Phone Number"] = getText(info, "[data-testid='people-contact-phone-id']");
                 contact["Phone Type"] = "Mobile";
+                contact.Outreach = "Text";
 
                 properties.push({ ...property, ...contact });
             }
@@ -139,6 +156,7 @@ try {
                 // landline
                 contact["Phone Number"] = getText(info, "[data-testid='people-contact-phone-id']");
                 contact["Phone Type"] = "Landline";
+                contact.Outreach = "Email";
 
                 properties.push({ ...property, ...contact });
             }
