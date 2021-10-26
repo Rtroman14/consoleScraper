@@ -123,6 +123,10 @@ while (run) {
 
             if (title.includes("Signed mortgage")) {
                 title = "Signed mortgage";
+            } else if (title.includes("Reported Owner")) {
+                title = "Owner";
+            } else if (title.includes("Owner of")) {
+                title = "Owner";
             } else {
                 title = title.slice(title.lastIndexOf("(")).match(/\(([^)]+)\)/)[1];
             }
