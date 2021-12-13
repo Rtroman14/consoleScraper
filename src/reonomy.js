@@ -150,7 +150,7 @@ while (run) {
                 contact["Phone Number"] = "";
                 contact["Phone Type"] = "";
 
-                if (svg.length === 880) {
+                if (svg.length >= 850 && svg.length <= 900) {
                     // mobile
                     contact["Phone Number"] = getText(
                         info,
@@ -161,6 +161,7 @@ while (run) {
 
                     properties.push({ ...property, ...contact });
                 }
+
                 if (svg.length === 1363) {
                     // landline
                     contact["Phone Number"] = getText(

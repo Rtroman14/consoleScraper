@@ -148,7 +148,7 @@ try {
             contact["Phone Number"] = "";
             contact["Phone Type"] = "";
 
-            if (svg.length === 880) {
+            if (svg.length >= 850 && svg.length <= 900) {
                 // mobile
                 contact["Phone Number"] = getText(info, "[data-testid='people-contact-phone-id']");
                 contact["Phone Type"] = "Mobile";
@@ -189,10 +189,11 @@ try {
     // next page
     document.querySelector("#search-results-step-up").click();
     page++;
+
+    run = false;
 } catch (error) {
     console.log("CP IS A PUSS ---", error);
 
     exportFile(properties, `reonomy pages 0-${page}.json`);
     run = false;
 }
-// }
