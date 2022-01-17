@@ -44,9 +44,8 @@ while (run) {
         document.querySelector("#property-details-tab-building").click();
         await delay(4000);
 
-        let error = document.querySelector(
-            "#root > div > div > div > div:nth-child(3) > div.MuiPaper-root.jss388.jss389.jss390.jss392.MuiPaper-elevation0.MuiPaper-rounded > header > h6 > svg"
-        );
+        let error = document.querySelector("#root header > h6");
+
         if (error !== null) {
             document.querySelector("#search-results-step-up").click();
 
