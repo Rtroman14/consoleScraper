@@ -199,10 +199,12 @@ while (run) {
 
         if (page !== 0 && page % 100 === 0) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
+            properties = [];
         }
 
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}.json`);
+            properties = [];
         }
 
         // next page
