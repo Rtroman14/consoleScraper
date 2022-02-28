@@ -193,17 +193,17 @@ while (run) {
             .innerText.split("\n");
 
         if (currentProperty === totalProperties) {
-            exportFile(properties, `reonomy pages 0-${page}.json`);
+            exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
             run = false;
         }
 
-        if (page !== 0 && page % 100 === 0) {
-            exportFile(properties, `reonomy pages 0-${page}.json`);
+        if (page !== 0 && page % 500 === 0) {
+            exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
             properties = [];
         }
 
         if (!run) {
-            exportFile(properties, `reonomy pages 0-${page}.json`);
+            exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
             properties = [];
         }
 
@@ -211,9 +211,9 @@ while (run) {
         document.querySelector("#search-results-step-up").click();
         page++;
     } catch (error) {
-        console.log("CP IS A PUSS ---", error);
+        console.log("ERROR ---", error);
 
-        exportFile(properties, `reonomy pages 0-${page}.json`);
+        exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
         run = false;
     }
 }
