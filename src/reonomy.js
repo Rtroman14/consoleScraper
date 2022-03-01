@@ -30,7 +30,7 @@ const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 let page = 0;
 
-localStorage.removeItem("properties");
+localStorage.clear();
 
 let state;
 
@@ -199,11 +199,13 @@ while (run) {
 
         if (page !== 0 && page % 500 === 0) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+            localStorage.clear();
             properties = [];
         }
 
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+            localStorage.clear();
             properties = [];
         }
 
@@ -214,6 +216,7 @@ while (run) {
         console.log("ERROR ---", error);
 
         exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+        localStorage.clear();
         run = false;
     }
 }
