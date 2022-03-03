@@ -197,11 +197,22 @@ while (run) {
             run = false;
         }
 
-        if (page !== 0 && page % 500 === 0) {
+        const localStorageSize =
+            1024 * 1024 * 5 - escape(encodeURIComponent(JSON.stringify(localStorage))).length;
+
+        if (localStorageSize < 50000) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+
+            // clear local storage and properties
             localStorage.clear();
             properties = [];
         }
+
+        // if (page !== 0 && page % 500 === 0) {
+        //     exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+        //     localStorage.clear();
+        //     properties = [];
+        // }
 
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
