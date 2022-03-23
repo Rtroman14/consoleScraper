@@ -131,14 +131,18 @@ while (run) {
             const fullName = getText(person, "[data-testid='people-name-id']");
             let title = getText(person, "[data-testid='people-name-id'] ~ div");
 
-            if (title.includes("Signed mortgage")) {
-                title = "Signed mortgage";
-            } else if (title.includes("Reported Owner")) {
-                title = "Owner";
-            } else if (title.includes("Owner of")) {
-                title = "Owner";
+            if (title) {
+                if (title.includes("Signed mortgage")) {
+                    title = "Signed mortgage";
+                } else if (title.includes("Reported Owner")) {
+                    title = "Owner";
+                } else if (title.includes("Owner of")) {
+                    title = "Owner";
+                } else {
+                    title = title.slice(title.lastIndexOf("(")).match(/\(([^)]+)\)/)[1];
+                }
             } else {
-                title = title.slice(title.lastIndexOf("(")).match(/\(([^)]+)\)/)[1];
+                title = "";
             }
 
             contact["Full Name"] = fullName;
@@ -153,6 +157,8 @@ while (run) {
             if (contactInfo.length) {
                 contact["Contact Address"] = contactInfo[contactInfo.length - 1].innerText;
             }
+
+            //
 
             for (let info of contactInfo) {
                 let svg = info.querySelector("svg").innerHTML;
