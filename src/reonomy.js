@@ -30,7 +30,7 @@ const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 let page = 0;
 
-localStorage.clear();
+// localStorage.clear();
 
 let state;
 
@@ -186,7 +186,7 @@ while (run) {
             }
         }
 
-        localStorage.setItem("properties", JSON.stringify(properties));
+        // localStorage.setItem("properties", JSON.stringify(properties));
 
         const [currentProperty, , totalProperties] = document
             .querySelector("#search-box-results")
@@ -197,27 +197,31 @@ while (run) {
             run = false;
         }
 
-        const localStorageSize =
-            1024 * 1024 * 5 - escape(encodeURIComponent(JSON.stringify(localStorage))).length;
+        // const localStorageSize =
+        //     1024 * 1024 * 5 - escape(encodeURIComponent(JSON.stringify(localStorage))).length;
 
-        if (localStorageSize < 50000) {
-            exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
-
-            // clear local storage and properties
-            localStorage.clear();
-            properties = [];
-        }
-
-        // if (page !== 0 && page % 500 === 0) {
+        // if (localStorageSize < 50000) {
         //     exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+
+        //     // clear local storage and properties
         //     localStorage.clear();
         //     properties = [];
         // }
 
+        // if (page !== 0 && page % 500 === 0) {
+        //     exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+        // localStorage.clear();
+        // properties = [];
+        // }
+
+        if (properties.length % 2000 === 0) {
+            exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+        }
+
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
-            localStorage.clear();
-            properties = [];
+            // localStorage.clear();
+            // properties = [];
         }
 
         // next page
@@ -227,7 +231,7 @@ while (run) {
         console.log("ERROR ---", error);
 
         exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
-        localStorage.clear();
+        // localStorage.clear();
         run = false;
     }
 }
