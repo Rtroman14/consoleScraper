@@ -148,7 +148,7 @@ while (run) {
             contact["Full Name"] = fullName;
             contact["First Name"] = fullName.split(" ")[0] || "";
             contact["Last Name"] = fullName.split(" ").slice(1).join(" ") || "";
-            contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
+            // contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
             contact.Title = title;
             contact.Source = "Reonomy";
 
@@ -173,18 +173,26 @@ while (run) {
                         "[data-testid='people-contact-phone-id']"
                     );
                     contact["Phone Type"] = "Mobile";
+                    contact["Email"] = "";
                     contact.Outreach = "Text";
 
                     properties.push({ ...property, ...contact });
                 }
 
-                if (svg.length === 1363) {
-                    // landline
-                    contact["Phone Number"] = getText(
-                        info,
-                        "[data-testid='people-contact-phone-id']"
-                    );
-                    contact["Phone Type"] = "Landline";
+                // if (svg.length === 1363) {
+                //     // landline
+                //     contact["Phone Number"] = getText(info, "[data-testid='people-contact-phone-id']");
+                //     contact["Phone Type"] = "Landline";
+                //     contact.Outreach = "Email";
+
+                //     properties.push({ ...property, ...contact });
+                // }
+
+                if (svg.length === 629) {
+                    // email
+                    contact["Email"] = getText(person, "[data-testid='people-contact-email-id']");
+                    contact["Phone Number"] = "";
+                    contact["Phone Type"] = "";
                     contact.Outreach = "Email";
 
                     properties.push({ ...property, ...contact });
@@ -220,7 +228,7 @@ while (run) {
         // properties = [];
         // }
 
-        if (properties.length % 2000 === 0) {
+        if (page % 200 === 0) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
         }
 
