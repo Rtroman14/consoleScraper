@@ -208,6 +208,7 @@ while (run) {
 
         if (currentProperty === totalProperties) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+            properties = [];
             run = false;
         }
 
@@ -228,14 +229,15 @@ while (run) {
         // properties = [];
         // }
 
-        if (page % 200 === 0) {
+        if (page % 400 === 0) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+            properties = [];
         }
 
         if (!run) {
             exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+            properties = [];
             // localStorage.clear();
-            // properties = [];
         }
 
         // next page
@@ -245,6 +247,7 @@ while (run) {
         console.log("ERROR ---", error);
 
         exportFile(properties, `reonomy pages 0-${page}_${state || ""}.json`);
+        properties = [];
         // localStorage.clear();
         run = false;
     }
